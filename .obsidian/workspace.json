@@ -13,13 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Bar'duum.md",
+                "file": "Technology/Warforged.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bar'duum"
+              }
             }
           }
         ]
@@ -42,9 +39,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
@@ -59,9 +54,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -69,9 +62,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Bar'duum.md",
+                "file": "Technology/Warforged.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +93,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Bar'duum"
+              }
             }
           },
           {
@@ -113,12 +102,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Bar'duum.md",
+                "file": "Technology/Warforged.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Bar'duum"
+              }
             }
           },
           {
@@ -129,9 +116,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -140,18 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Bar'duum.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Bar'duum"
+                "file": "Technology/Warforged.md"
+              }
+            }
+          },
+          {
+            "id": "d80c75e904dcb1f4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,52 +151,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b7a5b25233102cd",
+  "active": "77242d2a6153b421",
   "lastOpenFiles": [
+    "Premise.md",
+    "Technology/Screamer.md",
+    "Technology/Host.md",
+    "Technology/Cryogenic Capsule.md",
+    "Technology/Colossi.md",
+    "README.md",
+    "Factions/Followers of the Cycle.md",
+    "Factions/New Gods.md",
+    "Factions/Solassian Concordat.md",
+    "Factions/Stålråd.md",
+    "Characters/Obzidon.md",
+    "Factions/Untitled",
+    "Characters/Vaad.md",
+    "Characters/The Last Legion.md",
+    "Characters/Khamil Morthos.md",
+    "Magic/Lich.md",
+    "Technology/Warforged.md",
     "Locations/Splint.md",
     "Locations/Bar'duum.md",
-    "Premise.md",
-    "Technology/Cryogenic Capsule.md",
+    "Characters/Halion Kal.md",
+    "Conditions/Spellrot.md",
+    "Magic/Sacrifice.md",
+    "Conditions",
     "Metaphysics/Elemental.md",
     "Metaphysics/Spirit.md",
     "Locations/Sunlancer.md",
-    "Factions/Followers of the Cycle.md",
-    "Factions/Solassian Concordat.md",
     "Images/Primal.jpg",
     "Images/Fiend.jpg",
     "Metaphysics/God.md",
     "Metaphysics/Fiend.md",
-    "Magic/Leyline Dust.md",
-    "README.md",
-    "Characters/Vaad.md",
     "Characters/Untitled",
-    "Factions/Stålråd.md",
     "Images/HalionKal.jpg",
-    "Characters/Halion Kal.md",
     "Characters",
     "Magic",
     "Technology",
-    "Metaphysics/Primal.md",
     "Images/Fey.jpg",
     "Images/Elemental.png",
-    "Metaphysics/Fey.md",
-    "Metaphysics/Celestial.md",
     "Images/Celestial.jpg",
     "Images/Sunlancer.jpg",
     "Images/Splint.jpg",
-    "Clerics/Cleric.md",
     "Images/Barduum.jpg",
     "Clerics",
     "Locations",
     "Events",
     "Images/God.jpg",
-    "Gods.md",
-    "Factions",
-    "Images",
-    "Metaphysics",
-    "Welcome.md"
+    "Factions"
   ]
 }
