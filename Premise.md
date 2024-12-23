@@ -1,1 +1,0 @@
-Long ago, an empire of collectivist magic-users clashed with a faction of individualist technologists over some unknown event. The resulting war and its arms race tor the world asunder. Now we stride across the ashes of a once-glorious country, nipping at the heels of dead giants.
