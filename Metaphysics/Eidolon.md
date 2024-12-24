@@ -4,4 +4,4 @@ Eidolons possess a level of intelligence and wisdom in accordance with their ori
 
 [[Shaman]]s can derive their mysticism from sufficiently powerful Eidolons, but they represent a precarious form of power; Eidolons will only grant their powers to those they respect, so Shamans must practice a combination of strength, wisdom, or submission, depending on the Eidolon in question.
 
-![[Primal.jpg]]
+![[Eidolon.jpg]]

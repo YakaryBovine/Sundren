@@ -5,3 +5,5 @@ No matter how refined the process became over the [[The Last War|the Last War]],
 As the War pressed on, these new Warforged mentally deteriorated even further, though their bodies remained as robust as ever and their skill in combat remained mostly unaffected. But when the conflict ended they were left without a distraction from the ticking, and they began to scream. They screamed because they had forgotten who they were but still remembered those they had killed, they screamed because all they could see were sick, twisted distortions of reality, and they screamed because the ticking only grew louder, and today they scream because their existences are defined by pain. 
 
 Screamers, as they are called by those in the Dredge, are relentlessly violent and cannot be reasoned with. They travel in sizable groups in search for distractions from the agony. Fortunately, a Screamer attack never truly comes as a surprise. They can be heard from miles away.
+
+![[Screamer.jpg]]
