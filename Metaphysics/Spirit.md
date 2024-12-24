@@ -6,13 +6,14 @@ The first Material Plane discovery that a Spirit makes determines its form, pers
 
 Spirits can be destroyed. For an Unawakened Spirit, death is as inconsequential as any other possible event, for the event will effectively never have happened as of the next moment. But for an Awakened Spirit, death is a catastrophic event that obliterates everything about it. The Spirit's memories, physical form, and ability to sustain permanence are lost. It reverts back to an Unawakened Spirit, forgetting it ever knew of anything else.
 
-| Spirit        | Origin          |
-| ------------- | --------------- |
-| [[God]]       | Mortal concept  |
-| [[Primal]]    | Natural concept |
-| [[Celestial]] | Good deed       |
-| [[Fiend]]     | Evil deed       |
-| [[Fey]]       | Deceptive deed  |
-| [[Elemental]] | Natural entity  |
+| Spirit        | Origin                  |
+| ------------- | ----------------------- |
+| [[God]]       | Mortal concept          |
+| [[Primal]]    | Natural concept         |
+| [[Celestial]] | Good deed               |
+| [[Fiend]]     | Evil deed               |
+| [[Fey]]       | Deceptive deed          |
+| [[Elemental]] | Natural entity          |
+| [[Eidolon]]   | Folk tales of an animal |
 
 ![[Spirit.jpg]]
