@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Sacrifice.md",
+                "file": "Rules/Skills.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sacrifice"
+              "title": "Skills"
             }
           }
         ]
@@ -172,8 +172,12 @@
   },
   "active": "f7463584d0ad4048",
   "lastOpenFiles": [
-    "Magic/Lich.md",
+    "Rules/Skill Checks.md",
+    "Rules/Attributes.md",
+    "Rules/Skills.md",
     "Magic/Sacrifice.md",
+    "Rules",
+    "Magic/Lich.md",
     "Metaphysics/Celestial.md",
     "Metaphysics/Eidolon.md",
     "Metaphysics/Elemental.md",
@@ -202,9 +206,7 @@
     "Events/Operation Oblivion.md",
     "Factions/Solassian Concordat.md",
     "Factions/Stålråd.md",
-    "Locations/Sunlancer.md",
     "Events",
-    "Locations/Bar'duum.md",
     "Factions/Untitled",
     "Conditions",
     "Images/Fiend.jpg",
@@ -215,7 +217,6 @@
     "Technology",
     "Images/Fey.jpg",
     "Clerics",
-    "Locations",
-    "Events"
+    "Locations"
   ]
 }
