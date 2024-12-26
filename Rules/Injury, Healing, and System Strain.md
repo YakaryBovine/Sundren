@@ -29,7 +29,7 @@ A character’s maximum System Strain is equal to their Constitution [[Attribute
 
 Healing often adds to a target’s System Strain, whether as first aid or as the effect of some magical power. If the target is already at its maximum System Strain, it can’t handle the additional stress and gets no benefit from the effect or attempting healing.
 ## Poisons and Diseases
-When a character is struck by some poison, they generally get a Physical saving throw to avoid its effect, or at least mitigate its harm. Particularly powerful poisons might apply a penalty of up to -4 on this check, while weak toxins might grant a bonus of up to +4. The exact effect of a failed save depends on the poison. 
+When a character is struck by some poison, they generally get a Physical [[Saving Throws|saving throw]] to avoid its effect, or at least mitigate its harm. Particularly powerful poisons might apply a penalty of up to -4 on this check, while weak toxins might grant a bonus of up to +4. The exact effect of a failed save depends on the poison. 
 
 Diseases also generally allow a Physical saving throw, but are significantly slower in onset. If the first saving throw is a success, the target has avoided infection. If it’s a failure, the disease begins to take hold. The victim can make further saving throw attempts at weekly intervals, generally, with a certain number of successes sufficient to throw off the disease. Each failed save tends to make things worse, however, and fatal diseases can kill after three or four failed saves. 
 
