@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "undame",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,9 +173,10 @@
   },
   "active": "157925641d731d6f",
   "lastOpenFiles": [
+    "Worldbuilding/Characters/Khamil Morthos.md",
+    "Worldbuilding/Magic/Magic.md",
     "README.md",
     "Worldbuilding/Magic/Lich.md",
-    "Worldbuilding/Magic/Magic.md",
     "Rules/Attributes.md",
     "Worldbuilding/Characters/The Last Legion.md",
     "Worldbuilding/Locations/Splint.md",
@@ -187,7 +189,6 @@
     "Worldbuilding/Characters/Obzidon.md",
     "Worldbuilding/Factions/New Gods.md",
     "Worldbuilding/Magic/Leyline Dust.md",
-    "Worldbuilding/Characters/Khamil Morthos.md",
     "Worldbuilding/Metaphysics/God.md",
     "Worldbuilding/Locations/Bar'duum.md",
     "Worldbuilding/Characters/Halion Kal.md",

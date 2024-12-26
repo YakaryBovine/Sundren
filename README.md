@@ -1,5 +1,5 @@
 An Obsidian vault containing worldbuilding lore and rules for my homebrew world, Sundered.
->Long ago, an empire of collectivist magic-users clashed with a faction of individualist technologists over fundamental differences ideology. The resulting war and its arms race tor the world asunder. Now we stride across the ashes of a once-glorious country, nipping at the heels of dead giants.
+>Long ago, an empire of collectivist magic-users clashed with a faction of individualist technologists over fundamental ideological differences. The resulting war and its arms race tor the world asunder. Now we stride across the ashes of a once-glorious country, nipping at the heels of dead giants.
 ### Rules
 The Rules section contains all of the rules relevant to playing in my campaign. The vast majority of them are taken from [Worlds Without Number by Kevin Crawford](https://www.drivethrurpg.com/en/product/348791/worlds-without-number), with minor alterations to the wording, formatting, and content to fit my game.
 
