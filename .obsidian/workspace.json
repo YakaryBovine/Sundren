@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ceab54baeac4c159",
+        "id": "9bcc87e0f99d5e35",
         "type": "tabs",
         "children": [
           {
-            "id": "157925641d731d6f",
+            "id": "d7c00c5c336db696",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Rules/Combat/Actions in Combat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Actions in Combat"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,37 +170,40 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "157925641d731d6f",
+  "active": "d7c00c5c336db696",
   "lastOpenFiles": [
-    "Worldbuilding/Characters/Khamil Morthos.md",
-    "Worldbuilding/Magic/Magic.md",
-    "README.md",
-    "Worldbuilding/Magic/Lich.md",
+    "Rules/Combat/Rounds, Initiative, and Surprise.md",
+    "Rules/Combat/Actions in Combat.md",
+    "Rules/Classes/Warrior.md",
     "Rules/Attributes.md",
-    "Worldbuilding/Characters/The Last Legion.md",
-    "Worldbuilding/Locations/Splint.md",
+    "Rules/Combat",
+    "Worldbuilding/Magic/Magic.md",
+    "Worldbuilding/Metaphysics/Primal.md",
+    "Worldbuilding/Magic/Sacrifice.md",
+    "Worldbuilding/Magic/Leyline Dust.md",
+    "Worldbuilding/Metaphysics/Eidolon.md",
+    "Worldbuilding/Metaphysics/Fey.md",
+    "Worldbuilding/Images/Elemental.png",
+    "Worldbuilding/Images/Barduum.jpg",
     "Worldbuilding/Conditions/Spellrot.md",
+    "Worldbuilding/Characters/The Last Legion.md",
+    "Worldbuilding/Metaphysics/Celestial.md",
+    "Worldbuilding/Metaphysics/Elemental.md",
+    "Worldbuilding/Metaphysics/Fiend.md",
+    "Worldbuilding/Metaphysics/God.md",
+    "Worldbuilding/Locations/Splint.md",
+    "Rules/Skill Checks.md",
+    "README.md",
+    "Worldbuilding/Characters/Khamil Morthos.md",
+    "Worldbuilding/Magic/Lich.md",
     "Worldbuilding/Factions/Solassian Concordat.md",
     "Rules/Skills.md",
-    "Rules/Skill Checks.md",
-    "Worldbuilding/Magic/Sacrifice.md",
     "Worldbuilding/Events/Operation Oblivion.md",
     "Worldbuilding/Characters/Obzidon.md",
     "Worldbuilding/Factions/New Gods.md",
-    "Worldbuilding/Magic/Leyline Dust.md",
-    "Worldbuilding/Metaphysics/God.md",
-    "Worldbuilding/Locations/Bar'duum.md",
-    "Worldbuilding/Characters/Halion Kal.md",
-    "Worldbuilding/Locations/Sunlancer.md",
-    "Spirit World.md",
-    "Rules/Classes/Warrior.md",
     "Rules/Classes",
     "Worldbuilding",
     "Rules",
-    "Worldbuilding/Metaphysics/Celestial.md",
-    "Worldbuilding/Metaphysics/Eidolon.md",
-    "Worldbuilding/Metaphysics/Elemental.md",
-    "Worldbuilding/Metaphysics/Fey.md",
     "Worldbuilding/Images/Primal.jpg",
     "Worldbuilding/Images/Eidolon.jpg",
     "Worldbuilding/Images/Warforged.jpg",
@@ -214,10 +216,7 @@
     "Worldbuilding/Conditions",
     "Worldbuilding/Images/Fiend.jpg",
     "Characters/Untitled",
-    "Worldbuilding/Images/HalionKal.jpg",
     "Worldbuilding/Characters",
-    "Worldbuilding/Magic",
-    "Worldbuilding/Technology",
-    "Worldbuilding/Images/Fey.jpg"
+    "Worldbuilding/Magic"
   ]
 }
