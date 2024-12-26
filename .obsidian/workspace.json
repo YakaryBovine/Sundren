@@ -11,13 +11,14 @@
             "id": "d7c00c5c336db696",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Warrior.md",
-                "staged": false
+                "file": "Rules/Combat/Attacking.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Warrior)"
+              "icon": "lucide-file",
+              "title": "Attacking"
             }
           }
         ]
@@ -171,6 +172,7 @@
   },
   "active": "d7c00c5c336db696",
   "lastOpenFiles": [
+    "Rules/Combat/Rounds, Initiative, and Surprise.md",
     "Rules/Classes/Warrior.md",
     "Rules/Combat/Actions in Combat.md",
     "Rules/Combat/Attacking.md",
@@ -178,7 +180,6 @@
     "Worldbuilding/Technology/Cryogenic Capsule.md",
     "Worldbuilding/Metaphysics/Fiend.md",
     "Worldbuilding/Metaphysics/Fey.md",
-    "Rules/Combat/Rounds, Initiative, and Surprise.md",
     "Rules/Attributes.md",
     "Rules/Skill Checks.md",
     "Rules/Combat",
