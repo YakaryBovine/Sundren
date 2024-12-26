@@ -11,13 +11,14 @@
             "id": "157925641d731d6f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "README.md",
-                "staged": false
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (README)"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -169,7 +170,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d80c75e904dcb1f4",
+  "active": "157925641d731d6f",
   "lastOpenFiles": [
     "README.md",
     "Worldbuilding/Magic/Lich.md",
