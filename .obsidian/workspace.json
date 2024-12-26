@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,7 +170,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ed9fdfed64bc6fda",
+  "active": "77242d2a6153b421",
   "lastOpenFiles": [
     "Rules/Fundamentals/Attributes.md",
     "Rules/Combat/Execution Attacks.md",

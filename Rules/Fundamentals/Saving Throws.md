@@ -12,3 +12,7 @@ To make a saving throw, the subject rolls a d20 and tries to roll equal or highe
 
 > [!NOTE] Last-ditch efforts
 > Saving throws are meant to be last-ditch chances to avoid the worst of unusual perils or uncommon dangers. You can’t make an Evasion saving throw to dodge a sword stroke; that’s what the [[Attacking#Hit Rolls|hit roll]] is for. It’s up to the GM to decide whether a particular danger might allow a saving throw or not.
+## Monsters and Saving Throws
+Monsters, NPCs, and other creatures other than PCs don’t bother with four different saving throws. Instead, they just have a single save equal to 15 minus half their hit dice, rounded down. Thus, a peasant with one hit die would have to roll 15 or better to make a saving throw against something, while a slavering hell-beast with 14 hit dice would only need to roll 8+ to succeed.
+
+Some monsters might have particular bonuses against certain kinds of effects or perils, and the GM might decide to give some exceptional humans a boost based on their possession of unusual quickness or bodily fortitude.
