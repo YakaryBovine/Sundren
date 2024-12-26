@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9bcc87e0f99d5e35",
+        "id": "3c202d6d4ec54599",
         "type": "tabs",
         "children": [
           {
-            "id": "d7c00c5c336db696",
+            "id": "2c3b8ec7049e1e0c",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Rules/Combat/Attacking.md",
-                "staged": false
+                "file": "Rules/Combat/Shoving and Grappling.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Attacking)"
+              "icon": "lucide-file",
+              "title": "Shoving and Grappling"
             }
           }
         ]
@@ -51,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "undame",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,20 +170,25 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d80c75e904dcb1f4",
+  "active": "2c3b8ec7049e1e0c",
   "lastOpenFiles": [
     "Rules/Combat/Attacking.md",
+    "Rules/Combat/Shoving and Grappling.md",
+    "Rules/Combat/Dual-Wielding Weapons.md",
     "Rules/Combat/Rounds, Initiative, and Surprise.md",
-    "Rules/Classes/Warrior.md",
     "Rules/Combat/Actions in Combat.md",
+    "Rules/Combat/Shock Damage.md",
+    "Rules/Attributes.md",
+    "Rules/Classes/Warrior.md",
+    "Worldbuilding/Characters/Khamil Morthos.md",
+    "Rules/Combat/Hit Roll Modifiers.md",
+    "Worldbuilding/Magic/Magic.md",
     "Worldbuilding/Technology/Colossus.md",
     "Worldbuilding/Technology/Cryogenic Capsule.md",
     "Worldbuilding/Metaphysics/Fiend.md",
     "Worldbuilding/Metaphysics/Fey.md",
-    "Rules/Attributes.md",
     "Rules/Skill Checks.md",
     "Rules/Combat",
-    "Worldbuilding/Magic/Magic.md",
     "Worldbuilding/Metaphysics/Primal.md",
     "Worldbuilding/Magic/Sacrifice.md",
     "Worldbuilding/Magic/Leyline Dust.md",
@@ -195,11 +201,6 @@
     "Worldbuilding/Metaphysics/Elemental.md",
     "Worldbuilding/Metaphysics/God.md",
     "Worldbuilding/Locations/Splint.md",
-    "README.md",
-    "Worldbuilding/Characters/Khamil Morthos.md",
-    "Worldbuilding/Magic/Lich.md",
-    "Worldbuilding/Factions/Solassian Concordat.md",
-    "Rules/Skills.md",
     "Rules/Classes",
     "Worldbuilding",
     "Rules",

@@ -16,7 +16,7 @@ Three are mental attributes.
 
 NPCs do not normally have attributes. If necessary, the GM can choose them as appropriate, but usually they are assumed to have average scores if it’s ever relevant.
 ### Attribute Modifiers
-Each attribute has a modifier, usually ranging from -2 to +2. This modifier is added to [[Skill Checks]], attack rolls, damage rolls, Shock damage, and the relevant saving throw targets. 
+Each attribute has a modifier, usually ranging from -2 to +2. This modifier is added to [[Skill Checks]], attack rolls, damage rolls, [[Shock Damage|Shock damage]], and the relevant saving throw targets. 
 
 An attribute score of 3 has a modifier of -2. A score of 4-7 has a modifier of -1. A score of 8-13 has a modifier of +0. A score of 14-17 has a modifier of +1. A score of 18 has a modifier of +2. 
 
