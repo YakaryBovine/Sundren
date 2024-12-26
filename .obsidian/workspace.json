@@ -11,13 +11,14 @@
             "id": "ed9fdfed64bc6fda",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Rules/Combat/Combat Sequence.md",
-                "staged": false
+                "file": "Rules/Combat/Attack Rolls.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Combat Sequence)"
+              "icon": "lucide-file",
+              "title": "Attack Rolls"
             }
           }
         ]
@@ -169,12 +170,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d80c75e904dcb1f4",
+  "active": "ed9fdfed64bc6fda",
   "lastOpenFiles": [
-    "Rules/Combat/Combat Attack Rolls.md",
-    "Rules/Combat/Combat Action Types.md",
-    "Rules/Combat/Combat Sequence.md",
     "Rules/Combat/Common Combat Actions.md",
+    "Rules/Combat/Attack Rolls.md",
+    "Rules/Combat/Action Types.md",
+    "Rules/Combat/Combat Sequence.md",
     "Rules/Combat/Scenes, Rounds, and Mission Time.md",
     "Rules/Combat/Rounds and Surprise.md",
     "Rules/Combat/Execution Attacks.md",

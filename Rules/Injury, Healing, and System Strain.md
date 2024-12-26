@@ -1,7 +1,7 @@
 ## Mortal Wounds and Stabilizing
 A creature reduced to zero hit points is dead or dying. Ordinary NPCs or unremarkable creatures will generally die on the spot. PCs and those NPCs important enough to have deserved a name will be Mortally Wounded. 
 
-A Mortally Wounded creature is helpless, unable to do anything but scream, writhe, or lie unconscious. At the end of the sixth round after they were downed, they will die. They’ll die instantly if they take more damage. An ally can attempt to stabilize a Mortally Wounded companion. Doing so is generally an Int/Heal or Dex/ Heal [[Skill Checks|skill check]], one requiring a [[Combat Action Types#Main Actions|Main Action]]. 
+A Mortally Wounded creature is helpless, unable to do anything but scream, writhe, or lie unconscious. At the end of the sixth round after they were downed, they will die. They’ll die instantly if they take more damage. An ally can attempt to stabilize a Mortally Wounded companion. Doing so is generally an Int/Heal or Dex/ Heal [[Skill Checks|skill check]], one requiring a [[Action Types#Main Actions|Main Action]]. 
 
 The difficulty for this skill check is 8 plus the number of full rounds since the target was downed. If the healer lacks any useful medical implements, the difficulty for this skill check is increased by 2. Only one ally can try to stabilize a target in any given round, though others can attempt to aid their skill check, and a failed check can be re-attempted the next round.
 
