@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Combat/Shoving and Grappling.md",
+                "file": "Rules/Combat/Common Combat Actions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shoving and Grappling"
+              "title": "Common Combat Actions"
             }
           }
         ]
@@ -172,11 +172,13 @@
   },
   "active": "2c3b8ec7049e1e0c",
   "lastOpenFiles": [
-    "Rules/Combat/Attacking.md",
-    "Rules/Combat/Shoving and Grappling.md",
     "Rules/Combat/Dual-Wielding Weapons.md",
-    "Rules/Combat/Rounds, Initiative, and Surprise.md",
+    "Rules/Combat/Common Combat Actions.md",
     "Rules/Combat/Actions in Combat.md",
+    "Rules/Combat/Execution Attacks.md",
+    "Rules/Combat/Shoving and Grappling.md",
+    "Rules/Combat/Attacking.md",
+    "Rules/Combat/Rounds, Initiative, and Surprise.md",
     "Rules/Combat/Shock Damage.md",
     "Rules/Attributes.md",
     "Rules/Classes/Warrior.md",
@@ -199,8 +201,6 @@
     "Worldbuilding/Characters/The Last Legion.md",
     "Worldbuilding/Metaphysics/Celestial.md",
     "Worldbuilding/Metaphysics/Elemental.md",
-    "Worldbuilding/Metaphysics/God.md",
-    "Worldbuilding/Locations/Splint.md",
     "Rules/Classes",
     "Worldbuilding",
     "Rules",

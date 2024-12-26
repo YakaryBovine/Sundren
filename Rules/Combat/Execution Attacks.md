@@ -1,0 +1,9 @@
+A target that is completely unaware of danger is vulnerable to a quick and bloody death, no matter how great their martial prowess or how thick their armor. An Execution Attack gives an assailant an opportunity to slay a foe with a single well-placed arrow or blade. 
+
+Setting up such an attack requires a full minute of preparation. Archers, gunmen, and other ranged attackers must spend it judging distance, wind, and details of aim, while melee assassins must use it to drift up to the target and position themselves in the exact right place for the attack. Melee assassins must use a weapon for an Execution Attack, unless they have such special training as to make their unarmed attacks unusually lethal. If the target is spooked, the opportunity is lost.
+
+Once the preparation is complete, the assailant may use a [[Actions in Combat#Main Actions|Main Action]] to attack. The target’s Armor Class is irrelevant, assuming the attacker is using a weapon that can hurt the target. A melee Execution Attack will always hit. A ranged Execution Attack requires a Dex/Shoot [[Skill Checks|Skill Check]] against a difficulty of 6 for a point-blank shot, 8 for one at the weapon’s normal range, and 10 for a shot at extreme range. A [[Warrior]] can use their [[Warrior#Class Ability Veteran's Luck|Veteran's Luck]] ability with this skill check, but it only allows a reroll on a failed check rather than forcing an automatic hit. 
+
+If the Execution Attack hits, the target must make an immediate Physical saving throw at a penalty equal to the attacker’s combat skill level. If they fail, they are Mortally Wounded on the spot, or knocked unconscious if the attacker was using a plausibly non-lethal weapon. If they succeed, the weapon still does its maximum damage. 
+
+Attacking an unconscious or incapacitated target will always leave them Mortally Wounded.
