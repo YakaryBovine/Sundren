@@ -17,7 +17,7 @@ Warriors have more hit points than heroes of other class, and are capable of sur
 | 9     | 9d6+18   | +9           |                   |
 | 10    | 10d6+20  | +10          | +1 Any            |
 ## Class Ability: Killing Blow 
-Whenever a Warrior inflicts damage with any attack, spell, or special ability they may add half their character level, rounded up, to the damage done. This damage is also added to any Shock they may inflict. Combined with Foci meant to improve Shock at tacks such as [[Armsmaster]], [[Close Combatant]], or [[Shocking Assault]], this ability ensures that an experienced Warrior will almost always kill any ordinary human soldier or minor monster, regardless of their attack roll result.
+Whenever a Warrior inflicts damage with any [[Attacking|attack]], spell, or special ability they may add half their character level, rounded up, to the damage done. This damage is also added to any Shock they may inflict. Combined with Foci meant to improve Shock at tacks such as [[Armsmaster]], [[Close Combatant]], or [[Shocking Assault]], this ability ensures that an experienced Warrior will almost always kill any ordinary human soldier or minor monster, regardless of their attack roll result.
 ## Class Ability: Veteran's Luck
 Once per scene, as an Instant action, the Warrior may turn a missed attack they have made into a hit. Alternately, they may turn a successful attack against them into a miss, also as an Instant action. This ability is particularly lethal when used with the Make a Snap Attack action and leveled against weaker monsters or ordinary human warriors, as explained on page 44. 
 

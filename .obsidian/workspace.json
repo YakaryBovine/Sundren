@@ -11,14 +11,13 @@
             "id": "d7c00c5c336db696",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Rules/Combat/Actions in Combat.md",
-                "mode": "source",
-                "source": false
+                "file": "Rules/Classes/Warrior.md",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "Actions in Combat"
+              "icon": "git-pull-request",
+              "title": "Diff View (Warrior)"
             }
           }
         ]
@@ -172,35 +171,35 @@
   },
   "active": "d7c00c5c336db696",
   "lastOpenFiles": [
-    "Rules/Combat/Rounds, Initiative, and Surprise.md",
-    "Rules/Combat/Actions in Combat.md",
     "Rules/Classes/Warrior.md",
+    "Rules/Combat/Actions in Combat.md",
+    "Rules/Combat/Attacking.md",
+    "Worldbuilding/Technology/Colossus.md",
+    "Worldbuilding/Technology/Cryogenic Capsule.md",
+    "Worldbuilding/Metaphysics/Fiend.md",
+    "Worldbuilding/Metaphysics/Fey.md",
+    "Rules/Combat/Rounds, Initiative, and Surprise.md",
     "Rules/Attributes.md",
+    "Rules/Skill Checks.md",
     "Rules/Combat",
     "Worldbuilding/Magic/Magic.md",
     "Worldbuilding/Metaphysics/Primal.md",
     "Worldbuilding/Magic/Sacrifice.md",
     "Worldbuilding/Magic/Leyline Dust.md",
     "Worldbuilding/Metaphysics/Eidolon.md",
-    "Worldbuilding/Metaphysics/Fey.md",
     "Worldbuilding/Images/Elemental.png",
     "Worldbuilding/Images/Barduum.jpg",
     "Worldbuilding/Conditions/Spellrot.md",
     "Worldbuilding/Characters/The Last Legion.md",
     "Worldbuilding/Metaphysics/Celestial.md",
     "Worldbuilding/Metaphysics/Elemental.md",
-    "Worldbuilding/Metaphysics/Fiend.md",
     "Worldbuilding/Metaphysics/God.md",
     "Worldbuilding/Locations/Splint.md",
-    "Rules/Skill Checks.md",
     "README.md",
     "Worldbuilding/Characters/Khamil Morthos.md",
     "Worldbuilding/Magic/Lich.md",
     "Worldbuilding/Factions/Solassian Concordat.md",
     "Rules/Skills.md",
-    "Worldbuilding/Events/Operation Oblivion.md",
-    "Worldbuilding/Characters/Obzidon.md",
-    "Worldbuilding/Factions/New Gods.md",
     "Rules/Classes",
     "Worldbuilding",
     "Rules",
