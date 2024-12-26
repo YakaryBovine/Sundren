@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3c202d6d4ec54599",
+        "id": "bc2a78de241f9f13",
         "type": "tabs",
         "children": [
           {
-            "id": "2c3b8ec7049e1e0c",
+            "id": "8d389deffbbc3091",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/Combat/Common Combat Actions.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Common Combat Actions"
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mortally wound",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +69,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,17 +167,21 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "2c3b8ec7049e1e0c",
+  "active": "d80c75e904dcb1f4",
   "lastOpenFiles": [
-    "Rules/Combat/Dual-Wielding Weapons.md",
-    "Rules/Combat/Common Combat Actions.md",
-    "Rules/Combat/Actions in Combat.md",
+    "Rules/Skills.md",
+    "Rules/Injury, Healing, and System Strain.md",
     "Rules/Combat/Execution Attacks.md",
-    "Rules/Combat/Shoving and Grappling.md",
     "Rules/Combat/Attacking.md",
-    "Rules/Combat/Rounds, Initiative, and Surprise.md",
-    "Rules/Combat/Shock Damage.md",
     "Rules/Attributes.md",
+    "Rules/Untitled",
+    "Rules/Skill Checks.md",
+    "Rules/Combat/Shoving and Grappling.md",
+    "Rules/Combat/Shock Damage.md",
+    "Rules/Combat/Common Combat Actions.md",
+    "Rules/Combat/Dual-Wielding Weapons.md",
+    "Rules/Combat/Actions in Combat.md",
+    "Rules/Combat/Rounds, Initiative, and Surprise.md",
     "Rules/Classes/Warrior.md",
     "Worldbuilding/Characters/Khamil Morthos.md",
     "Rules/Combat/Hit Roll Modifiers.md",
@@ -189,7 +190,6 @@
     "Worldbuilding/Technology/Cryogenic Capsule.md",
     "Worldbuilding/Metaphysics/Fiend.md",
     "Worldbuilding/Metaphysics/Fey.md",
-    "Rules/Skill Checks.md",
     "Rules/Combat",
     "Worldbuilding/Metaphysics/Primal.md",
     "Worldbuilding/Magic/Sacrifice.md",
@@ -199,8 +199,6 @@
     "Worldbuilding/Images/Barduum.jpg",
     "Worldbuilding/Conditions/Spellrot.md",
     "Worldbuilding/Characters/The Last Legion.md",
-    "Worldbuilding/Metaphysics/Celestial.md",
-    "Worldbuilding/Metaphysics/Elemental.md",
     "Rules/Classes",
     "Worldbuilding",
     "Rules",
@@ -216,7 +214,6 @@
     "Worldbuilding/Conditions",
     "Worldbuilding/Images/Fiend.jpg",
     "Characters/Untitled",
-    "Worldbuilding/Characters",
-    "Worldbuilding/Magic"
+    "Worldbuilding/Characters"
   ]
 }

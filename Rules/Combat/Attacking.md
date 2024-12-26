@@ -4,7 +4,7 @@ To make a hit roll, the attacker rolls a d20 and adds their relevant combat skil
 ### Damage Rolls
 If the total is equal or greater than the target’s Armor Class, then the attack hits and damage is rolled. If less, then the attack misses. A missed melee attack may still inflict [[Shock Damage|Shock damage]] damage, if the weapon has a Shock rating and the target’s Armor Class is equal or lower than it. To roll damage, the attacker rolls the weapon’s listed Shock Damage damage die and adds their relevant attribute modifier and any bonus from a magical weapon, Focus, or other special benefit. 
 
-The damage is then subtracted from the target’s hit points. If the target is reduced to zero hit points, it is either dead or mortally wounded. Generic NPCs with no name worth remembering are usually dead on the spot. PCs and NPCs significant enough to deserve characterization are instead Mortally Wounded. 
+The damage is then subtracted from the target’s hit points. If the target is reduced to zero hit points, it is either dead or [[Injury, Healing, and System Strain#Mortal Wounds and Stabilizing|mortally wounded]]. Generic NPCs with no name worth remembering are usually dead on the spot. PCs and NPCs significant enough to deserve characterization are instead Mortally Wounded. 
 
 > [!tip] Hits in the Fiction
 > A “hit” in combat doesn’t always mean a physical blow landed. Creatures or PCs with many hit points might take several “hits” before actually going down. In such a case, these successful hits are blows that exhaust the target, tax their luck, force them out of position, or otherwise bring them closer to losing. It may be that the only serious physical hit is the one that brings them down.
