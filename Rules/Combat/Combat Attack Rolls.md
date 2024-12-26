@@ -1,4 +1,4 @@
-When a combatant wants to harm an enemy, they need to make a hit roll. An attack usually counts as a [[Actions in Combat#Main Actions|Main Action]] and the assailant must be close enough to actually hit the target with whatever weapon they have to hand.
+When a combatant wants to harm an enemy, they need to make a hit roll. An attack usually counts as a [[Combat Action Types#Main Actions|Main Action]] and the assailant must be close enough to actually hit the target with whatever weapon they have to hand.
 ### Hit Rolls
 To make a hit roll, the attacker rolls a d20 and adds their relevant combat skill, their class attack bonus, and their relevant [[Attributes#Attribute Modifiers|attribute modifier]]. If they lack even level-0 skill in the weapon being used, they suffer a -2 penalty. Any other situational modifiers or penalties are also added to the roll.
 ### Damage Rolls

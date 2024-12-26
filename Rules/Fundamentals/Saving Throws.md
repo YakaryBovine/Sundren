@@ -11,7 +11,7 @@ To make a saving throw, the subject rolls a d20 and tries to roll equal or highe
 **Luck saves** are for occasions of blind random for tune, where no quality of personal strength or cunning can help the hero. The GM might call for a Luck save when it really is nothing but sheer good luck that a hero might avoid some danger. Luck saves for a PC are equal to sixteen minus the hero’s level, unmodified by any attribute.
 
 > [!NOTE] Last-ditch efforts
-> Saving throws are meant to be last-ditch chances to avoid the worst of unusual perils or uncommon dangers. You can’t make an Evasion saving throw to dodge a sword stroke; that’s what the [[Attacking#Hit Rolls|hit roll]] is for. It’s up to the GM to decide whether a particular danger might allow a saving throw or not.
+> Saving throws are meant to be last-ditch chances to avoid the worst of unusual perils or uncommon dangers. You can’t make an Evasion saving throw to dodge a sword stroke; that’s what the [[Combat Attack Rolls#Hit Rolls|hit roll]] is for. It’s up to the GM to decide whether a particular danger might allow a saving throw or not.
 ## Monsters and Saving Throws
 Monsters, NPCs, and other creatures other than PCs don’t bother with four different saving throws. Instead, they just have a single save equal to 15 minus half their hit dice, rounded down. Thus, a peasant with one hit die would have to roll 15 or better to make a saving throw against something, while a slavering hell-beast with 14 hit dice would only need to roll 8+ to succeed.
 
