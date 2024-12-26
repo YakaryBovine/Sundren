@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a42f6c38c6d4487d",
+        "id": "04b8234fd64ef122",
         "type": "tabs",
         "children": [
           {
-            "id": "f7463584d0ad4048",
+            "id": "db4541961badb56d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Warrior.md",
-                "staged": false
+                "file": "Worldbuilding/Magic/Magic.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Warrior)"
+              "icon": "lucide-file",
+              "title": "Magic"
             }
           }
         ]
@@ -51,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "magic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,44 +171,44 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f7463584d0ad4048",
+  "active": "db4541961badb56d",
   "lastOpenFiles": [
-    "Rules/Classes/Warrior.md",
     "Rules/Attributes.md",
-    "README.md",
-    "Rules/Classes",
+    "Worldbuilding/Characters/The Last Legion.md",
+    "Worldbuilding/Locations/Splint.md",
+    "Worldbuilding/Conditions/Spellrot.md",
+    "Worldbuilding/Factions/Solassian Concordat.md",
     "Rules/Skills.md",
     "Rules/Skill Checks.md",
-    "Worldbuilding",
     "Worldbuilding/Magic/Sacrifice.md",
-    "Rules",
+    "README.md",
+    "Worldbuilding/Events/Operation Oblivion.md",
+    "Worldbuilding/Characters/Obzidon.md",
+    "Worldbuilding/Factions/New Gods.md",
+    "Worldbuilding/Magic/Magic.md",
+    "Worldbuilding/Magic/Leyline Dust.md",
+    "Worldbuilding/Characters/Khamil Morthos.md",
+    "Worldbuilding/Metaphysics/God.md",
+    "Worldbuilding/Locations/Bar'duum.md",
+    "Worldbuilding/Characters/Halion Kal.md",
+    "Worldbuilding/Locations/Sunlancer.md",
     "Worldbuilding/Magic/Lich.md",
+    "Spirit World.md",
+    "Rules/Classes/Warrior.md",
+    "Rules/Classes",
+    "Worldbuilding",
+    "Rules",
     "Worldbuilding/Metaphysics/Celestial.md",
     "Worldbuilding/Metaphysics/Eidolon.md",
     "Worldbuilding/Metaphysics/Elemental.md",
     "Worldbuilding/Metaphysics/Fey.md",
-    "Worldbuilding/Metaphysics/Fiend.md",
-    "Worldbuilding/Metaphysics/God.md",
-    "Worldbuilding/Metaphysics/Primal.md",
-    "Worldbuilding/Metaphysics/Spirit.md",
-    "Worldbuilding/Technology/Colossus.md",
-    "Worldbuilding/Technology/Cryogenic Capsule.md",
-    "Worldbuilding/Technology/Warforged.md",
-    "Worldbuilding/Technology/Host.md",
-    "Worldbuilding/Technology/Screamer.md",
     "Worldbuilding/Images/Primal.jpg",
     "Worldbuilding/Images/Eidolon.jpg",
-    "Worldbuilding/Factions/Followers of the Cycle.md",
-    "Worldbuilding/Factions/New Gods.md",
-    "Worldbuilding/Magic/Leyline Dust.md",
     "Worldbuilding/Images/Warforged.jpg",
     "Worldbuilding/Images/Colossus.jpg",
     "17805ad8f594603712f71e3d79207159.jpg",
     "Worldbuilding/Images/Screamer.jpg",
     "Worldbuilding/Images/Host.jpg",
-    "Premise.md",
-    "Worldbuilding/Events/Operation Oblivion.md",
-    "Worldbuilding/Factions/Solassian Concordat.md",
     "Worldbuilding/Events",
     "Factions/Untitled",
     "Worldbuilding/Conditions",
