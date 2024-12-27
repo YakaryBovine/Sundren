@@ -1,7 +1,7 @@
 My game is an OSR sandbox that focuses on players using skill expression and game mastery to pursue character goals with extensive freedom.
 
 My campaign will feature:
-- A [[Sandbox|sandbox]], where the players drive the game forward by pursuing their goals, and I use the world to react in compelling ways
+- A [[Sandbox|sandbox]] set in the [[Sundered]] universe, where the players drive the game forward by pursuing their goals, and I use the world to react in compelling ways
 - [[Backstory and Character|Minimalist player backstory]]
 - A [[The Rules|mechanics]]-driven narrative; the story emerges from the game
 - Player success or failure that hinges on [[Solving Problems|intelligent decision making]], both in character creation and active play
