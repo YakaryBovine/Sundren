@@ -13,11 +13,11 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Campaign/Backstory and Character.md",
+                "file": "Rules/Character Creation.md",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (Backstory and Character)"
+              "title": "Diff View (Character Creation)"
             }
           }
         ]
@@ -171,13 +171,14 @@
   },
   "active": "47801977dd106500",
   "lastOpenFiles": [
+    "Campaign/Backstory and Character.md",
     "Rules/Character Creation.md",
+    "Worldbuilding/Characters/Halion Kal.md",
     "Campaign/The Rules.md",
     "Campaign/Overview.md",
     "README.md",
     "Campaign/Intended Audience.md",
     "Campaign/Content Warning.md",
-    "Campaign/Backstory and Character.md",
     "Rules/Injury, Healing, and System Strain.md",
     "Campaign/Untitled.md",
     "Rules/Untitled",
@@ -197,7 +198,6 @@
     "Worldbuilding/Metaphysics/Fey.md",
     "Worldbuilding/Technology/Cryogenic Capsule.md",
     "Worldbuilding/Metaphysics/Elemental.md",
-    "Worldbuilding/Locations/Bar'duum.md",
     "Campaign/Untitled",
     "Untitled",
     "Campaign",

@@ -2,7 +2,7 @@
 > [!caution] Backstory and Character
 > This section only covers the *mechanics* for how to build a character in Worlds Without Number. See [[Backstory and Character]] to learn how to make a character backstory that will fit well in the game.
 ### 1. Choose Attributes
-Each character starts has scores in Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. You have 5 Attribute points to spend to build your Attributes. Increasing an Attribute costs points, while decreasing it gives points back, as per the table below.
+Each character starts has scores in [[Attributes|Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma]]. You have 5 Attribute points to spend to build your Attributes. Attributes above 10 cost points, while those below 10 give points back, as per the table below.
 
 | Attribute Value | Points |
 | --------------- | ------ |
@@ -43,7 +43,7 @@ Mark down your total attack bonus with your weaponry. This is equal to your base
 ### 12. Record your weapon damages
 Note down the damage done by your weapons. T his is equal to its base damage dice plus its attri bute modifier. If it’s a Punch weapon, you can add your Punch skill to the damage as well.
 ### 13. Record your Armor Class
-Record your Armor Class, the measure of how hard it is to hurt your hero in a fight. The [[Armor]] article gives the score for a given harness. Different suits of armor grant different Armor Classes; if you aren’t wearing any armor at all, your base AC is 10. Add your Dexterity [[Attributes#Attribute Modifiers|modifier]] to this AC. In order to hurt your PC, an enemy has to roll an attack roll on a d20, adding their attacj bonus and equaling or exceeding your AC.
+Record your Armor Class, the measure of how hard it is to hurt your hero in a fight. The [[Armor]] article gives the score for a given harness. Different suits of armor grant different Armor Classes; if you aren’t wearing any armor at all, your base AC is 10. Add your Dexterity [[Attributes#Attribute Modifiers|modifier]] to this AC. In order to hurt your PC, an enemy has to roll an attack roll on a d20, adding their attack bonus and equaling or exceeding your AC.
 ### 14. Record your Saving Throws
 Note down your beginning [[Saving Throws|saving throw]] scores for your Physical, Evasion, Mental, and Luck saving throws. Physical saves 15 minus the best of your Strength or Constitution modifiers. Evasion saves are 15 minus the best of your Intelligence and Dexterity modifiers. Mental saves are 15 minus the best of your Wisdom or Charisma modifiers. Your Luck saving throw is a flat score of 15. To make a save, you need to roll equal or better than it on a d20 roll.
 ### 15. Choose a name for yourself and goals for your party

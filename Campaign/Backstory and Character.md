@@ -13,8 +13,8 @@ Throughout this guidance, consider this exemplar backstory: 
 7. No secrets. We're not going to spend any time exploring your character's secrets at the table.
 8. No strong opinions that impede your character's ability to do the adventure or work with other characters. You can't have a problem with Necromancy if one of your party members is a Necromancer, because it wouldn't make any sense for you to adventure with each other.
 9. Don’t include prejudices around race, gender, or sexuality.
-10. No plot hooks. I'm not going to be using your backstory to create adventures. If you want to have goals of your own, just set them during play.
-11. Don’t get too specific with worldbuilding. Exploring the world is part of the experience, and contributing to the building of it yourself takes away from that. If it's key to your backstory that a certain kind of thing exists in the world, let me know, and I'll tell you if I can work it in.
+10. No plot hooks in your backstory. I'm not going to be using your backstory to create adventures. If you want to have goals of your own, just set them during play.
+11. No independent worldbuilding. Exploring the world is part of the experience, and contributing to the building of it yourself takes away from that. If it's key to your backstory that a certain kind of thing exists in the world, let me know, and I'll tell you if I can work it in.
 
 > [!NOTE] A character to be built upon
 > You might be thinking that only 1-2 sentences for a backstory results in an overly simple character, and that Caedor would not make a good character in a novel. That's by design; Caedor is a starting point who is designed to be a good character to play alongside. Caedor can and should evolve over the course of the game, as her experiences tackling danger with the party shape her personality further. We can thus enjoy Caedor's character together, in a way that contributes to everyone's fun, rather than the writing of Caedor's backstory being a largely solitary exercise.
