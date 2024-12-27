@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Backstory and Character.md",
+                "file": "Campaign/Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backstory and Character"
+              "title": "Overview"
             }
           }
         ]
@@ -173,13 +173,13 @@
   "active": "ed9fdfed64bc6fda",
   "lastOpenFiles": [
     "Campaign/Content Warning.md",
+    "Campaign/Overview.md",
     "Campaign/Intended Audience.md",
+    "Campaign/Backstory and Character.md",
     "Campaign/Sandbox.md",
     "Campaign/The Rules.md",
     "Campaign/Tools.md",
     "Campaign/Solving Problems.md",
-    "Campaign/Core Gameplay.md",
-    "Campaign/Backstory and Character.md",
     "README.md",
     "Campaign/Untitled",
     "Rules/Combat/Scenes, Rounds, and Mission Time.md",
