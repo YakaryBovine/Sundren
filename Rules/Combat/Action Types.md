@@ -1,6 +1,6 @@
 When it’s a given participant’s turn in combat, they can take their action. There are four different kinds of actions in combat or other time-sensitive situations. 
 ## Main Actions
-Main Actions are actions that take up most of the actor’s round. [[Attack Rolls]] someone, manipulating some device, applying first aid to a downed ally, casting a spell, or other complex actions that would take several seconds to perform are all Main Actions. A participant gets one Main Action every round. 
+Main Actions are actions that take up most of the actor’s round. [[Attacking]] someone, manipulating some device, applying first aid to a downed ally, casting a spell, or other complex actions that would take several seconds to perform are all Main Actions. A participant gets one Main Action every round. 
 ## Move Actions
 Move Actions involve moving up to the participant’s normal movement rate. Thus, a normal human with a movement rate of 30 feet can move up to that distance with a Move action. Climbing, swimming, crossing difficult terrain, or other challenging movement usually is only half as fast as normal combat movement. A participant gets one Move action per round, though they can also choose to spend their Main Action taking an additional Move action if they wish. 
 

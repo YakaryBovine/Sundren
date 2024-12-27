@@ -1,6 +1,6 @@
 The [[Action Types|actions]] below include some of the more common actions a participant might take during combat. The GM can make individual judgments about other types of activities that might be attempted.
 ### Melee Attack - Main Action
-The combatant attacks an enemy within melee range with a Readied weapon, rolling a normal [[Attack Rolls#Hit Rolls|hit roll]] and inflicting [[Attack Rolls#Damage Rolls|damage]] on a successful hit. Most melee attacks inflict [[Shock Damage|Shock damage]] on a miss, if the target’s Armor Class is low enough, and no successful hit does less damage than the weapon’s Shock would have done on a miss.
+The combatant attacks an enemy within melee range with a Readied weapon, rolling a normal [[Attacking#Hit Rolls|hit roll]] and inflicting [[Attacking#Damage Rolls|damage]] on a successful hit. Most melee attacks inflict [[Shock Damage|Shock damage]] on a miss, if the target’s Armor Class is low enough, and no successful hit does less damage than the weapon’s Shock would have done on a miss.
 ### Ranged Attack - Main Action 
 The combatant fires or throws a Readied ranged weapon at a target. The combatant can’t make a Ranged Attack with a two-handed weapon such as a bow if there’s a enemy armed with a melee weapon within melee range; it’s too easy for the assailant to hinder the use of a bow. One-handed ranged weapons and thrown weapons can still be used, albeit at a -4 penalty to hit.
 ### Snap Attack - Instant Action

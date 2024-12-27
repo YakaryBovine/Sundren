@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Overview.md",
+                "file": "Rules/Injury, Healing, and System Strain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "Injury, Healing, and System Strain"
             }
           }
         ]
@@ -170,17 +170,27 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "47801977dd106500",
+  "active": "77242d2a6153b421",
   "lastOpenFiles": [
+    "Rules/Untitled",
+    "Rules/Fundamentals/Skills.md",
+    "Rules/Injury, Healing, and System Strain.md",
+    "Rules/Combat/Special Combat Maneuvers.md",
+    "Rules/Combat/Execution Attacks.md",
+    "Rules/Combat/Dual-Wielding Weapons.md",
+    "Rules/Combat/Attacking.md",
+    "Rules/Combat/Shock Damage.md",
+    "Rules/Classes/Warrior.md",
+    "Campaign/Tools.md",
+    "Campaign/The Rules.md",
+    "Campaign/Sandbox.md",
+    "Campaign/Solving Problems.md",
+    "Campaign/Overview.md",
     "Campaign/Content Warning.md",
     "Campaign/Backstory and Character.md",
     "Campaign/Intended Audience.md",
-    "Campaign/Overview.md",
     "2024-12-27.md",
     "README.md",
-    "Rules/Fundamentals/Skills.md",
-    "Campaign/Sandbox.md",
-    "Campaign/The Rules.md",
     "Worldbuilding/Technology/Colossus.md",
     "Worldbuilding/Technology/Host.md",
     "Worldbuilding/Metaphysics/Fey.md",
@@ -188,19 +198,9 @@
     "Worldbuilding/Metaphysics/Elemental.md",
     "Worldbuilding/Locations/Bar'duum.md",
     "Worldbuilding/Locations/Splint.md",
-    "Campaign/Solving Problems.md",
-    "Campaign/Tools.md",
     "Campaign/Untitled",
-    "Rules/Combat/Scenes, Rounds, and Mission Time.md",
     "Untitled",
-    "Rules/Combat/Attack Rolls.md",
     "Campaign",
-    "Rules/Combat/Common Combat Actions.md",
-    "Rules/Combat/Action Types.md",
-    "Rules/Combat/Combat Sequence.md",
-    "Rules/Combat/Rounds and Surprise.md",
-    "Rules/Combat/Execution Attacks.md",
-    "Rules/Combat/Initiative.md",
     "Rules/Fundamentals",
     "Rules/Combat",
     "Worldbuilding/Images/Elemental.png",

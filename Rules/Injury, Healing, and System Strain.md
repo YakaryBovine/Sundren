@@ -1,36 +1,40 @@
-## Mortal Wounds and Stabilizing
-A creature reduced to zero hit points is dead or dying. Ordinary NPCs or unremarkable creatures will generally die on the spot. PCs and those NPCs important enough to have deserved a name will be Mortally Wounded. 
+## Mortal Wounds, Frailty, and Stabilization
+When a PC is reduced to zero hit points by a lethal attack, they are Mortally Wounded. They will die at the end of the sixth [[Scenes, Rounds, and Mission Time#Rounds|round]] after their incapacitation unless stabilized by an ally or some special ability. A Mortally Wounded character is helpless, and can take no [[Action Types|actions]] and do nothing useful.
 
-A Mortally Wounded creature is helpless, unable to do anything but scream, writhe, or lie unconscious. At the end of the sixth round after they were downed, they will die. They’ll die instantly if they take more damage. An ally can attempt to stabilize a Mortally Wounded companion. Doing so is generally an Int/Heal or Dex/ Heal [[Skill Checks|skill check]], one requiring a [[Action Types#Main Actions|Main Action]]. 
+Stabilizing an ally is usually a [[Action Types#Main Actions|Main Action]] that requires a Dex/Heal or Int/Heal [[Skill Checks|skill check]]. The difficulty is 8 plus the number of full rounds since the target fell. If the medic lacks a healer’s kit or other tools, this difficulty is increased by 2. Only one ally can try to stabilize a victim per round, though others can attempt to aid their check, but attempts may be retried each round for as long as hope lasts. 
 
-The difficulty for this skill check is 8 plus the number of full rounds since the target was downed. If the healer lacks any useful medical implements, the difficulty for this skill check is increased by 2. Only one ally can try to stabilize a target in any given round, though others can attempt to aid their skill check, and a failed check can be re-attempted the next round.
+Once stabilized the victim remains incapacitated for ten minutes before recovering with 1 hit point and the Frail condition. They may act normally after they recover, but if they are reduced to zero hit points again while still Frail, they die instantly. Frailty is removed by a week of bed rest and medical care. A physician can also make one attempt to remove Frailty with a healer’s kit and an hour of work, rolling a Dex/Heal or Int/Heal skill check against difficulty 10.
 
-Once stabilized, the target recovers with 1 hit point after ten minutes of rest, and can rise and act normally thereafter. They count as Frail, however, and will remain Frail until they have had at least a week of bed rest. Frail PCs cannot heal damage through natural healing and will die immediately if brought to zero hit points again. 
+> [!NOTE] NPCs and Mortal Injury
+> NPCs who aren’t important enough to merit a name usually die in stantly when reduced to zero hit points.
 
-A physician can try to remove the Frail condition with an hour’s work and a skill check against difficulty 10. They only get one chance to remove a given Frailty.
-## Natural Healing
-A wounded creature recovers its level or hit dice in lost hit points after every night’s rest, assuming they’re properly fed and can get decent sleep. At this time they also lose one point of accumulated [[#System Strain]]. 
-
-Creatures that are Frail do not recover hit points this way, nor do they lose System Strain.
-## Magical Healing
-Some healers have access to abilities that automatically heal hit points, such as a Healer’s arcane arts or the vitality-transmitting spells of a Necromancer. Other PCs might have elixirs of health, artifacts that cure injuries, or other sources of magical healing. 
-
-A character healed by any amount of magical healing automatically loses any Mortally Wounded or Frail qualities and can immediately rise. A downed hero at zero hit points who gets 3 points of healing from a magic potion, for example, can immediately get up on their next turn and return to the fray without any frailty.
-## First Aid
-The powerful vitality of the people of the Sundered universe can be complemented by skilled medical attention and the use of numerous herbs, compounds, and other “mundane” techniques. While this can’t work miracles, it can prevent even significant injuries from slowing a victim too much. 
-
-By spending a few minutes tending an ally, a healer can cure 1d6 plus their Heal [[Skills|skill]] in points of damage. They suffer a -1 on this roll if they have no Heal skill, perhaps doing no good at all. Each such application of first aid adds 1 [[#System Strain]] to the target, but it can be repeated for a wounded ally as often as the healer wishes and the subject’s System Strain allows. 
-
-A single ten-minute turn or scene is usually sufficient to apply as much first aid as the party wants to apply. First aid can restore lost hit points to a Frail PC, but it cannot get rid of the Frail quality itself.
+### Catastrophic Damage
+Targets reduced to zero hit points by some injury or cause that could not be reasonably survivable are instantly killed. An arrow hole might be patched; a direct hit with a house-sized boulder or a plunge off a thousand-foot precipice is less survivable. What counts as “not reasonably survivable” may vary with inhumanly durable targets.
+### Non-Lethal Incapacitation
+If a target is brought to zero hit points by a non-lethal attack, they are incapacitated for ten minutes before regaining 1 hit point. They do not become Frail.
 ## System Strain
-Most forms of healing and certain other magical powers add to a target’s System Strain. System Strain is a measure of how much stress the target’s body is under, and how profoundly it has been taxed by magical energies, hunger, privation, and forced healing acceleration. 
+Magical forms of healing or use of powerful augmenting magic can take a toll on a user’s physiology. Their System Strain total reflects the total amount of stress their body has undergone.
 
-A character’s maximum System Strain is equal to their Constitution [[Attributes|attribute]]. Thus, someone with a Constitution of 13 could accumulate up to 13 points of System Strain. This strain is usually lost at a rate of one point for every night of good, refreshing sleep. 
+A healthy character normally starts at zero System Strain and has their [[Attributes|Constitution]] score as their allowed maximum. A character cannot accumulate more than this maximum in System Strain.
 
-Healing often adds to a target’s System Strain, whether as first aid or as the effect of some magical power. If the target is already at its maximum System Strain, it can’t handle the additional stress and gets no benefit from the effect or attempting healing.
+Magical healing and certain spells and abilities will add to a subject’s System Strain. If this addition would put them over their maximum they cannot activate the spell, benefit from healing, or otherwise gain any use from the ability. If they are forced over the maximum by some unavoidable effect, they are instead knocked unconscious for at least an hour. 
+
+Characters lose one point of accumulated System Strain after each night’s rest, assuming they are warm, fed, and comfortable and can get at least eight uninterrupted hours of sleep. Cold camps, stony bedding, and other sources of privation prevent this recuperation.
+## Natural Healing
+A wounded creature can recover hit points by getting a good night’s rest and adequate food. Provided they are warm, fed, and comfort able, they regain hit points each morning equal to their experience level, or equal to their hit dice if they are NPCs. Characters suffering some form of privation do not recover hit points through sleep. 
+
+[[#Mortal Wounds, Frailty, and Stabilization|Frail]] creatures do not recover hit points through natural healing. They must cure their Frail condition first or rely on pharmaceuticals. Removing the Frail condition requires a full week of bed rest and the medical attention of someone with at least Heal-0 skill and a healer’s kit. Frail victims without this level of medical care must make a [[Saving Throws|Physical save]] after a week; on a failure they die sometime in the next week, while success means they lose their Frailty after another month’s rest.
+## Magical Healing
+Some healers have access to abilities that automatically heal hit points, such as a [[Healer]]’s arcane arts or the vitality-transmitting spells of a [[Necromancer]]. Other PCs might have elixirs of health, artifacts that cure injuries, or other sources of magical healing. 
+
+A character healed by any amount of magical healing automatically loses any [[#Mortal Wounds, Frailty, and Stabilization|Mortally Wounded or Frail]] qualities and can immediately rise. A downed hero at zero hit points who gets 3 points of healing from a magic potion, for example, can immediately get up on their next turn and return to the fray without any frailty.
+## First Aid
+Healers can patch up victims in a hurry, albeit at a cost to their physical resilience. By spending one minute patching up an ally with a healer’s kit, a healer can heal 1d6 points of damage plus their Heal [[Skills|skill]]. If they lack any Heal skill at all, they restore 1d6-1 points. Each such application of first aid adds one [[#System Strain]] to the target. First aid can restore hit points to a Frail target, but it cannot remove their Frailty. 
+
+One ten-minute turn is enough time for a healer to apply as much first aid as is wanted to the rest of their party.
 ## Poisons and Diseases
-When a character is struck by some poison, they generally get a Physical [[Saving Throws|saving throw]] to avoid its effect, or at least mitigate its harm. Particularly powerful poisons might apply a penalty of up to -4 on this check, while weak toxins might grant a bonus of up to +4. The exact effect of a failed save depends on the poison. 
+Most toxins force a victim to make a [[Saving Throws|Physical saving throw]] to resist their effects or mitigate their harm. Weak perils might grant as much as a +4 to the saving throw, while dire threats might apply a -4 penalty. 
 
-Diseases also generally allow a Physical saving throw, but are significantly slower in onset. If the first saving throw is a success, the target has avoided infection. If it’s a failure, the disease begins to take hold. The victim can make further saving throw attempts at weekly intervals, generally, with a certain number of successes sufficient to throw off the disease. Each failed save tends to make things worse, however, and fatal diseases can kill after three or four failed saves. 
+If the save is failed, the poison or disease takes hold. Most poisons act quickly, inflicting hit point damage, adding [[#System Strain]] to the target, or applying long-lasting penalties. Diseases can have a slower onset but often apply the same sort of harms. 
 
-Those with the Heal [[Skills|skill]] can tend the sick, granting a bonus to their saving throws equal to twice their Heal skill, or +1 in the case of a nurse with Heal-0 skill.
+A medic who gets to a poisoned person within a minute of the poisoning can use a healer’s kit to give them a better chance to resist. They may add twice their Heal [[Skills#Skill Levels|skill level]] to the victim’s saving throw roll, or +1 if they have only Heal-0 skill. Specialized antitoxins may be able to neutralize such poisons entirely.
