@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Combat/Attack Rolls.md",
+                "file": "Campaign/Backstory and Character.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Attack Rolls"
+              "title": "Backstory and Character"
             }
           }
         ]
@@ -172,11 +172,23 @@
   },
   "active": "ed9fdfed64bc6fda",
   "lastOpenFiles": [
-    "Rules/Combat/Common Combat Actions.md",
+    "Campaign/Content Warning.md",
+    "Campaign/Intended Audience.md",
+    "Campaign/Sandbox.md",
+    "Campaign/The Rules.md",
+    "Campaign/Tools.md",
+    "Campaign/Solving Problems.md",
+    "Campaign/Core Gameplay.md",
+    "Campaign/Backstory and Character.md",
+    "README.md",
+    "Campaign/Untitled",
+    "Rules/Combat/Scenes, Rounds, and Mission Time.md",
+    "Untitled",
     "Rules/Combat/Attack Rolls.md",
+    "Campaign",
+    "Rules/Combat/Common Combat Actions.md",
     "Rules/Combat/Action Types.md",
     "Rules/Combat/Combat Sequence.md",
-    "Rules/Combat/Scenes, Rounds, and Mission Time.md",
     "Rules/Combat/Rounds and Surprise.md",
     "Rules/Combat/Execution Attacks.md",
     "Rules/Combat/Initiative.md",
@@ -190,16 +202,7 @@
     "Rules/Combat/Shock Damage.md",
     "Rules/Combat/Dual-Wielding Weapons.md",
     "Rules/Classes/Warrior.md",
-    "Worldbuilding/Characters/Khamil Morthos.md",
-    "Rules/Combat/Hit Roll Modifiers.md",
-    "Worldbuilding/Magic/Magic.md",
-    "Worldbuilding/Technology/Colossus.md",
-    "Worldbuilding/Technology/Cryogenic Capsule.md",
-    "Worldbuilding/Metaphysics/Fiend.md",
-    "Worldbuilding/Metaphysics/Fey.md",
     "Rules/Combat",
-    "Worldbuilding/Metaphysics/Primal.md",
-    "Worldbuilding/Magic/Sacrifice.md",
     "Worldbuilding/Images/Elemental.png",
     "Worldbuilding/Images/Barduum.jpg",
     "Rules/Classes",
@@ -214,9 +217,6 @@
     "Worldbuilding/Images/Host.jpg",
     "Worldbuilding/Events",
     "Factions/Untitled",
-    "Worldbuilding/Conditions",
-    "Worldbuilding/Images/Fiend.jpg",
-    "Characters/Untitled",
-    "Worldbuilding/Characters"
+    "Worldbuilding/Images/Fiend.jpg"
   ]
 }

@@ -1,0 +1,20 @@
+In my game, we focus on the adventures we share at the table rather than the things we write away from it. I only want to see characters that contribute to that shared experience, and for that, simple is best. All characters must meet the following criteria. I am happy to assist in character creation if asked.
+
+Throughout this guidance, consider this exemplar backstory: 
+>"Caedor is a wizened elder from a small village who discovered her magical talents late in life. Now aching for magical knowledge to add to her already expansive mundane repertoire, she seeks to delve into the most dangerous of dungeons to find the most esoteric of spells."
+
+1. Focus on personality, not backstory. Personality is the part of your character that I and the other players get to enjoy; backstory is just there to contextualize it.
+2. Limit backstories to 1-3 sentences. You should only need enough backstory to contextualize yourself in the adventure; anything more than that is just making up events that have no bearing on the shared adventure.
+3. Make a character that's deeply invested in whatever the campaign is about. Caedor wants to get knowledge from dungeons, so she'll fit right into any game about going into dungeons.
+4. Make sure you understand the basics of the world we’re playing, and make your character fit neatly into that world. Caedor is a mage who knows about dungeons and learns from books, which is great because my world features mages that are exactly like that.
+5. Ensure your character wants to adventure with the party. Absolutely no loners, no character conflict, and no refusal of the call to action. Caedor knows she must work with others if she is to survive danger, and as a wizened elder, she's enthusiastic about taking care of those close to her.
+6. Make a skilled character. You're doing dangerous things in a dangerous world, so your character needs to be someone who can pull their weight and isn't afraid to do it. Caedor is good at magic and knowing things.
+7. No secrets. We're not going to spend any time exploring your character's secrets at the table, so it's a needless distraction to have them. Caedor is an open book.
+8. No strong opinions that impede your character's ability to do the adventure or work with other characters. You can't have a problem with Necromancy if one of your party members is a Necromancer, because it wouldn't make any sense for you to adventure with each other. As a village elder, Caedor hates Necromancy, but as long as nobody else in the party plays a Necromancer, that's okay. If someone wants to, we'll have to go back to the drawing board and figure it out before we resume play.
+9. Don’t include prejudices around race, gender, or sexuality. Caedor might have prejudices, but we're never going to know about them because they're not fun to explore.
+10. No plot hooks. I'm not going to be using your backstory to create adventures. If you want to have goals of your own, just set them during play. For instance, if the party discovered the possible location of a legendary arcane tome, Caedor would likely be more interested than anyone else.
+11. Don’t get too specific with worldbuilding. Exploring the world is part of the experience, and contributing to the building of it yourself takes away from that. If it's key to your backstory that a certain kind of thing exists in the world, let me know, and I'll tell you if I can work it in.
+
+> [!NOTE] A character to be built upon
+> You might be thinking that only 1-2 sentences for a backstory results in an overly simple character, and that Caedor would not make a good character in a novel. That's by design; Caedor is a starting point who is designed to be a good character to play alongside. Caedor can and should evolve over the course of the game, as her experiences tackling danger with the party shape her personality further. We can thus enjoy Caedor's character together, in a way that contributes to everyone's fun, rather than the writing of Caedor's backstory being a largely solitary exercise.
+
