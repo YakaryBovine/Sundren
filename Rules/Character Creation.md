@@ -50,4 +50,4 @@ Note down your beginning [[Saving Throws|saving throw]] scores for your Physical
 Lastly, wrap up your PC with a name and a [[Backstory and Character|goal]]. Every hero needs to have a goal when they set out adventuring.
 
 > [!tip] Dicecloud
-> You don't need to do any of the above manually; [Dicecloud](www.dicecloud.com) has been set up to do it for you. Still, it's worth understanding how your character is built!
+> You don't need to do any of the above manually; [Dicecloud](https://dicecloud.com/) has been set up to do it for you. Still, it's worth understanding how your character is built!

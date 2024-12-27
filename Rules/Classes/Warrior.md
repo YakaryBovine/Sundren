@@ -3,7 +3,15 @@ The Warrior is a hero born to the blade, a man or woman gifted with a superb cap
 Warriors aren’t all formal soldiers or recognized veterans of the blade. Any adventurer who excels in dealing with their problems through violence might qualify as a Warrior, however peaceful their background. It’s possible that their very talent for killing was what forced them out of their old life after some terrible event or awful encounter compelled them to recognize their gifts. 
 
 Warriors have more hit points than heroes of other class, and are capable of surviving wounds and hardships that would kill an ordinary man. They’re also gifted with a superior attack bonus, and a native ability to inflict more damage than other PCs. They even have the ability to ensure a hit or force a miss by an enemy once per scene, making them lethal foes to common combatants.
+## Class Ability: Killing Blow 
+Whenever a Warrior inflicts damage with any [[Attacking|attack]], spell, or special ability they may add half their character level, rounded up, to the damage done. This damage is also added to any Shock they may inflict. Combined with Foci meant to improve [[Shock Damage|Shock]] attacks such as [[Armsmaster]], [[Close Combatant]], or [[Shocking Assault]], this ability ensures that an experienced Warrior will almost always kill any ordinary human soldier or minor monster, regardless of their attack roll result.
+## Class Ability: Veteran's Luck
+Once per scene, as an Instant action, the Warrior may turn a missed attack they have made into a hit. Alternately, they may turn a successful attack against them into a miss, also as an Instant action. This ability is particularly lethal when used with the Make a Snap Attack action and leveled against weaker monsters or ordinary human warriors, as explained on page 44. 
 
+Only one exercise of this ability is possible in a scene, either to force a miss or ensure a hit on a foe; both options may not be employed in the same fight. 
+
+A Warrior may use this ability with crew-served weapons they are assisting in firing. This ability cannot be used to negate environmental damage or damage done to a vehicle or mount they are riding.
+### Full Warrior
 | Level | Hit Dice | Attack Bonus | Focus Picks       |
 | ----- | -------- | ------------ | ----------------- |
 | 1     | 1d6+2    | +1           | 1 Any + 1 Warrior |
@@ -16,11 +24,3 @@ Warriors have more hit points than heroes of other class, and are capable of sur
 | 8     | 8d6+16   | +8           |                   |
 | 9     | 9d6+18   | +9           |                   |
 | 10    | 10d6+20  | +10          | +1 Any            |
-## Class Ability: Killing Blow 
-Whenever a Warrior inflicts damage with any [[Attacking|attack]], spell, or special ability they may add half their character level, rounded up, to the damage done. This damage is also added to any Shock they may inflict. Combined with Foci meant to improve [[Shock Damage|Shock]] attacks such as [[Armsmaster]], [[Close Combatant]], or [[Shocking Assault]], this ability ensures that an experienced Warrior will almost always kill any ordinary human soldier or minor monster, regardless of their attack roll result.
-## Class Ability: Veteran's Luck
-Once per scene, as an Instant action, the Warrior may turn a missed attack they have made into a hit. Alternately, they may turn a successful attack against them into a miss, also as an Instant action. This ability is particularly lethal when used with the Make a Snap Attack action and leveled against weaker monsters or ordinary human warriors, as explained on page 44. 
-
-Only one exercise of this ability is possible in a scene, either to force a miss or ensure a hit on a foe; both options may not be employed in the same fight. 
-
-A Warrior may use this ability with crew-served weapons they are assisting in firing. This ability cannot be used to negate environmental damage or damage done to a vehicle or mount they are riding.

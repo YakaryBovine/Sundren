@@ -11,13 +11,14 @@
             "id": "47801977dd106500",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Rules/Character Creation.md",
-                "staged": false
+                "file": "Rules/Classes/Expert.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Character Creation)"
+              "icon": "lucide-file",
+              "title": "Expert"
             }
           }
         ]
@@ -171,15 +172,18 @@
   },
   "active": "47801977dd106500",
   "lastOpenFiles": [
-    "Campaign/Backstory and Character.md",
+    "Rules/Classes/Warrior.md",
+    "Rules/Classes/Expert.md",
     "Rules/Character Creation.md",
+    "Rules/Injury, Healing, and System Strain.md",
+    "www.dicecloud.com.md",
+    "Campaign/Backstory and Character.md",
     "Worldbuilding/Characters/Halion Kal.md",
     "Campaign/The Rules.md",
     "Campaign/Overview.md",
     "README.md",
     "Campaign/Intended Audience.md",
     "Campaign/Content Warning.md",
-    "Rules/Injury, Healing, and System Strain.md",
     "Campaign/Untitled.md",
     "Rules/Untitled",
     "Rules/Fundamentals/Skills.md",
@@ -188,7 +192,6 @@
     "Rules/Combat/Dual-Wielding Weapons.md",
     "Rules/Combat/Attacking.md",
     "Rules/Combat/Shock Damage.md",
-    "Rules/Classes/Warrior.md",
     "Campaign/Tools.md",
     "Campaign/Sandbox.md",
     "Campaign/Solving Problems.md",
@@ -196,8 +199,6 @@
     "Worldbuilding/Technology/Colossus.md",
     "Worldbuilding/Technology/Host.md",
     "Worldbuilding/Metaphysics/Fey.md",
-    "Worldbuilding/Technology/Cryogenic Capsule.md",
-    "Worldbuilding/Metaphysics/Elemental.md",
     "Campaign/Untitled",
     "Untitled",
     "Campaign",
