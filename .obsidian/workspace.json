@@ -13,11 +13,11 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Rules/Classes/Mage.md",
+                "file": "Rules/Classes/Arcane Traditions/Accursed.md",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (Mage)"
+              "title": "Diff View (Accursed)"
             }
           }
         ]
@@ -171,9 +171,12 @@
   },
   "active": "d80c75e904dcb1f4",
   "lastOpenFiles": [
-    "Rules/Classes/Mage.md",
-    "Rules/Classes/Warrior.md",
+    "Rules/Classes/Arcane Traditions/Accursed.md",
     "Rules/Classes/Expert.md",
+    "Rules/Classes/Mage.md",
+    "Rules/Classes/Untitled.md",
+    "Rules/Classes/Arcane Traditions",
+    "Rules/Classes/Warrior.md",
     "Rules/Combat/Action Types.md",
     "Rules/Combat/Attacking.md",
     "README.md",
@@ -195,8 +198,6 @@
     "Worldbuilding/Characters/Halion Kal.md",
     "Campaign/The Rules.md",
     "Campaign/Overview.md",
-    "Campaign/Intended Audience.md",
-    "Campaign/Content Warning.md",
     "Rules/Untitled",
     "Campaign/Untitled",
     "Untitled",
@@ -215,7 +216,6 @@
     "17805ad8f594603712f71e3d79207159.jpg",
     "Worldbuilding/Images/Screamer.jpg",
     "Worldbuilding/Images/Host.jpg",
-    "Worldbuilding/Events",
     "Worldbuilding/Images/Fiend.jpg"
   ]
 }
