@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Expert.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Expert"
+              "title": "README"
             }
           }
         ]
@@ -172,8 +172,19 @@
   },
   "active": "47801977dd106500",
   "lastOpenFiles": [
-    "Rules/Classes/Warrior.md",
+    "Rules/Combat/Combat Sequence.md",
+    "Rules/Combat/Scenes, Rounds, and Mission Time.md",
+    "Worldbuilding/Metaphysics/Celestial.md",
+    "Worldbuilding/Metaphysics/Elemental.md",
+    "Worldbuilding/Metaphysics/Fiend.md",
+    "Worldbuilding/Metaphysics/Primal.md",
+    "Worldbuilding/Technology/Colossus.md",
+    "Worldbuilding/Technology/Cryogenic Capsule.md",
+    "Worldbuilding/Technology/Host.md",
+    "Worldbuilding/Technology/Screamer.md",
+    "Worldbuilding/Technology/Warforged.md",
     "Rules/Classes/Expert.md",
+    "Rules/Classes/Warrior.md",
     "Rules/Character Creation.md",
     "Rules/Injury, Healing, and System Strain.md",
     "www.dicecloud.com.md",
@@ -188,17 +199,6 @@
     "Rules/Untitled",
     "Rules/Fundamentals/Skills.md",
     "Rules/Combat/Special Combat Maneuvers.md",
-    "Rules/Combat/Execution Attacks.md",
-    "Rules/Combat/Dual-Wielding Weapons.md",
-    "Rules/Combat/Attacking.md",
-    "Rules/Combat/Shock Damage.md",
-    "Campaign/Tools.md",
-    "Campaign/Sandbox.md",
-    "Campaign/Solving Problems.md",
-    "2024-12-27.md",
-    "Worldbuilding/Technology/Colossus.md",
-    "Worldbuilding/Technology/Host.md",
-    "Worldbuilding/Metaphysics/Fey.md",
     "Campaign/Untitled",
     "Untitled",
     "Campaign",
