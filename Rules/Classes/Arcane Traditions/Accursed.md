@@ -4,7 +4,7 @@ The Accursed is a partial [[Mage]] class that must be joined with a second parti
 
 All Accursed gain [[Skills|Magic-0]] during character creation. Even those who are not spellcasters must understand the ways of eldritch beings and the subtleties of sorcery. 
 
-While the arts of **Accursed Blade** and **Accursed Bolt** use [[Magic]] as their combat skill, Foci that normally apply to mundane weapons such as [[Armsmaster]] or [[Deadeye]] also benefit their relevant melee or ranged attacks. For these Foci, read “Magic” in place of “Shoot” or “Stab” when gaining their benefits, including the granted skill and the stacking damage bonus that the first level of the Focus may grant.
+While the arts of **Accursed Blade** and **Accursed Bolt** use Magic as their combat skill, Foci that normally apply to mundane weapons such as [[Armsmaster]] or [[Deadeye]] also benefit their relevant melee or ranged attacks. For these Foci, read “Magic” in place of “Shoot” or “Stab” when gaining their benefits, including the granted skill and the stacking damage bonus that the first level of the Focus may grant.
 ### Accursed Arts
 An Accursed has an [[Effort]] score equal to their Magic [[Skills#Skill Levels|skill level]] plus their Intelligence or Charisma [[Attributes#Attribute Modifiers|modifier]], to a minimum of one point. Every Accursed gains either **Accursed Bolt** or **Accursed Blade** as a starting art, plus one more of their choice. Accursed arts may be used in or out of armor.
 
@@ -27,3 +27,6 @@ An Accursed has an [[Effort]] score equal to their Magic [[Skills#Skill Levels|s
 **Unseen Steps:** As an On Turn action, Commit Effort for the day to turn invisible for 1d6 rounds plus your level. This invisibility breaks before you attack, cast spells, or perform other vigorous or violent actions.
 **Weight of Sin:** As a Main Action, Commit Effort for the day and target a visible foe. They must make a Physical save or lose their Move action for 1d6 rounds plus your level.
 **Weeping Wounds:** Once per round, Commit Effort for the scene as an Instant action when a visible enemy takes damage. They must make a Physical save or suffer 1d6 damage per round for one round per level. They cannot heal or regenerate any hit point damage during this effect. This art does not stack.
+
+> [!important] In Sundered
+> In the [[Sundered]] universe, the Accursed class represents the [[Warlock]].
