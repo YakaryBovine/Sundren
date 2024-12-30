@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Arcane Traditions/Beastmaster.md",
+                "file": "Rules/Classes/Mage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beastmaster"
+              "title": "Mage"
             }
           }
         ]
@@ -172,15 +172,15 @@
   },
   "active": "b2c56841cfdd59d3",
   "lastOpenFiles": [
+    "Rules/Classes/Warrior.md",
+    "Rules/Classes/Mage.md",
+    "Rules/Classes/Arcane Traditions/Beastmaster.md",
     "Rules/Classes/Expert.md",
     "Rules/Classes/Arcane Traditions/Accursed.md",
-    "Rules/Classes/Arcane Traditions/Beastmaster.md",
-    "Rules/Classes/Mage.md",
     "Rules/Fundamentals/Saving Throws.md",
     "Rules/Fundamentals/Effort.md",
     "Rules/Classes/Untitled.md",
     "Rules/Classes/Arcane Traditions",
-    "Rules/Classes/Warrior.md",
     "Rules/Combat/Action Types.md",
     "Rules/Combat/Attacking.md",
     "README.md",
