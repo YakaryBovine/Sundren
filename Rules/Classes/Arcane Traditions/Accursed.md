@@ -1,4 +1,7 @@
 The Accursed are those men and women who have made pacts with otherworldly beings, intentionally or otherwise, and gained powers from that bond.
+
+> [!important] Sundered
+> In the [[Sundered]] universe, the Accursed class represents a [[Warlock]] who has successfully made a bargain with a [[Fiend]].
 ### Benefits of the Accursed
 The Accursed is a partial [[Mage]] class that must be joined with a second partial class by an [[Adventurer]]. A Partial [[Warrior]]/Accursed might be a grim demonic warrior, a Partial Expert/Accursed might be a sinister tempter, while a Partial Mage/Accursed could be a sorcerer willing to pact with foul creatures for their powers. 
 
@@ -27,6 +30,3 @@ An Accursed has an [[Effort]] score equal to their Magic [[Skills#Skill Levels|s
 **Unseen Steps:** As an On Turn action, Commit Effort for the day to turn invisible for 1d6 rounds plus your level. This invisibility breaks before you attack, cast spells, or perform other vigorous or violent actions.
 **Weight of Sin:** As a Main Action, Commit Effort for the day and target a visible foe. They must make a Physical save or lose their Move action for 1d6 rounds plus your level.
 **Weeping Wounds:** Once per round, Commit Effort for the scene as an Instant action when a visible enemy takes damage. They must make a Physical save or suffer 1d6 damage per round for one round per level. They cannot heal or regenerate any hit point damage during this effect. This art does not stack.
-
-> [!important] In Sundered
-> In the [[Sundered]] universe, the Accursed class represents the [[Warlock]].

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Mage.md",
+                "file": "Rules/Classes/Arcane Traditions/Accursed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mage"
+              "title": "Accursed"
             }
           }
         ]
@@ -172,11 +172,14 @@
   },
   "active": "b2c56841cfdd59d3",
   "lastOpenFiles": [
-    "Rules/Classes/Warrior.md",
-    "Rules/Classes/Mage.md",
     "Rules/Classes/Arcane Traditions/Beastmaster.md",
-    "Rules/Classes/Expert.md",
+    "Rules/Classes/Arcane Traditions/Blood Priest.md",
     "Rules/Classes/Arcane Traditions/Accursed.md",
+    "Rules/Fundamentals/Attributes.md",
+    "Paladin.md",
+    "Rules/Classes/Expert.md",
+    "Rules/Classes/Mage.md",
+    "Rules/Classes/Warrior.md",
     "Rules/Fundamentals/Saving Throws.md",
     "Rules/Fundamentals/Effort.md",
     "Rules/Classes/Untitled.md",
@@ -196,9 +199,6 @@
     "Worldbuilding/Technology/Screamer.md",
     "Worldbuilding/Technology/Warforged.md",
     "Rules/Character Creation.md",
-    "Rules/Injury, Healing, and System Strain.md",
-    "www.dicecloud.com.md",
-    "Campaign/Backstory and Character.md",
     "Rules/Untitled",
     "Campaign/Untitled",
     "Untitled",
