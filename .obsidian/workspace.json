@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8f65871d5b580690",
+        "id": "82f34f861915f243",
         "type": "tabs",
         "children": [
           {
-            "id": "24c2f5af9a4842d7",
+            "id": "bbef6b6e8a7fc6fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/Chases and Pursuit.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Chases and Pursuit"
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "attrib",
+                "query": "travel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +69,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,17 +167,18 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "24c2f5af9a4842d7",
+  "active": "d80c75e904dcb1f4",
   "lastOpenFiles": [
-    "Worldbuilding/Factions/Followers of the Cycle.md",
+    "Rules/Fundamentals/Skills.md",
+    "Rules/Travel.md",
     "Rules/Chases and Pursuit.md",
+    "Worldbuilding/Factions/Followers of the Cycle.md",
     "Worldbuilding/Characters/The Last Legion.md",
     "Worldbuilding/Characters/Khamil Morthos.md",
     "Rules/Falling and Other Hazards.md",
     "Rules/Fundamentals/Character Creation.md",
     "Rules/Fundamentals/Saving Throws.md",
     "Rules/Fundamentals/Skill Checks.md",
-    "Rules/Fundamentals/Skills.md",
     "Rules/Fundamentals/Attributes.md",
     "Rules/Fundamentals/Character Advancement.md",
     "Rules/Injury, Healing, and System Strain.md",
@@ -198,7 +196,6 @@
     "Rules/Equipment",
     "Rules/Fundamentals/Effort.md",
     "Campaign/Backstory and Character.md",
-    "Rules/Classes/Arcane Traditions/Beastmaster.md",
     "Rules/Classes/Arcane Traditions",
     "Campaign/Untitled",
     "Untitled",
