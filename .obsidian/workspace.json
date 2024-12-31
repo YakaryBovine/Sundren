@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Equipment/Crafting and Modifying Gear.md",
+                "file": "Rules/Equipment/Adventuring Gear.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crafting and Modifying Gear"
+              "title": "Adventuring Gear"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,10 +172,13 @@
   },
   "active": "081f7c89a4c0f7c5",
   "lastOpenFiles": [
+    "Rules/Equipment/Crafting and Modifying Gear.md",
+    "Rules/Equipment/Adventuring Gear.md",
+    "2025-01-01.md",
+    "Untitled.canvas",
     "Rules/Character/Character Creation.md",
     "Rules/Equipment/Money and Currency.md",
     "Rules/Equipment/Encumbrance.md",
-    "Rules/Equipment/Crafting and Modifying Gear.md",
     "Rules/Classes/Warrior.md",
     "Rules/Combat/Common Combat Actions.md",
     "Rules/Classes/Mage.md",
@@ -198,8 +200,6 @@
     "Worldbuilding/Characters/The Last Legion.md",
     "Worldbuilding/Characters/Khamil Morthos.md",
     "Rules/Character/Attributes.md",
-    "Skill Check.md",
-    "Rules/Classes/Arcane Traditions/Accursed.md",
     "Rules/Equipment",
     "Rules/Classes/Arcane Traditions",
     "Campaign/Untitled",
