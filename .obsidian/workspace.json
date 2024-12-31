@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Characters/The Last Legion.md",
+                "file": "Rules/Chases and Pursuit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Last Legion"
+              "title": "Chases and Pursuit"
             }
           }
         ]
@@ -170,10 +170,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d80c75e904dcb1f4",
+  "active": "24c2f5af9a4842d7",
   "lastOpenFiles": [
-    "Worldbuilding/Characters/Khamil Morthos.md",
+    "Worldbuilding/Factions/Followers of the Cycle.md",
+    "Rules/Chases and Pursuit.md",
     "Worldbuilding/Characters/The Last Legion.md",
+    "Worldbuilding/Characters/Khamil Morthos.md",
     "Rules/Falling and Other Hazards.md",
     "Rules/Fundamentals/Character Creation.md",
     "Rules/Fundamentals/Saving Throws.md",
@@ -197,8 +199,6 @@
     "Rules/Fundamentals/Effort.md",
     "Campaign/Backstory and Character.md",
     "Rules/Classes/Arcane Traditions/Beastmaster.md",
-    "Rules/Classes/Arcane Traditions/Blood Priest.md",
-    "Paladin.md",
     "Rules/Classes/Arcane Traditions",
     "Campaign/Untitled",
     "Untitled",
