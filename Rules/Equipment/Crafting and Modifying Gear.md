@@ -2,7 +2,7 @@ Any [[Expert]] or [[Adventurer|Partial]] Expert PC with [[Skills#Skill Levels|at
 ## Crafting Gear
 An artisan requires a workshop that could plausibly build the gear in question. This may be nothing more than a sharp knife for a simple device, or a full-fledged alchemy lab for others. They also require a plausible source of parts for the device. This is usually a given if in a city or other salvage-rich area, but it may not be practical in a wilderness. 
 
-Building gear takes a month for a wagon-sized vehicle or a week for a weapon, suit of [[Armor|armor]], or other portable complex device. Very simple devices may be built faster at the GM’s discretion.
+Building gear takes a month for a wagon-sized vehicle or a week for a [[Weapons|weapon]], suit of [[Armor|armor]], or other portable complex device. Very simple devices may be built faster at the GM’s discretion.
 
 Crafted gear is made at three levels of quality; jury-rigged, normal, and mastercrafted. 
 

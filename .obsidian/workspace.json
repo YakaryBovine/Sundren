@@ -11,13 +11,14 @@
             "id": "081f7c89a4c0f7c5",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Magic/Sacrifice.md",
-                "staged": false
+                "file": "Rules/Equipment/Weapons.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Sacrifice)"
+              "icon": "lucide-file",
+              "title": "Weapons"
             }
           }
         ]
@@ -51,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "armor",
+                "query": "weapon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,22 +171,26 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d80c75e904dcb1f4",
+  "active": "081f7c89a4c0f7c5",
   "lastOpenFiles": [
-    "Worldbuilding/Magic/Lich.md",
-    "Worldbuilding/Magic/Leyline Dust.md",
-    "Worldbuilding/Magic/Magic.md",
+    "Rules/Classes/Warrior.md",
     "Rules/Combat/Special Combat Maneuvers.md",
-    "Rules/Classes/Mage.md",
+    "Rules/Character/Skills.md",
     "Rules/Equipment/Crafting and Modifying Gear.md",
     "Rules/Combat/Common Combat Actions.md",
+    "Worldbuilding/Technology/Colossus.md",
     "Rules/Character/Character Creation.md",
-    "Rules/Classes/Arcane Traditions/Blood Priest.md",
     "Rules/Classes/Arcane Traditions/Beastmaster.md",
     "Campaign/Backstory and Character.md",
     "Rules/Combat/Attacking.md",
     "Rules/Equipment/Armor.md",
     "Rules/Classes/Arcane Traditions/Accursed.md",
+    "Rules/Equipment/Weapons.md",
+    "Worldbuilding/Magic/Leyline Dust.md",
+    "Worldbuilding/Magic/Magic.md",
+    "Worldbuilding/Magic/Lich.md",
+    "Rules/Classes/Mage.md",
+    "Rules/Classes/Arcane Traditions/Blood Priest.md",
     "Rules/Encounters/Wilderness Exploration and Expeditions.md",
     "Rules/Encounters/Travel.md",
     "Rules/Equipment/Hirelings and Services.md",
@@ -193,11 +199,7 @@
     "Rules/Equipment/Money and Currency.md",
     "2025-01-01.md",
     "Untitled.canvas",
-    "Rules/Classes/Warrior.md",
-    "Rules/Character/Skills.md",
     "Rules/Encounters/Dungeon Exploration.md",
-    "Rules/Combat/Scenes, Rounds, and Mission Time.md",
-    "Rules/Character/Character Advancement.md",
     "Rules/Encounters",
     "Rules/Equipment",
     "Rules/Classes/Arcane Traditions",

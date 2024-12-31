@@ -10,7 +10,7 @@ A hero wearing no armor at all has a base Armor Class of 10, modified by their D
 
 **Heavy armor** is the thickest, toughest panoply available on the market, and its bulk and noise make its encumbrance apply as a penalty to Sneak or Exert checks made by the wearer.
 ### Shields
-Shields come in two general varieties. Small ones, often made of costlier metal, can be strapped to the wearer’s arm and allow them to hold and manipulate objects with that hand, albeit not wield a weapon with it. Larger shields are of cheaper wood and require a good grip. 
+Shields come in two general varieties. Small ones, often made of costlier metal, can be strapped to the wearer’s arm and allow them to hold and manipulate objects with that hand, albeit not wield a [[Weapons|weapon]] with it. Larger shields are of cheaper wood and require a good grip. 
 
 A small shield user has a base AC of 13, while a large shield user has a base AC of 14. Unlike other armor, however, if the user is already wearing equal or better armor the shield grants a +1 bonus to their AC. Shields allow the bearer to ignore the first instance of [[Attacking#Shock|shock]] they might otherwise suffer in a round.
 ### Types of Armor

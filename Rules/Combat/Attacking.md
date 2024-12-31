@@ -1,4 +1,4 @@
-When a combatant wants to harm an enemy, they need to make an attack roll. An attack usually counts as a [[Action Types#Main Actions|Main Action]] and the assailant must be close enough to actually hit the target with whatever weapon they have to hand.
+When a combatant wants to harm an enemy, they need to make an attack roll. An attack usually counts as a [[Action Types#Main Actions|Main Action]] and the assailant must be close enough to actually hit the target with whatever [[Weapons|weapon]] they have to hand.
 ## Attack Rolls
 When an assailant makes an attack, they roll 1d20 and add their base attack bonus, the weapon’s relevant [[Attributes|attribute]] modifier, and their relevant combat [[Skills|skill]] level. If they lack even level-0 in the appropriate combat skill, they apply a -2 penalty to the roll. If the total is equal or greater than the target’s relevant Melee or Ranged Armor Class, they hit. If less, they miss. 
 

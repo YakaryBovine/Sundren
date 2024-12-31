@@ -28,7 +28,7 @@ The following skills are standard to most fantasy campaigns. GMs may add or subt
 **Punch**: Fight unarmed or with natural body weaponry. Punch, kick, grapple, or otherwise brawl without the benefit of man-made tools. This mode of fighting is inefficient at best without some special Focus to improve it, but it’s reliably non-lethal. 
 **Ride**: Ride an animal, drive a cart or carriage, or otherwise deal with land transportation. This skill also includes competence at mount care and tending, basic cart or carriage repair, judging good horseflesh, and other skills appropriate to a beast-rider of whatever society the PC comes from. 
 **Sail**: [[Travel#Sea Travel|Sail]] or repair a ship, build small craft, navigate by the stars, read sea weather, manage sailors, and otherwise conduct the business of a professional mariner. This skill may apply to more esoteric means of vehicular travel in some societies. 
-**Shoot**: Fire a bow or crossbow or throw a hurled weapon. Maintain ranged weaponry and fletch arrows. 
+**Shoot**: Fire a bow or crossbow or throw a hurled [[Weapons|weapon]]. Maintain ranged weaponry and fletch arrows. 
 **Sneak**: Move silently, hide in shadows, avoid notice, pick pockets, disguise yourself, pick locks, defeat traps, or otherwise overcome security measures. 
 **Stab**: Fight with melee weapons or throw a hurled weapon. Maintain and identify weaponry. 
 **Survive**: Hunt, fish, navigate by the stars, mitigate environmental hazards, identify plants and wildlife, and craft basic survival tools and shelter. A PC’s Survive skill is most pertinent to the environments in their background, but the basic principles can be applied in all but the most alien environments. 

@@ -41,7 +41,7 @@ Choose an [[Equipment Packages|Equipment Package]] or roll 3d6 x 10 to find out 
 ### 11. Record weapon attack bonuses
 Mark down your total attack bonus with your weaponry. This is equal to your base attack bonus, plus either your Punch, Stab, or Shoot [[Skills|skill]] depending on the kind of weapon it is, plus your relevant at tribute modifier. The [[Weapons|weapons]] article will tell you which attribute is used for a particular weapon. If two attributes are listed, use the best one for your hero. If you haven’t even got level-0 skill at combat, take a -2 penalty on the hit roll.
 ### 12. Record your weapon damages
-Note down the damage done by your weapons. T his is equal to its base damage dice plus its attri bute modifier. If it’s a Punch weapon, you can add your Punch skill to the damage as well.
+Note down the damage done by your weapons. T his is equal to its base damage dice plus its attribute modifier. If it’s a Punch weapon, you can add your Punch skill to the damage as well.
 ### 13. Record your Armor Class
 Record your Armor Class, the measure of how hard it is to hurt your hero in a fight. The [[Armor]] article gives the score for a given harness. Different suits of [[Armor|armor]] grant different Armor Classes; if you aren’t wearing any armor at all, your base AC is 10. Add your Dexterity [[Attributes#Attribute Modifiers|modifier]] to this AC. In order to hurt your PC, an enemy has to roll an attack roll on a d20, adding their attack bonus and equaling or exceeding your AC.
 ### 14. Record your Saving Throws
