@@ -11,10 +11,14 @@
             "id": "24c2f5af9a4842d7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Worldbuilding/Characters/The Last Legion.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Last Legion"
             }
           }
         ]
@@ -166,8 +170,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "24c2f5af9a4842d7",
+  "active": "d80c75e904dcb1f4",
   "lastOpenFiles": [
+    "Worldbuilding/Characters/Khamil Morthos.md",
+    "Worldbuilding/Characters/The Last Legion.md",
     "Rules/Falling and Other Hazards.md",
     "Rules/Fundamentals/Character Creation.md",
     "Rules/Fundamentals/Saving Throws.md",
@@ -193,8 +199,6 @@
     "Rules/Classes/Arcane Traditions/Beastmaster.md",
     "Rules/Classes/Arcane Traditions/Blood Priest.md",
     "Paladin.md",
-    "Rules/Classes/Mage.md",
-    "Rules/Classes/Warrior.md",
     "Rules/Classes/Arcane Traditions",
     "Campaign/Untitled",
     "Untitled",
