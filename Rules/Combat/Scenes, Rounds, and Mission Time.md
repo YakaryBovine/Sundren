@@ -6,4 +6,4 @@ A scene is one particular fight, event, activity, or effort that usually doesn�
 ### Rounds
 [[Combat Sequence|Combat]] is made up of rounds, each one lasting approximately six seconds. A single combat may involve multiple rounds of action. A round begins with the actions of the side that wins initiative and ends after the actions of the side that lost initiative.
 ### Turns
-Sometimes it’s important to track the time of a more complex operation, like exploring a dungeon or navigating the trackless depths of some ancient ruin. In such cases, the turn is a common measure of time. Each turn lasts ten minutes and is equivalent to one scene for those situations when it matters.
+Sometimes it’s important to track the time of a more complex operation, like [[Dungeon Exploration|exploring a dungeon]] or navigating the trackless depths of some ancient ruin. In such cases, the turn is a common measure of time. Each turn lasts ten minutes and is equivalent to one scene for those situations when it matters.
