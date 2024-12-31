@@ -1,7 +1,7 @@
 ## Overland Travel
 PCs can generally travel for ten hours a day in most seasons, the rest being absorbed in rest, camp construction, and incidental activities. For each hour of travel they can cross as many miles of a given terrain as listed in the table. This travel presumes that the PCs are moving directly toward their destination and not taking any particular time to scout the area for points of interest or investigate their surroundings. This rate of travel also assumes average walking or wagon speeds; horses can be used by their riders for quick bursts of speed to chase or avoid others, but don’t increase the average travel rate much. 
 
-For every day of travel and every night of camping outdoors, the GM rolls one die for a wandering encounter check. The die used will depend on the terrain, with safer or more peaceful lands using a larger die size. On a 1, the PCs come upon creatures or a situation that requires their attention.
+For every day of travel and every night of camping outdoors, the GM rolls one die for a [[Wilderness Exploration and Expeditions#Wandering Encounters|wandering encounter]] check. The die used will depend on the terrain, with safer or more peaceful lands using a larger die size. On a 1, the PCs come upon creatures or a situation that requires their attention.
 
 Assuming it’s not an ambush or a sudden encounter in an obscured area, the groups usually encounter each other at maximum sight range. An [[Skill Checks#Opposed Skill Checks|opposed]] Wis/Notice check can be used to determine who spots who first; PCs who get the edge can usually avoid the other group automatically if they have sufficient cover. 
 

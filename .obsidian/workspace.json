@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "82f34f861915f243",
+        "id": "b5bb36201d886a13",
         "type": "tabs",
         "children": [
           {
-            "id": "bbef6b6e8a7fc6fd",
+            "id": "ccc026f2abebb90b",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "travel",
+                "query": "wandering encounter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,10 +167,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d80c75e904dcb1f4",
+  "active": "ccc026f2abebb90b",
   "lastOpenFiles": [
-    "Rules/Fundamentals/Skills.md",
     "Rules/Travel.md",
+    "Rules/Wilderness Exploration and Expeditions.md",
+    "Rules/Fundamentals/Effort.md",
+    "Worldbuilding/Locations/Splint.md",
+    "Rules/Fundamentals/Skills.md",
     "Rules/Chases and Pursuit.md",
     "Worldbuilding/Factions/Followers of the Cycle.md",
     "Worldbuilding/Characters/The Last Legion.md",
@@ -192,10 +195,7 @@
     "Rules/Combat/Combat Sequence.md",
     "Rules/Combat/Common Combat Actions.md",
     "Rules/Combat/Action Types.md",
-    "Rules/Classes/Expert.md",
     "Rules/Equipment",
-    "Rules/Fundamentals/Effort.md",
-    "Campaign/Backstory and Character.md",
     "Rules/Classes/Arcane Traditions",
     "Campaign/Untitled",
     "Untitled",
