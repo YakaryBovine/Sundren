@@ -12,7 +12,7 @@ These rules assume both targets are man-sized. Grappling or shoving significantl
 ## Dual Wielding Weapons
 PCs who wish to wield two one-handed weapons at once may do so if they have at least Stab-1 [[Skills|skill]]. Doing so grants them a +2 bonus to [[Attacking#Damage Rolls|damage rolls]], albeit not to [[Shock Damage|Shock]]. They suffer a -1 penalty on [[Attacking#Hit Rolls|hit rolls]], however, due to the extra complication. Only one weapon may be used to attack in any given round, but either one may be used. Unarmed combatants cannot dual-wield.
 ## Execution Attacks
-A target that is completely unaware of danger is vulnerable to a quick and bloody death, no matter how great their martial prowess or how thick their armor. An Execution Attack gives an assailant an opportunity to slay a foe with a single well-placed arrow or blade. 
+A target that is completely unaware of danger is vulnerable to a quick and bloody death, no matter how great their martial prowess or how thick their [[Armor|armor]]. An Execution Attack gives an assailant an opportunity to slay a foe with a single well-placed arrow or blade. 
 
 Setting up such an attack requires a full minute of preparation. Archers, gunmen, and other ranged attackers must spend it judging distance, wind, and details of aim, while melee assassins must use it to drift up to the target and position themselves in the exact right place for the attack. Melee assassins must use a weapon for an Execution Attack, unless they have such special training as to make their unarmed attacks unusually lethal. If the target is spooked, the opportunity is lost.
 

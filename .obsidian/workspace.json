@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Equipment/Adventuring Gear.md",
+                "file": "Rules/Combat/Special Combat Maneuvers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adventuring Gear"
+              "title": "Special Combat Maneuvers"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "silver",
+                "query": "armor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,16 +173,25 @@
   },
   "active": "081f7c89a4c0f7c5",
   "lastOpenFiles": [
+    "Rules/Classes/Mage.md",
     "Rules/Equipment/Crafting and Modifying Gear.md",
+    "Rules/Combat/Common Combat Actions.md",
+    "Rules/Character/Character Creation.md",
+    "Rules/Classes/Arcane Traditions/Blood Priest.md",
+    "Rules/Classes/Arcane Traditions/Beastmaster.md",
+    "Campaign/Backstory and Character.md",
+    "Rules/Combat/Attacking.md",
+    "Rules/Equipment/Armor.md",
+    "Rules/Classes/Arcane Traditions/Accursed.md",
+    "Rules/Encounters/Wilderness Exploration and Expeditions.md",
+    "Rules/Encounters/Travel.md",
+    "Rules/Equipment/Hirelings and Services.md",
+    "Rules/Equipment/Encumbrance.md",
     "Rules/Equipment/Adventuring Gear.md",
+    "Rules/Equipment/Money and Currency.md",
     "2025-01-01.md",
     "Untitled.canvas",
-    "Rules/Character/Character Creation.md",
-    "Rules/Equipment/Money and Currency.md",
-    "Rules/Equipment/Encumbrance.md",
     "Rules/Classes/Warrior.md",
-    "Rules/Combat/Common Combat Actions.md",
-    "Rules/Classes/Mage.md",
     "Rules/Character/Skills.md",
     "Rules/Encounters/Dungeon Exploration.md",
     "Rules/Combat/Scenes, Rounds, and Mission Time.md",
@@ -190,16 +200,7 @@
     "Rules/Character/Injury, Healing, and System Strain.md",
     "Rules/Character/Saving Throws.md",
     "Rules/Character/Skill Checks.md",
-    "Rules/Encounters/Chases and Pursuit.md",
-    "Rules/Encounters/Falling and Other Hazards.md",
-    "Rules/Encounters/Travel.md",
-    "Rules/Encounters/Wilderness Exploration and Expeditions.md",
     "Rules/Encounters",
-    "Worldbuilding/Locations/Splint.md",
-    "Worldbuilding/Factions/Followers of the Cycle.md",
-    "Worldbuilding/Characters/The Last Legion.md",
-    "Worldbuilding/Characters/Khamil Morthos.md",
-    "Rules/Character/Attributes.md",
     "Rules/Equipment",
     "Rules/Classes/Arcane Traditions",
     "Campaign/Untitled",

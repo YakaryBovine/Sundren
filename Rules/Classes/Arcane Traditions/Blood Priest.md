@@ -9,7 +9,7 @@ All Blood Priests get 2 bonus [[Character Creation#6. Choose your Skills|skill p
 ## Arts
 Blood Priest [[Effort]] is calculated with Pray, with their total maximum Effort being equal to their Pray skill plus the higher of their Wisdom or Charisma [[Attributes#Attribute Modifiers|modifiers]], to a minimum of one point. 
 
-At first level, the Blood Priest may choose two of the following miracles to master, and gain more as they advance in levels. Once chosen, a miracle pick is permanent and cannot be changed later. Miracles are not hindered by the wearing of armor and require no gestures or free hand to employ, though usually a prayer must be vocalized as part of the action.
+At first level, the Blood Priest may choose two of the following miracles to master, and gain more as they advance in levels. Once chosen, a miracle pick is permanent and cannot be changed later. Miracles are not hindered by the wearing of [[Armor|armor]] and require no gestures or free hand to employ, though usually a prayer must be vocalized as part of the action.
 
 **A Thousand Tongues:** Commit Effort as an [[Action Types#On Turn Actions|on turn action]]; while it remains Committed, you can speak with and understand any sentient creature with a language of their own. To any listener, it will seem as if you are perfectly fluent in their own language, even as you speak in your own native tongue. This ability does not allow you to read or write unknown languages.
 **Armor of God:** Commit Effort as an On Turn action. While the Effort remains Committed, you have a natural Armor Class of 15 plus half your level, rounded down. This AC can be modified by shields or your Dexterity modifier, but not by other worn armor.
