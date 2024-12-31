@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5e37de9ff54453a9",
+        "id": "aceabbd7913d8422",
         "type": "tabs",
         "children": [
           {
-            "id": "0ef9d1625ffcc004",
+            "id": "081f7c89a4c0f7c5",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Rules/Equipment/Crafting and Modifying Gear.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "Crafting and Modifying Gear"
             }
           }
         ]
@@ -51,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "snap attack",
+                "query": "silver",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,15 +171,18 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0ef9d1625ffcc004",
+  "active": "081f7c89a4c0f7c5",
   "lastOpenFiles": [
+    "Rules/Character/Character Creation.md",
+    "Rules/Equipment/Money and Currency.md",
+    "Rules/Equipment/Encumbrance.md",
+    "Rules/Equipment/Crafting and Modifying Gear.md",
     "Rules/Classes/Warrior.md",
     "Rules/Combat/Common Combat Actions.md",
     "Rules/Classes/Mage.md",
     "Rules/Character/Skills.md",
     "Rules/Encounters/Dungeon Exploration.md",
     "Rules/Combat/Scenes, Rounds, and Mission Time.md",
-    "Rules/Character/Character Creation.md",
     "Rules/Character/Character Advancement.md",
     "Rules/Character/Effort.md",
     "Rules/Character/Injury, Healing, and System Strain.md",
@@ -195,10 +199,7 @@
     "Worldbuilding/Characters/Khamil Morthos.md",
     "Rules/Character/Attributes.md",
     "Skill Check.md",
-    "Rules/Equipment/Crafting and Modifying Gear.md",
-    "Rules/Equipment/Encumbrance.md",
     "Rules/Classes/Arcane Traditions/Accursed.md",
-    "Rules/Combat/Special Combat Maneuvers.md",
     "Rules/Equipment",
     "Rules/Classes/Arcane Traditions",
     "Campaign/Untitled",

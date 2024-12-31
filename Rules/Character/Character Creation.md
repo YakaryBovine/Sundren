@@ -37,7 +37,7 @@ Roll your maximum hit points and add your [[Attributes|Constitution]] modifier, 
 ### 9. Record base attack bonus
 Note down any base attack bonus you may have. This will vary based on your class; check your class article to see what your hero's basic martial aptitude might be.
 ### 10. Choose an equipment package
-Choose an [[Equipment Packages|Equipment Package]] or roll 3d6 x 10 to find out how many starting silver pieces you have with which to buy gear.
+Choose an [[Equipment Packages|Equipment Package]] or roll 3d6 x 10 to find out how many starting [[Money and Currency|silver]] pieces you have with which to buy gear.
 ### 11. Record weapon attack bonuses
 Mark down your total attack bonus with your weaponry. This is equal to your base attack bonus, plus either your Punch, Stab, or Shoot [[Skills|skill]] depending on the kind of weapon it is, plus your relevant at tribute modifier. The [[Weapons|weapons]] article will tell you which attribute is used for a particular weapon. If two attributes are listed, use the best one for your hero. If you haven’t even got level-0 skill at combat, take a -2 penalty on the hit roll.
 ### 12. Record your weapon damages

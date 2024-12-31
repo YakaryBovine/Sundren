@@ -14,7 +14,7 @@ Mastercrafted devices cost ten times as much in parts as the usual market cost a
 ## Modifying Gear
 Crafted or purchased gear can be modified by a skilled artisan. Crafting mods also requires a minimum Fix skill. Without this skill level the tech cannot install the mod or maintain it afterwards.
 
-Crafting and installing mods has a cost in silver and sometimes in arcane salvage. The latter consists of rare monster parts, esoteric materials, and exotic components that cannot normally be bought on the open market, but must be acquired by adventuring or in payment from patrons. Arcane salvage is generic in nature; a given piece can be used in any mod that requires salvage. 
+Crafting and installing mods has a cost in [[Money and Currency|silver]] and sometimes in arcane salvage. The latter consists of rare monster parts, esoteric materials, and exotic components that cannot normally be bought on the open market, but must be acquired by adventuring or in payment from patrons. Arcane salvage is generic in nature; a given piece can be used in any mod that requires salvage. 
 
 It takes one week per minimum skill level of the mod to build and install it. Thus, if the mod requires Craft-1 skill, it takes one week. If the artisan has an assistant with at least Craft-0 skill, this time is halved. If they do nothing but eat, sleep, and work, this time is further halved.
 ### Maintaining Mods
