@@ -13,11 +13,11 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/workspace.json",
+                "file": "Worldbuilding/Magic/Sacrifice.md",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "title": "Diff View (Sacrifice)"
             }
           }
         ]
@@ -169,10 +169,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "081f7c89a4c0f7c5",
+  "active": "d80c75e904dcb1f4",
   "lastOpenFiles": [
-    "Worldbuilding/Magic/Leyline Dust.md",
     "Worldbuilding/Magic/Lich.md",
+    "Worldbuilding/Magic/Leyline Dust.md",
     "Worldbuilding/Magic/Magic.md",
     "Rules/Combat/Special Combat Maneuvers.md",
     "Rules/Classes/Mage.md",
