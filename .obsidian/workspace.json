@@ -13,11 +13,11 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Rules/Fundamentals/Character Creation.md",
+                "file": "Campaign/Backstory and Character.md",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (Character Creation)"
+              "title": "Diff View (Backstory and Character)"
             }
           }
         ]
@@ -169,17 +169,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d80c75e904dcb1f4",
+  "active": "b2c56841cfdd59d3",
   "lastOpenFiles": [
     "Campaign/Backstory and Character.md",
     "Rules/Fundamentals/Character Creation.md",
     "Rules/Fundamentals/Character Advancement.md",
-    "Rules/Fundamentals/Skills.md",
+    "Rules/Fundamentals/Skill Checks.md",
     "Rules/Injury, Healing, and System Strain.md",
+    "Rules/Fundamentals/Skills.md",
     "Rules/Fundamentals/Effort.md",
     "Rules/Fundamentals/Attributes.md",
     "Rules/Fundamentals/Saving Throws.md",
-    "Rules/Fundamentals/Skill Checks.md",
     "Rules/Classes/Arcane Traditions/Accursed.md",
     "Rules/Classes/Arcane Traditions/Beastmaster.md",
     "Rules/Classes/Arcane Traditions/Blood Priest.md",

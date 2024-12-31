@@ -1,5 +1,5 @@
 ## Creating a character that plays well with others
-In my game, we focus on the adventures we share at the table rather than the things we write away from it. I only want to see characters that contribute to that shared experience, and for that, simple is best. All characters must meet the following criteria. I am happy to assist in character creation if asked.
+In my campaign, we'll focus on the adventures we share at the table. Characters should be geared towards contributing to this shared experience, and for that, simple is best. All characters must meet the following criteria. Character creation should be a collaborative experience; talk to me and your fellow players about what you're making!
 
 Throughout this guidance, consider this exemplar backstory: 
 >"Caedor is a wizened elder from a small village who discovered her magical talents late in life. Now aching for magical knowledge to add to her already expansive mundane repertoire, she seeks to delve into the most dangerous of dungeons to find the most esoteric of spells."
@@ -8,7 +8,7 @@ Throughout this guidance, consider this exemplar backstory: 
 2. Limit backstories to 1-3 sentences.
 3. Make a character that's deeply invested in whatever the campaign is about.
 4. Make sure you understand the basics of the [[#Creating a character that fits in the universe|world you're playing]], and make your character fit neatly into that world.
-5. Ensure your character wants to adventure with the party. No loners, no character conflict, and no refusal of the call to action.
+5. Ensure your character wants to adventure with the party. No loners, no intra-party character conflict, and no refusal of the call to action.
 6. Make a skilled character. You're doing dangerous things in a dangerous world, so your character needs to be someone who can pull their weight and isn't afraid to do it.
 7. No secrets. We're not going to spend any time exploring your character's secrets at the table.
 8. No strong opinions that impede your character's ability to do the adventure or work with other characters. You can't have a problem with Necromancy if one of your party members is a Necromancer, because it wouldn't make any sense for you to adventure with each other.
