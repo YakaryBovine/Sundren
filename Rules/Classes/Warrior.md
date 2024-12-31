@@ -11,6 +11,9 @@ Once per scene, as an Instant action, the Warrior may turn a missed attack they 
 Only one exercise of this ability is possible in a scene, either to force a miss or ensure a hit on a foe; both options may not be employed in the same fight. 
 
 A Warrior may use this ability with crew-served weapons they are assisting in firing. This ability cannot be used to negate environmental damage or damage done to a vehicle or mount they are riding.
+
+> [!info] Snap Attack
+> Together with [[Common Combat Actions#Snap Attack - Instant Action|Snap Attack]], Veteran's Luck can be used to get a guaranteed hit on an enemy even when it's not your turn. 
 ### Full Warrior
 | Level | Hit Dice | Attack Bonus | Focus Picks       |
 | ----- | -------- | ------------ | ----------------- |

@@ -4,17 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "44b1cf08aab917cd",
+        "id": "5e37de9ff54453a9",
         "type": "tabs",
         "children": [
           {
-            "id": "4cf8eab48c18249a",
+            "id": "0ef9d1625ffcc004",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
             }
           }
         ]
@@ -48,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wandering encounter",
+                "query": "snap attack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +72,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,8 +170,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "4cf8eab48c18249a",
+  "active": "0ef9d1625ffcc004",
   "lastOpenFiles": [
+    "Rules/Classes/Warrior.md",
+    "Rules/Combat/Common Combat Actions.md",
+    "Rules/Classes/Mage.md",
     "Rules/Character/Skills.md",
     "Rules/Encounters/Dungeon Exploration.md",
     "Rules/Combat/Scenes, Rounds, and Mission Time.md",
@@ -192,9 +199,6 @@
     "Rules/Equipment/Encumbrance.md",
     "Rules/Classes/Arcane Traditions/Accursed.md",
     "Rules/Combat/Special Combat Maneuvers.md",
-    "Rules/Combat/Attacking.md",
-    "Rules/Combat/Combat Sequence.md",
-    "Rules/Combat/Common Combat Actions.md",
     "Rules/Equipment",
     "Rules/Classes/Arcane Traditions",
     "Campaign/Untitled",
