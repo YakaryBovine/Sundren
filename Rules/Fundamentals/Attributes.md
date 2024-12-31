@@ -6,8 +6,8 @@ aliases:
 A character has six attributes ranging from 3 to 18, reflecting a range from the minimum viable capacity for a playable character to the maximum normal human level. 
 
 Three of these attributes are physical. 
-**Strength**, reflecting physical prowess, melee combat, carrying gear, and brute force. 
-**Dexterity**, reflecting speed, evasion, manual dexterity, reaction time, and combat initiative. **Constitution**, reflecting hardiness, enduring injury, and tolerating large amounts of magical healing. 
+**Strength**, reflecting physical prowess, melee combat, [[Encumbrance|carrying gear]], and brute force. 
+**Dexterity**, reflecting speed, evasion, manual dexterity, reaction time, and combat [[Initiative|initiative]]. **Constitution**, reflecting hardiness, enduring injury, and [[Injury, Healing, and System Strain#System Strain|tolerating magical healing]]. 
 
 Three are mental attributes. 
 **Intelligence**, reflecting memory, reasoning, technical skills, and general education. 

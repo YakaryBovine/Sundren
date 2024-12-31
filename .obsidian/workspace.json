@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7483b432d4030ecc",
+        "id": "28f3f4eef14639ab",
         "type": "tabs",
         "children": [
           {
-            "id": "b2c56841cfdd59d3",
+            "id": "a3899f0ec2e6982f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Rules/Fundamentals/Skills.md",
-                "staged": false
+                "file": "Rules/Equipment/Encumbrance.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Skills)"
+              "icon": "lucide-file",
+              "title": "Encumbrance"
             }
           }
         ]
@@ -51,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "craft",
+                "query": "attrib",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,24 +171,28 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d80c75e904dcb1f4",
+  "active": "a3899f0ec2e6982f",
   "lastOpenFiles": [
-    "Rules/Combat/Common Combat Actions.md",
+    "Rules/Fundamentals/Attributes.md",
+    "Rules/Classes/Arcane Traditions/Accursed.md",
+    "Rules/Equipment/Encumbrance.md",
     "Rules/Equipment/Crafting and Modifying Gear.md",
+    "Rules/Combat/Special Combat Maneuvers.md",
+    "Rules/Combat/Scenes, Rounds, and Mission Time.md",
+    "Rules/Combat/Attacking.md",
+    "Rules/Combat/Combat Sequence.md",
+    "Rules/Combat/Common Combat Actions.md",
+    "Rules/Combat/Action Types.md",
     "Rules/Fundamentals/Skills.md",
     "Rules/Classes/Expert.md",
     "Rules/Equipment",
     "Rules/Injury, Healing, and System Strain.md",
-    "Rules/Combat/Action Types.md",
-    "Rules/Combat/Attacking.md",
-    "Rules/Fundamentals/Attributes.md",
     "Rules/Fundamentals/Character Advancement.md",
     "Rules/Fundamentals/Character Creation.md",
     "Rules/Fundamentals/Effort.md",
     "Rules/Fundamentals/Saving Throws.md",
     "Rules/Fundamentals/Skill Checks.md",
     "Campaign/Backstory and Character.md",
-    "Rules/Classes/Arcane Traditions/Accursed.md",
     "Rules/Classes/Arcane Traditions/Beastmaster.md",
     "Rules/Classes/Arcane Traditions/Blood Priest.md",
     "Paladin.md",
@@ -195,10 +201,6 @@
     "Rules/Classes/Untitled.md",
     "Rules/Classes/Arcane Traditions",
     "README.md",
-    "Rules/Combat/Combat Sequence.md",
-    "Rules/Combat/Scenes, Rounds, and Mission Time.md",
-    "Worldbuilding/Metaphysics/Celestial.md",
-    "Worldbuilding/Metaphysics/Elemental.md",
     "Campaign/Untitled",
     "Untitled",
     "Campaign",
