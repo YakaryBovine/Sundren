@@ -13,11 +13,11 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Campaign/Backstory and Character.md",
+                "file": "Rules/Fundamentals/Skills.md",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (Backstory and Character)"
+              "title": "Diff View (Skills)"
             }
           }
         ]
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "effort",
+                "query": "craft",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,36 +169,36 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b2c56841cfdd59d3",
+  "active": "d80c75e904dcb1f4",
   "lastOpenFiles": [
-    "Campaign/Backstory and Character.md",
-    "Rules/Fundamentals/Character Creation.md",
-    "Rules/Fundamentals/Character Advancement.md",
-    "Rules/Fundamentals/Skill Checks.md",
-    "Rules/Injury, Healing, and System Strain.md",
+    "Rules/Combat/Common Combat Actions.md",
+    "Rules/Equipment/Crafting and Modifying Gear.md",
     "Rules/Fundamentals/Skills.md",
-    "Rules/Fundamentals/Effort.md",
+    "Rules/Classes/Expert.md",
+    "Rules/Equipment",
+    "Rules/Injury, Healing, and System Strain.md",
+    "Rules/Combat/Action Types.md",
+    "Rules/Combat/Attacking.md",
     "Rules/Fundamentals/Attributes.md",
+    "Rules/Fundamentals/Character Advancement.md",
+    "Rules/Fundamentals/Character Creation.md",
+    "Rules/Fundamentals/Effort.md",
     "Rules/Fundamentals/Saving Throws.md",
+    "Rules/Fundamentals/Skill Checks.md",
+    "Campaign/Backstory and Character.md",
     "Rules/Classes/Arcane Traditions/Accursed.md",
     "Rules/Classes/Arcane Traditions/Beastmaster.md",
     "Rules/Classes/Arcane Traditions/Blood Priest.md",
     "Paladin.md",
-    "Rules/Classes/Expert.md",
     "Rules/Classes/Mage.md",
     "Rules/Classes/Warrior.md",
     "Rules/Classes/Untitled.md",
     "Rules/Classes/Arcane Traditions",
-    "Rules/Combat/Action Types.md",
-    "Rules/Combat/Attacking.md",
     "README.md",
     "Rules/Combat/Combat Sequence.md",
     "Rules/Combat/Scenes, Rounds, and Mission Time.md",
     "Worldbuilding/Metaphysics/Celestial.md",
     "Worldbuilding/Metaphysics/Elemental.md",
-    "Worldbuilding/Metaphysics/Fiend.md",
-    "Worldbuilding/Metaphysics/Primal.md",
-    "Rules/Untitled",
     "Campaign/Untitled",
     "Untitled",
     "Campaign",

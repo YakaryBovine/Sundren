@@ -7,6 +7,10 @@ Experts are also capable combatants, fully able to hold their own in the midst o
 Once per scene, a Full Expert may reroll any non-combat [[Skill Checks|skill check]] as an Instant action. This allows the Expert to make a roll and then immediately use this ability if the resulting total isn’t good enough to succeed. In cases where it matters, the better of the two rolls may be used. Note that the typical ten-minute dungeon exploration [[Scenes, Rounds, and Mission Time#Turns|turn]] generally counts as a [[Scenes, Rounds, and Mission Time#Scenes|scene]], allowing the Full Expert to use this ability every turn if they so wish. Partial Experts do not receive this ability.
 ### Class Ability: Quick Learner 
 When you advance a character level, you gain an extra skill point which may only be spent on gaining or improving non-combat skills or raising attributes. You may save this point to spend later if you wish. Partial Experts do receive this ability.
+
+> [!tip] Crafting
+> Experts and Partial Experts can also [[Crafting and Modifying Gear|craft]]. Crafting is very powerful, so it's worth understanding if you have an Expert in your party.
+
 ### Full Expert
 | Level | Hit Dice | Attack Bonus | Focus Picks      |
 | ----- | -------- | ------------ | ---------------- |
