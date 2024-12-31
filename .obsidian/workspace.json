@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b5bb36201d886a13",
+        "id": "44b1cf08aab917cd",
         "type": "tabs",
         "children": [
           {
-            "id": "ccc026f2abebb90b",
+            "id": "4cf8eab48c18249a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Character/Character Creation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character Creation"
             }
           }
         ]
@@ -69,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,24 +170,25 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ccc026f2abebb90b",
+  "active": "4cf8eab48c18249a",
   "lastOpenFiles": [
-    "Rules/Travel.md",
-    "Rules/Wilderness Exploration and Expeditions.md",
-    "Rules/Fundamentals/Effort.md",
+    "Rules/Character/Character Advancement.md",
+    "Rules/Character/Effort.md",
+    "Rules/Character/Injury, Healing, and System Strain.md",
+    "Rules/Character/Character Creation.md",
+    "Rules/Character/Saving Throws.md",
+    "Rules/Character/Skill Checks.md",
+    "Rules/Character/Skills.md",
+    "Rules/Encounters/Chases and Pursuit.md",
+    "Rules/Encounters/Falling and Other Hazards.md",
+    "Rules/Encounters/Travel.md",
+    "Rules/Encounters/Wilderness Exploration and Expeditions.md",
+    "Rules/Encounters",
     "Worldbuilding/Locations/Splint.md",
-    "Rules/Fundamentals/Skills.md",
-    "Rules/Chases and Pursuit.md",
     "Worldbuilding/Factions/Followers of the Cycle.md",
     "Worldbuilding/Characters/The Last Legion.md",
     "Worldbuilding/Characters/Khamil Morthos.md",
-    "Rules/Falling and Other Hazards.md",
-    "Rules/Fundamentals/Character Creation.md",
-    "Rules/Fundamentals/Saving Throws.md",
-    "Rules/Fundamentals/Skill Checks.md",
-    "Rules/Fundamentals/Attributes.md",
-    "Rules/Fundamentals/Character Advancement.md",
-    "Rules/Injury, Healing, and System Strain.md",
+    "Rules/Character/Attributes.md",
     "Skill Check.md",
     "Rules/Equipment/Crafting and Modifying Gear.md",
     "Rules/Equipment/Encumbrance.md",
@@ -194,19 +198,17 @@
     "Rules/Combat/Attacking.md",
     "Rules/Combat/Combat Sequence.md",
     "Rules/Combat/Common Combat Actions.md",
-    "Rules/Combat/Action Types.md",
     "Rules/Equipment",
     "Rules/Classes/Arcane Traditions",
     "Campaign/Untitled",
     "Untitled",
     "Campaign",
-    "Rules/Fundamentals",
+    "Rules/Character",
     "Rules/Combat",
     "Worldbuilding/Images/Elemental.png",
     "Worldbuilding/Images/Barduum.jpg",
     "Rules/Classes",
     "Worldbuilding",
-    "Rules",
     "Worldbuilding/Images/Primal.jpg",
     "Worldbuilding/Images/Eidolon.jpg",
     "Worldbuilding/Images/Warforged.jpg",
