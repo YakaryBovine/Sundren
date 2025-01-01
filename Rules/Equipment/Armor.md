@@ -1,6 +1,6 @@
 While some martial adepts or tradition-bound sorcerers shun armor, most adventurers find it necessary to put something solid between them and their enemies. 
 
-Armor must be worn as a Readied item, counting against the hero’s [[Encumbrance|encumbrance]] limit. Each type of armor grants a different base Armor Class to the wearer, making it more difficult for enemies to land a telling blow. This Armor Class is modified by the wearer’s Dexterity [[Attributes#Attribute Modifiers|Dexterity]] and by any [[#Shields|shield]] they might carry. Multiple suits of armor do not stack; only one can usefully benefit a wearer.
+Armor must be worn as a Readied item, counting against the hero’s [[Encumbrance|encumbrance]] limit. Each type of armor grants a different base Armor Class to the wearer, making it more difficult for enemies to land a telling blow. This Armor Class is modified by the wearer’s [[Attributes#Attribute Modifiers|Dexterity]] and by any [[#Shields|shield]] they might carry. Multiple suits of armor do not stack; only one can usefully benefit a wearer.
 
 A hero wearing no armor at all has a base Armor Class of 10, modified by their Dexterity modifier. If they pick up a shield they can improve this to either AC 13 or AC 14, depending on the size of the shield.
 ### Light, Medium, and Heavy Armor
