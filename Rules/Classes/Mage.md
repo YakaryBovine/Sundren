@@ -1,6 +1,6 @@
 The Mage class is a general header under which all heroes with fundamentally supernatural powers or spellcasting ability are place. Once this class is chosen, the PC must choose a specific arcane tradition to follow; one is a [[High Mage]], or a [[Vowed]], or an [[Elementalist]], for example. 
 
-Not all magical traditions necessarily involve classical spell-flinging and conjury. Some traditions are much more physical in nature, granting the practitioners remarkable bodily prowess or unique magical gifts they can exercise. Some Mage traditions involve no spellcasting at all, restricting their focus entirely to the strange arcane gifts their forebears have developed. 
+Not all magical traditions necessarily involve classical [[Magic and Spellcasting|spell-flinging and conjury]]. Some traditions are much more physical in nature, granting the practitioners remarkable bodily prowess or unique magical gifts they can exercise. Some Mage traditions involve no spellcasting at all, restricting their focus entirely to the strange arcane gifts their forebears have developed. 
 
 While these spells and occult powers are impressive, they tend to come at a cost. A Mage must spend so much time focused on their studies and training that they have little time to master any other art. Most are notably weak combatants with little ability to survive hardships that would merely wound or weary a [[Warrior]]. 
 

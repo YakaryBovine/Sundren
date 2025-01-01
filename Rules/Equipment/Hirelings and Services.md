@@ -45,20 +45,20 @@ Noble lifestyles provide the very best the community can offer in fine lodging, 
 
 Aside from these weekly lifestyle costs, some other services often required by adventurers are listed.
 
-| Item                               | Cost      |
-| ---------------------------------- | --------- |
-| Impoverished lifestyle, per week   | 5 sp      |
-| Common lifestyle, per week         | 20 sp     |
-| Rich lifestyle, per week           | 200 sp    |
-| Noble lifestyle, per week          | 1,000 sp  |
-| Magical healing of wounds          | 10 sp/hp* |
-| Magical curing of a disease        | 500 sp*   |
-| Lifting a curse or undoing magic   | 1,000 sp* |
-| Casting a minor spell              | 250 sp*   |
-| Bribe to overlook a minor crime    | 10 sp     |
-| Bribe to overlook a major crime    | 500 sp    |
-| Bribe to overlook a capital crime  | 10,000 sp |
-| Hire someone for a minor crime     | 50 sp     |
-| Hire someone for a major crime     | 1,000 sp  |
-| Hire someone for an infamous crime | 25,000 sp |
+| Item                                              | Cost      |
+| ------------------------------------------------- | --------- |
+| Impoverished lifestyle, per week                  | 5 sp      |
+| Common lifestyle, per week                        | 20 sp     |
+| Rich lifestyle, per week                          | 200 sp    |
+| Noble lifestyle, per week                         | 1,000 sp  |
+| Magical healing of wounds                         | 10 sp/hp* |
+| Magical curing of a disease                       | 500 sp*   |
+| Lifting a curse or undoing magic                  | 1,000 sp* |
+| Casting a minor [[Magic and Spellcasting\|spell]] | 250 sp*   |
+| Bribe to overlook a minor crime                   | 10 sp     |
+| Bribe to overlook a major crime                   | 500 sp    |
+| Bribe to overlook a capital crime                 | 10,000 sp |
+| Hire someone for a minor crime                    | 50 sp     |
+| Hire someone for a major crime                    | 1,000 sp  |
+| Hire someone for an infamous crime                | 25,000 sp |
 \* These services are rarely available without personal connections or doing special favors, and many communities may lack them entirely.

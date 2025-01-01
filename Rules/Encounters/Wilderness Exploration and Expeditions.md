@@ -10,7 +10,7 @@ When venturing into the untamed wilderness, a group is going to need certain sup
 
 **Water** is also measured in days of water per person, each unit counting as one item of encumbrance. Exceptionally hot or dry climates may require multiples of this to avoid dehydration or over heating. 
 
-**Shelter** means adequate clothing for the climate and some kind of tent or lean-to to protect from the elements while resting. Characters with Survival-0 can put together a minimal lean-to of boughs and branches in wooded areas, but in places of torrential rain, fierce snows, or other extreme conditions it may prove more difficult. Lack of shelter can make it impossible to rest comfortably and regain Effort, HP, or spells. Severe privation can even threaten a PC’s life. 
+**Shelter** means adequate clothing for the climate and some kind of tent or lean-to to protect from the elements while resting. Characters with Survival-0 can put together a minimal lean-to of boughs and branches in wooded areas, but in places of torrential rain, fierce snows, or other extreme conditions it may prove more difficult. Lack of shelter can make it impossible to rest comfortably and regain Effort, HP, or [[Magic and Spellcasting|spell slots]]. Severe privation can even threaten a PC’s life. 
 
 **Fire** means fuel sufficient to cook food, dry wet clothes, and warm PCs after they’ve stopped moving for the day. In most places it’s easy enough for even the least wood-wise PC to scavenge enough dry wood or twigs to get a minimally sufficient fire going, but voyages into a land devoid of woody vegetation can mean trouble. A load of dung cakes, charcoal, or other fuel sufficient to keep a group warm for an ordinary night counts as four items of encumbrance.
 ### Supply Encumbrances
@@ -47,7 +47,7 @@ If the PCs don’t have enough food, water, warmth, or shelter, bad things will 
 
 [[Injury, Healing, and System Strain#System Strain|System Strain]] is gained.** If this would put the PC over their maximum, they must make a Physical [[Saving Throws|save]] or die by dawn if not aided. On a success, they’re helpless until death or rescue. 
 
-**They can’t recover** System Strain, gain nightly hit point healing, refresh daily Committed [[Effort]], or restore expended spells until they’ve had a day of proper food, water, and warm sleep.
+**They can’t recover** System Strain, gain nightly hit point healing, refresh daily Committed [[Effort]], or restore expended [[Magic and Spellcasting|spells]] until they’ve had a day of proper food, water, and warm sleep.
 ### Situations That Cause Privation
 
 | Circumstance                           | System Strain |

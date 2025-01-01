@@ -17,7 +17,7 @@ Magical forms of healing or use of powerful augmenting magic can take a toll on 
 
 A healthy character normally starts at zero System Strain and has their [[Attributes|Constitution]] score as their allowed maximum. A character cannot accumulate more than this maximum in System Strain.
 
-Magical healing and certain spells and abilities will add to a subject’s System Strain. If this addition would put them over their maximum they cannot activate the spell, benefit from healing, or otherwise gain any use from the ability. If they are forced over the maximum by some unavoidable effect, they are instead knocked unconscious for at least an hour. 
+Magical healing and certain [[Magic and Spellcasting|spell]] and abilities will add to a subject’s System Strain. If this addition would put them over their maximum they cannot activate the spell, benefit from healing, or otherwise gain any use from the ability. If they are forced over the maximum by some unavoidable effect, they are instead knocked unconscious for at least an hour. 
 
 Characters lose one point of accumulated System Strain after each night’s rest, assuming they are warm, fed, and comfortable and can get at least eight uninterrupted hours of sleep. Cold camps, stony bedding, and other sources of privation prevent this recuperation.
 ## Natural Healing
