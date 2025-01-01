@@ -9,16 +9,20 @@ If you have any topics to add to this list, please communicate them to me, ideal
 ## Lines
 - Sexual violence
 - Racism
+- Player character violence against children or slaves
 ## Veils
 - Slavery
 - Torture
 - Sexism
 - Sexual relationships of any nature
+- Incest
+- Violence against children
 ## Ask first
 - Human experimentation on player characters
 - Body horror experienced by player characters
 - Sexism towards player characters
 - Sexual relationships involving player characters
+- Cannibalism required of a player character
 ## Open
 - Death
 - Human experimentation on NPCs
@@ -26,3 +30,4 @@ If you have any topics to add to this list, please communicate them to me, ideal
 - Body horror experienced by NPCs
 - Gore
 - Romance between NPCs
+- Cannibalism between NPCs
