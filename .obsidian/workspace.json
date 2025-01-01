@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a24d4dd5d5296351",
+        "id": "28a1c6e2bfb960a4",
         "type": "tabs",
         "children": [
           {
-            "id": "30ac14ff8898ad46",
+            "id": "b9c0b094a1fdca82",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Worldbuilding/Characters/Vaad.md",
+                "file": "Campaign/Content Warning.md",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (Vaad)"
+              "title": "Diff View (Content Warning)"
             }
           }
         ]
@@ -171,6 +171,13 @@
   },
   "active": "d80c75e904dcb1f4",
   "lastOpenFiles": [
+    "Campaign/Intended Audience.md",
+    "Campaign/Content Warning.md",
+    "Campaign/Backstory and Character.md",
+    "Campaign/Open Door Policy.md",
+    "Campaign/Overview.md",
+    "Campaign/Sandbox.md",
+    "Worldbuilding/Events/Operation Oblivion.md",
     "Worldbuilding/Characters/Vaad.md",
     "Rules/Equipment/Armor.md",
     "Rules/Character/Attributes.md",
@@ -190,13 +197,6 @@
     "Rules/Character/Character Creation.md",
     "Rules/Combat/Attacking.md",
     "Rules/Equipment/Weapons.md",
-    "Rules/Combat/Special Combat Maneuvers.md",
-    "Rules/Character/Skills.md",
-    "Worldbuilding/Technology/Colossus.md",
-    "Campaign/Backstory and Character.md",
-    "Worldbuilding/Magic/Leyline Dust.md",
-    "Worldbuilding/Magic/Lich.md",
-    "Rules/Encounters/Travel.md",
     "Untitled.canvas",
     "Rules/Encounters",
     "Rules/Equipment",

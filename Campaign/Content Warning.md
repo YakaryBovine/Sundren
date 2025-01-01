@@ -1,1 +1,28 @@
-Fantasy is often violent, so I may include content like death, slavery, human experimentation, psychological horror, body horror, gore, and torture. However, these will not be glorified or described in detail, and they won’t ever be presented in a way that doesn’t allow you as heroes to try to deal with them. I will never depict sexual assault, familiar forms of bigotry, or uncomfortable violations of your character. If you have any boundaries beyond this, let me know at any time and we can discuss.
+I want to make sure that everyone is comfortable at the table, so we will tread lightly with certain topics. 
+
+- **Lines** are topics not permitted in the game at all. 
+- **Veils** are topics that may come up, but when they do, they won't be described in detail.
+- **Ask first** topics will only be included after getting permission from the player. These will only include things happening *to* players.
+- **Open** topics are not restricted at all, and are core aspects of the game or genre we're exploring. 
+
+If you have any topics to add to this list, please communicate them to me, ideally before they come up. I generally won't remove major content from a session unless it was communicated beforehand, but I do have an [[Open Door Policy|open door policy]].
+## Lines
+- Sexual violence
+- Racism
+## Veils
+- Slavery
+- Torture
+- Sexism
+- Sexual relationships of any nature
+## Ask first
+- Human experimentation on player characters
+- Body horror experienced by player characters
+- Sexism towards player characters
+- Sexual relationships involving player characters
+## Open
+- Death
+- Human experimentation on NPCs
+- Psychological horror
+- Body horror experienced by NPCs
+- Gore
+- Romance between NPCs
