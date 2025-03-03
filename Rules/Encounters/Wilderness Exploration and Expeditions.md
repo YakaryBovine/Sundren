@@ -44,10 +44,8 @@ At need, a healthy horse can be butchered into 30 days of rations, and a mule or
 | Two porters carrying a shared litter       | 30          |
 ## Starving, Thirsting, and Freezing
 If the PCs don’t have enough food, water, warmth, or shelter, bad things will start to happen. Each day without these necessities will apply the following penalties. 
-
-[[Injury, Healing, and System Strain#System Strain|System Strain]] is gained.** If this would put the PC over their maximum, they must make a Physical [[Saving Throws|save]] or die by dawn if not aided. On a success, they’re helpless until death or rescue. 
-
-**They can’t recover** System Strain, gain nightly hit point healing, refresh daily Committed [[Effort]], or restore expended [[Magic and Spellcasting|spells]] until they’ve had a day of proper food, water, and warm sleep.
+- [[Injury, Healing, and System Strain#System Strain|System Strain]] is gained. If this would put the PC over their maximum, they must make a Physical [[Saving Throws|save]] or die by dawn if not aided. On a success, they’re helpless until death or rescue. 
+- **They can’t recover** System Strain, gain nightly hit point healing, refresh daily Committed [[Effort]], or restore expended [[Magic and Spellcasting|spells]] until they’ve had a day of proper food, water, and warm sleep.
 ### Situations That Cause Privation
 
 | Circumstance                           | System Strain |

@@ -4,17 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "75a2301eeac5b88c",
+        "id": "e89588d5913c4c30",
         "type": "tabs",
         "children": [
           {
-            "id": "f032d42371f89650",
+            "id": "84db208194af2a4c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "diff-view",
+              "state": {
+                "file": "Rules/Encounters/Wilderness Exploration and Expeditions.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Wilderness Exploration and Expeditions)"
             }
           }
         ]
@@ -49,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wilderness exploration",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,35 +171,35 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f032d42371f89650",
+  "active": "d80c75e904dcb1f4",
   "lastOpenFiles": [
-    "Rules/Classes/Adventurer.md",
-    "Rules/Classes/Expert.md",
-    "Rules/Classes/Mage.md",
-    "Rules/Character/Attributes.md",
-    "Worldbuilding/Technology/Warforged.md",
+    "Rules/Encounters/Wilderness Exploration and Expeditions.md",
+    "Worldbuilding/Metaphysics/God.md",
+    "Worldbuilding/Events/Operation Oblivion.md",
+    "Worldbuilding/Factions/Followers of the Cycle.md",
+    "Worldbuilding/Factions/New Gods.md",
+    "Worldbuilding/Locations/Sunlancer.md",
+    "Worldbuilding/Locations/Splint.md",
+    "Worldbuilding/Locations/Bar'duum.md",
     "Worldbuilding/Technology/Screamer.md",
+    "Worldbuilding/Technology/Warforged.md",
     "Worldbuilding/Technology/Host.md",
     "Worldbuilding/Technology/Cryogenic Capsule.md",
-    "Worldbuilding/Metaphysics/Celestial.md",
-    "Worldbuilding/Metaphysics/Elemental.md",
-    "Worldbuilding/Metaphysics/God.md",
+    "Worldbuilding/Technology/Colossus.md",
+    "Worldbuilding/Metaphysics/Fiend.md",
     "Worldbuilding/Metaphysics/Primal.md",
-    "Campaign/Content Warning.md",
-    "Campaign/Intended Audience.md",
-    "Campaign/Open Door Policy.md",
-    "Campaign/Overview.md",
-    "Campaign/Sandbox.md",
-    "Campaign/Solving Problems.md",
-    "Campaign/The Rules.md",
-    "README.md",
-    "Rules/Encounters/Monsters and Foes.md",
-    "Rules/Encounters/Morale Checks and Fleeing.md",
-    "Rules/Encounters/Instinct Checks.md",
-    "Rules/Encounters/Reaction Rolls and Parleying.md",
+    "Worldbuilding/Metaphysics/Spirit.md",
+    "Worldbuilding/Magic/Magic.md",
+    "Worldbuilding/Magic/Leyline Dust.md",
+    "Worldbuilding/Factions/Stålråd.md",
+    "Worldbuilding/Factions/Solassian Concordat.md",
+    "Rules/Classes/Mage.md",
+    "Rules/Classes/Warrior.md",
+    "Rules/Classes/Arcane Traditions/Accursed.md",
+    "Rules/Classes/Arcane Traditions/Beastmaster.md",
+    "Rules/Classes/Arcane Traditions/Blood Priest.md",
+    "Rules/Classes/Adventurer.md",
     "Rules/Foes",
-    "Campaign/Tools.md",
-    "Worldbuilding/Characters/Obzidon.md",
     "Untitled.canvas",
     "Rules/Encounters",
     "Rules/Equipment",
