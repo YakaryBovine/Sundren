@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "28a1c6e2bfb960a4",
+        "id": "75a2301eeac5b88c",
         "type": "tabs",
         "children": [
           {
-            "id": "b9c0b094a1fdca82",
+            "id": "f032d42371f89650",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Campaign/Content Warning.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (Content Warning)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -169,8 +167,20 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b9c0b094a1fdca82",
+  "active": "f032d42371f89650",
   "lastOpenFiles": [
+    "Rules/Classes/Adventurer.md",
+    "Rules/Classes/Expert.md",
+    "Rules/Classes/Mage.md",
+    "Rules/Character/Attributes.md",
+    "Worldbuilding/Technology/Warforged.md",
+    "Worldbuilding/Technology/Screamer.md",
+    "Worldbuilding/Technology/Host.md",
+    "Worldbuilding/Technology/Cryogenic Capsule.md",
+    "Worldbuilding/Metaphysics/Celestial.md",
+    "Worldbuilding/Metaphysics/Elemental.md",
+    "Worldbuilding/Metaphysics/God.md",
+    "Worldbuilding/Metaphysics/Primal.md",
     "Campaign/Content Warning.md",
     "Campaign/Intended Audience.md",
     "Campaign/Open Door Policy.md",
@@ -186,18 +196,6 @@
     "Rules/Foes",
     "Campaign/Tools.md",
     "Worldbuilding/Characters/Obzidon.md",
-    "Worldbuilding/Characters/The Last Legion.md",
-    "Worldbuilding/Characters/Vaad.md",
-    "Worldbuilding/Characters/Halion Kal.md",
-    "Worldbuilding/Metaphysics/Fey.md",
-    "Worldbuilding/Metaphysics/Elemental.md",
-    "Worldbuilding/Conditions/Spellrot.md",
-    "Rules/Classes/Expert.md",
-    "Campaign/Backstory and Character.md",
-    "Worldbuilding/Events/Operation Oblivion.md",
-    "Rules/Equipment/Armor.md",
-    "Rules/Character/Attributes.md",
-    "Rules/Classes/Arcane Traditions/Beastmaster.md",
     "Untitled.canvas",
     "Rules/Encounters",
     "Rules/Equipment",
