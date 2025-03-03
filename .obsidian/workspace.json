@@ -11,10 +11,13 @@
             "id": "e3c2b7b6bf27ac66",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "diff-view",
+              "state": {
+                "file": "Rules/Encounters/Major Projects.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Major Projects)"
             }
           }
         ]
@@ -49,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jury-rig",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,9 +170,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d80c75e904dcb1f4",
+  "active": "e3c2b7b6bf27ac66",
   "lastOpenFiles": [
-    "Rules/Encounters/Major Projects.md",
+    "Rules/World/Major Projects.md",
+    "Rules/Equipment/Hirelings and Services.md",
+    "Rules/World",
     "Rules/Equipment/Crafting and Modifying Gear.md",
     "Rules/Encounters/Dungeon Exploration.md",
     "Rules/Encounters/Wilderness Exploration and Expeditions.md",
@@ -194,7 +199,6 @@
     "Worldbuilding/Factions/Solassian Concordat.md",
     "Rules/Classes/Mage.md",
     "Rules/Classes/Warrior.md",
-    "Rules/Classes/Arcane Traditions/Accursed.md",
     "Rules/Foes",
     "Untitled.canvas",
     "Rules/Encounters",
@@ -207,7 +211,6 @@
     "Rules/Combat",
     "Worldbuilding/Images/Elemental.png",
     "Worldbuilding/Images/Barduum.jpg",
-    "Rules/Classes",
     "Worldbuilding/Images/Primal.jpg",
     "Worldbuilding/Images/Eidolon.jpg",
     "Worldbuilding/Images/Warforged.jpg",

@@ -10,9 +10,9 @@ A GM doesn’t have to track Renown unless they intend to use the this system. I
 
 Generally, a PC will receive one point of Renown after each adventure. Some other activities or undertakings might win them additional bonus Renown, usually those works that increase the PC’s influence and involvement with the campaign world, and some adventures might not give them much Renown at all if they left no impression on the people around the party.
 ## Determining the project difficulty
-7.2.0 DeTeRmining The pRojecT DifficulTY To find out how much Renown is needed to achieve a project, the GM must determine its difficulty. This total difficulty is a product of the intensity of the change, the scope it affects, and the powers that are opposed to it. 
+To find out how much [[#Renown]] is needed to achieve a project, the GM must determine its difficulty. This total difficulty is a product of the intensity of the change, the scope it affects, and the powers that are opposed to it. 
 
-First, decide whether the change is plausible, improbable, or im possible. If the change is something that is predictable or unsurprising, it’s a plausible change. A town with good transport links and a couple of wealthy neighbors might quite plausibly become a trade hub. A duke with an abandoned frontier keep and a raider problem might plausibly decide to give it to a famed warrior PC with the agreement that the PC would pledge fealty to him. A plausible change in the campaign is simply one that no one would find particularly surprising or unlikely. 
+First, decide whether the change is plausible, improbable, or impossible. If the change is something that is predictable or unsurprising, it’s a plausible change. A town with good transport links and a couple of wealthy neighbors might quite plausibly become a trade hub. A duke with an abandoned frontier keep and a raider problem might plausibly decide to give it to a famed warrior PC with the agreement that the PC would pledge fealty to him. A plausible change in the campaign is simply one that no one would find particularly surprising or unlikely. 
 
 An improbable change is one that’s not physically or socially impossible, but is highly unlikely. Transforming a random patch of steppe grasslands into a trading hub might be an improbable change, as would convincing a duke to simply hand over the frontier fort with no particular claim of allegiance. Some things that are not particularly physically difficult might be improbable due to the social or emotional implications; a society with a relative handful of trophy slaves might f ind it improbable to give them up even if they serve only as status symbols for their owners. 
 
@@ -24,7 +24,7 @@ A village-sized change is the smallest scale, affecting only a single hamlet or 
 
 When deciding the scope of the change, focus on how many people are going to be immediately affected by the project. Turning a town into a trading hub might incidentally affect a significant part of a kingdom, but the immediate consequences are felt only by the residents of that town, and perhaps their closest trading partners. The scope in that case would be simply that of a city, rather than a region. Banishing slavery throughout a kingdom would require a kingdom-sized change, while getting it banned within some smaller feudal region would require a proportionately lesser scope. 
 
-If the PCs are trying to establish an educational institution, or a religious order, or some other sub-group meant to serve a chosen cause, the scope should be the largest general area the order can have influence in at any one time. A very small order of warrior-monks might only have enough devotees to affect a village-sized community or problem. An order with multiple monasteries and bases of opera tions throughout a kingdom might have enough muscle to affect events on a nation-wide scale. In the same vein, a small academy might be enough to bring enlightened learning to a city, improving the lives of men and women there, but not have the reach to influence the greater region around it. Individual warrior-monks or specific scholars might play major roles elsewhere in the setting, but the institution itself can’t rely on the certainty of being able to step into such roles. 
+If the PCs are trying to establish an educational institution, or a religious order, or some other sub-group meant to serve a chosen cause, the scope should be the largest general area the order can have influence in at any one time. A very small order of warrior-monks might only have enough devotees to affect a village-sized community or problem. An order with multiple monasteries and bases of operations throughout a kingdom might have enough muscle to affect events on a nation-wide scale. In the same vein, a small academy might be enough to bring enlightened learning to a city, improving the lives of men and women there, but not have the reach to influence the greater region around it. Individual warrior-monks or specific scholars might play major roles elsewhere in the setting, but the institution itself can’t rely on the certainty of being able to step into such roles. 
 
 In some cases, a PC might attempt to forge a Working or develop a specific bloodline of magical or cursed beings. Assuming that they have the necessary tools and opportunities to achieve such a great feat, the scope should apply to the total number of people affected by the magic over its entire course of existence. Thus, a village-sized change like this might apply to ten generations of a very small blood line, the enchantment lasting for a very long time but applying only to a few people at any one time. It might be reproduced by special training, magical consecration, or a natural inherited bloodline. Once the scope limit is reached, the magic can no longer be transmitted, as it has either been exhausted or the subtle shiftings of the magic have damaged it beyond repair. Conversely, a very large scope for such a work might mean that many people are so affected, though a very large change like that would only last for a few generations before reaching the maximum affected population. Because of such limits, many such empowered bloodlines or augmented magical traditions are very selective about adding new members.
 
@@ -42,13 +42,13 @@ On top of this, if the change inspires widespread popular dis approval or unease
 
 As an example, assume an idealistic band of adventurers dreamed of extirpating slavery from an entire kingdom. The natives use slaves for work and status, but their labor isn’t crucial to the economy’s sur vival, so the GM decides it is merely improbable to give up slavery, for a base difficulty of 2. The scope is kingdom-wide, so 2 is multiplied by 16, for a difficulty of 32. As the situation stands now, the king has no desire to infuriate the wealthy magnates of his kingdom by taking away their free labor, so he would oppose it for an additional x16 multiplier, for a total difficulty of 512. Oh, and the natives find the idea of accepting slaves as equals to be emotionally abhorrent, so that’s an additional x2 multiplier, for a final difficulty of 1,024. 
 
-It is very unlikely for the heroes to manage to scrape up the 1,024 points of Renown needed to make this change out of hand. They’re going to have to alter the situation to quell the opposition and make specific strides toward making the ideal more plausible before they can finally bring about their dream.
+It is very unlikely for the heroes to manage to scrape up the 1,024 points of [[#Renown]] needed to make this change out of hand. They’re going to have to alter the situation to quell the opposition and make specific strides toward making the ideal more plausible before they can finally bring about their dream.
 ## Decreasing difficulty
 Adventurers who have a dream bigger than their available Renown have several options for bringing it about more rapidly. The party can use some or all of these techniques for making their ambition more feasible, and the GM might well insist on at least some of them before the PCs can succeed. 
 
 They can spend money. Sometimes a problem can be solved by throwing enough money at it, either by paying off troublesome op ponents, constructing useful facilities or installations, or hiring enough help to push the cause through. Money is often useful, but it eventually begets diminishing returns; once everything useful has been bought, additional coinage brings little result. 
 
-The adjacent table shows how much a point of Renown dedicated to the project costs. The first few points come relatively cheaply, but after that the price increases rapidly. Eventually, there comes a point where only the wealth of empires can shove a massive project through with sheer monetary force. Small projects and modest ambitions are generally easy to accomplish with cash, but society-wide alterations and massive undertakings can defeat the richest vault. 
+The adjacent table shows how much a point of [[#Renown]] dedicated to the project costs. The first few points come relatively cheaply, but after that the price increases rapidly. Eventually, there comes a point where only the wealth of empires can shove a massive project through with sheer monetary force. Small projects and modest ambitions are generally easy to accomplish with cash, but society-wide alterations and massive undertakings can defeat the richest vault. 
 
 They can build institutions. If the PCs want a fortified monastery loyal to them, they can either throw enough Renown at their goal until allied NPCs and local potentates think it’s a good idea to buy them off by building it for them, or they can actually go out and purchase it with their own money. They can hire the masons, recruit the monks, and find a trustworthy abbot to act as regent for the heroes. Such steps may not be enough to completely attain the purpose, as they’ll still have to deal with quelling any local opposition to the new monastery and any innate implausibility of establishing a monastery wherever they want to put it, but it’ll get them a long way toward success. 
 
@@ -64,21 +64,21 @@ This bonus is determined by the GM. The easiest way for the GM to pick the prope
 
 Adventuring is by far the most efficient way to accomplish a group’s goals, assuming they can come up with adventures that are relevant. This is intentional; a goal that gives the GM an easy supply of adventuring grist is a genuine contribution to the game. The more adventures that a GM gets out of PC ambitions, the easier it will be to prepare for the game and ensure the players are involved in the campaign.
 
-| Renown Bought    | Cost in Silver Pieces per Point |
-| ---------------- | ------------------------------- |
-| First 1-4 points | 500 per point                   |
-| Next 4 points    | 2,000 per point                 |
-| Next 8 points    | 4,000 per point                 |
-| Next 16 points   | 8,000 per point                 |
-| Next 32 points   | 16,000 per point                |
-| Next 64 points   | 32,000 per point                |
-| Further points   | Prohibitively expensive         |
+| Renown Bought    | Cost in [[Money and Currency\|Silver]] Pieces per Point |
+| ---------------- | ------------------------------------------------------- |
+| First 1-4 points | 500 per point                                           |
+| Next 4 points    | 2,000 per point                                         |
+| Next 8 points    | 4,000 per point                                         |
+| Next 16 points   | 8,000 per point                                         |
+| Next 32 points   | 16,000 per point                                        |
+| Next 64 points   | 32,000 per point                                        |
+| Further points   | Prohibitively expensive                                 |
 
 > [!example]
 > Purchasing 14 points of Renown would cost 2,000 for the first four, 8,000 for the next four, and 24,000 for the next six, for 34,000 sp total.
 
 ## Achieving the goal
-Once the PCs have piled up enough Renown and lowered the dif f iculty enough to actually make it feasible to achieve the goal, they need to take the final steps necessary to complete the work. For a minor goal, this might be a simple matter of describing how they take care of the details, while a vast campaign of effort might culminate in several brutal, perilous adventures. 
+Once the PCs have piled up enough [[#Renown]] and lowered the difficulty enough to actually make it feasible to achieve the goal, they need to take the final steps necessary to complete the work. For a minor goal, this might be a simple matter of describing how they take care of the details, while a vast campaign of effort might culminate in several brutal, perilous adventures. 
 
 The time this change takes will rest with the GM’s judgment. If the PCs have been working on the project for some time already this effort should be taken into account and lessen the time required. 
 
@@ -102,7 +102,7 @@ The degree of the Working will depend on the degree of the change. The devising 
 ## Major Projects and existing Factions
 Players are likely to end up with goals or ambitions that directly involve them with local factions or potentially touch on Assets or other resources significant to faction powers. This is normal, and it’s not difficult to integrate the two systems when they happen to touch. 
 
-As a general rule, major projects should be treated just as adventures would be. When a project would plausibly damage a faction’s Assets, then the Assets will be damaged or destroyed. When they would create an Asset useful for a faction, whether one belonging to the players or to another group, then the Asset is created. If a faction doesn’t care for a project, it might turn into a source of opposition that must be quelled or overcome, while an allied faction might supply some portion of the Renown itself by taking an action to aid the PCs. 
+As a general rule, major projects should be treated just as adventures would be. When a project would plausibly damage a faction’s Assets, then the Assets will be damaged or destroyed. When they would create an Asset useful for a faction, whether one belonging to the players or to another group, then the Asset is created. If a faction doesn’t care for a project, it might turn into a source of opposition that must be quelled or overcome, while an allied faction might supply some portion of the [[#Renown]] itself by taking an action to aid the PCs. 
 
 The help of a faction should be scaled by the GM; if an empire decides to give the PCs a castle, then it might be such a minor part of the faction’s holding that no Treasure expense or other effort is required to do so. A small religious cult that wants to help build a monastery for the PCs might not be able to give nearly as much help, and might simply be good for a quarter of the Renown needed if they spend an action assisting the PCs. Conversely, when a faction is opposed to some measure, the PCs will probably have to undertake an adventure to change its mind or pull the fangs that it’s using to interfere with their efforts.
 
