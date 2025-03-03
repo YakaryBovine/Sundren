@@ -11,13 +11,14 @@
             "id": "9259be291a96efb6",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Rules/World/Major Projects.md",
-                "staged": false
+                "file": "Worldbuilding/Characters/Vaad.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Major Projects)"
+              "icon": "lucide-file",
+              "title": "Vaad"
             }
           }
         ]
@@ -172,6 +173,10 @@
   },
   "active": "9259be291a96efb6",
   "lastOpenFiles": [
+    "Worldbuilding/Characters/The Last Legion.md",
+    "Worldbuilding/Characters/Vaad.md",
+    "Worldbuilding/Characters/Obzidon.md",
+    "Worldbuilding/Characters/Halion Kal.md",
     "Rules/World/Major Projects.md",
     "Rules/World/Magical Workings.md",
     "Rules/Magic/Developing New Spells.md",
@@ -187,7 +192,6 @@
     "Worldbuilding/Events/Operation Oblivion.md",
     "Worldbuilding/Factions/Followers of the Cycle.md",
     "Worldbuilding/Factions/New Gods.md",
-    "Worldbuilding/Characters/Vaad.md",
     "Worldbuilding/Factions/Solassian Concordat.md",
     "Worldbuilding/Factions/Stålråd.md",
     "Worldbuilding/Locations/Bar'duum.md",
@@ -196,9 +200,6 @@
     "Worldbuilding/Locations/Sunlancer.md",
     "Worldbuilding/Magic/Leyline Dust.md",
     "Worldbuilding/Metaphysics/Eidolon.md",
-    "Worldbuilding/Metaphysics/Fey.md",
-    "Worldbuilding/Metaphysics/Fiend.md",
-    "Worldbuilding/Metaphysics/God.md",
     "Rules/World",
     "Rules/Foes",
     "Untitled.canvas",
