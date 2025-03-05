@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Characters/Vaad.md",
+                "file": "Worldbuilding/Events/Operation Oblivion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vaad"
+              "title": "Operation Oblivion"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "firmly grasp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,14 +171,22 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "1470218bf88e6d11",
+  "active": "77242d2a6153b421",
   "lastOpenFiles": [
+    "Worldbuilding/Metaphysics/Celestial.md",
+    "Worldbuilding/Metaphysics/Eidolon.md",
+    "Worldbuilding/Metaphysics/Elemental.md",
+    "Worldbuilding/Metaphysics/Spirit.md",
+    "Worldbuilding/Metaphysics/Fiend.md",
+    "Worldbuilding/Metaphysics/Fey.md",
+    "Worldbuilding/Metaphysics/Primal.md",
+    "Worldbuilding/Metaphysics/God.md",
+    "Rules/World/Magical Workings.md",
+    "Rules/World/Major Projects.md",
+    "Worldbuilding/Characters/Halion Kal.md",
+    "Worldbuilding/Characters/Obzidon.md",
     "Worldbuilding/Characters/The Last Legion.md",
     "Worldbuilding/Characters/Vaad.md",
-    "Worldbuilding/Characters/Obzidon.md",
-    "Worldbuilding/Characters/Halion Kal.md",
-    "Rules/World/Major Projects.md",
-    "Rules/World/Magical Workings.md",
     "Rules/Magic/Developing New Spells.md",
     "Rules/Magic/Magic and Spellcasting.md",
     "Rules/Encounters/Falling and Other Hazards.md",
@@ -193,14 +200,6 @@
     "Worldbuilding/Events/Operation Oblivion.md",
     "Worldbuilding/Factions/Followers of the Cycle.md",
     "Worldbuilding/Factions/New Gods.md",
-    "Worldbuilding/Factions/Solassian Concordat.md",
-    "Worldbuilding/Factions/Stålråd.md",
-    "Worldbuilding/Locations/Bar'duum.md",
-    "Worldbuilding/Magic/Magic.md",
-    "Worldbuilding/Locations/Splint.md",
-    "Worldbuilding/Locations/Sunlancer.md",
-    "Worldbuilding/Magic/Leyline Dust.md",
-    "Worldbuilding/Metaphysics/Eidolon.md",
     "Rules/World",
     "Rules/Foes",
     "Untitled.canvas",
