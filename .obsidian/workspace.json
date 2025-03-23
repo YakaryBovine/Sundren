@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "64461c609333ac74",
+        "id": "204c9a159a759e41",
         "type": "tabs",
         "children": [
           {
-            "id": "f0d3cf355702d15a",
+            "id": "57f6fbab63519504",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Classes/Arcane Traditions/Elementalist.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Elementalist"
             }
           }
         ]
@@ -153,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,35 +171,35 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d80c75e904dcb1f4",
+  "active": "57f6fbab63519504",
   "lastOpenFiles": [
-    "Worldbuilding/Events/Anathema Doctrine.md",
-    "Worldbuilding/Events/Operation Oblivion.md",
-    "Worldbuilding/Metaphysics/Celestial.md",
-    "Worldbuilding/Metaphysics/Eidolon.md",
-    "Worldbuilding/Metaphysics/Elemental.md",
-    "Worldbuilding/Metaphysics/Spirit.md",
-    "Worldbuilding/Metaphysics/Fiend.md",
-    "Worldbuilding/Metaphysics/Fey.md",
-    "Worldbuilding/Metaphysics/Primal.md",
-    "Worldbuilding/Metaphysics/God.md",
-    "Rules/World/Magical Workings.md",
-    "Rules/World/Major Projects.md",
-    "Worldbuilding/Characters/Halion Kal.md",
+    "Rules/Classes/Arcane Traditions/Blood Priest.md",
+    "Rules/Classes/Arcane Traditions/Beastmaster.md",
+    "Rules/Classes/Arcane Traditions/Accursed.md",
+    "Rules/Classes/Arcane Traditions/Elementalist.md",
     "Worldbuilding/Characters/Obzidon.md",
     "Worldbuilding/Characters/The Last Legion.md",
     "Worldbuilding/Characters/Vaad.md",
-    "Rules/Magic/Developing New Spells.md",
-    "Rules/Magic/Magic and Spellcasting.md",
-    "Rules/Encounters/Falling and Other Hazards.md",
-    "Rules/Encounters/Dungeon Exploration.md",
-    "Rules/Encounters/Chases and Pursuit.md",
-    "Rules/Equipment/Armor.md",
-    "Rules/Equipment/Crafting and Modifying Gear.md",
-    "Rules/Equipment/Adventuring Gear.md",
-    "Rules/Magic",
-    "Rules/Classes/Mage.md",
+    "Worldbuilding/Characters/Halion Kal.md",
+    "Worldbuilding/Factions/Stålråd.md",
+    "Worldbuilding/Events/Anathema Doctrine.md",
+    "Worldbuilding/Events/Operation Oblivion.md",
+    "Worldbuilding/Conditions/Spellrot.md",
     "Worldbuilding/Factions/Followers of the Cycle.md",
+    "Worldbuilding/Factions/New Gods.md",
+    "Worldbuilding/Factions/Solassian Concordat.md",
+    "Worldbuilding/Locations/Bar'duum.md",
+    "Worldbuilding/Locations/Splint.md",
+    "Worldbuilding/Locations/Sunlancer.md",
+    "Worldbuilding/Magic/Leyline Dust.md",
+    "Worldbuilding/Magic/Magic.md",
+    "Worldbuilding/Metaphysics/Celestial.md",
+    "Worldbuilding/Metaphysics/Eidolon.md",
+    "Worldbuilding/Metaphysics/Elemental.md",
+    "Worldbuilding/Metaphysics/Fey.md",
+    "Worldbuilding/Metaphysics/Fiend.md",
+    "Worldbuilding/Metaphysics/God.md",
+    "Rules/Magic",
     "Rules/World",
     "Rules/Foes",
     "Untitled.canvas",

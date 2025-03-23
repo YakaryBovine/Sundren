@@ -26,15 +26,24 @@ Beastmaster [[Effort]] is calculated with Survive, and is equal to the PC’s Su
 **Bind Companion:** With a day’s work in a location you can find and bind a suitable animal companion. If looking for a particular type of companion, it must be found in the area and may require a Wis/Survive [[Skill Checks|skill check]] at a difficulty of 10 or more if it’s a particularly rare creature. If you encounter a suitable animal on an adventure, you may bind it as a [[Action Types#Main Actions|Main Action]], with the creature allowed a Mental [[Saving Throws|saving throw]] to resist and become impervious to your powers. You may release a companion as a Main Action if you no longer wish its service or want to bind a different beast.
 ### Other Beastmaster Arts
 **Beast Ward:** Commit Effort as an On Turn action. So long as the Effort remains Committed, the Beastmaster will not be attacked by unintelligent beasts unless the beast is commanded to do so by its master, the beast is starving, or the Beastmaster or their allies performs some hostile act against it. Once the ward ends or is broken, it cannot be re-established in the same scene. Magical beasts and those trained specifically as guardians of an area get a Mental save to resist this power.
+
 **Eyes of the Beast:** Commit Effort for the scene as an On Turn action. For the rest of the scene, you can share the senses of your companion. Neither of you can be surprised unless both are surprised.
 **Feral Toughness:** Your maximum hit point total is increased by the natural, unmodified hit dice of your companion; thus, a 5 hit die companion increases your maximum hit points by 5. You are impervious to normal outdoor extremes of heat or cold. Your base Armor Class is equal to 13 plus half your level, rounded up. This AC can be modified by shields or Dexterity modifiers, but not by armor.
+
 **Howl of Distant Summons:** You can call former animal companions to your side by Committing Effort for the day as a Main Action. The howl extends through time as well as space, and the subject will have received the message in time to reach your side within five minutes after you call for it. Once summoned, you may bind it again if you have no current companion. If the journey is exceptionally dangerous, difficult, or long, you’ll need to make a Cha/Survive skill check against a difficulty of 10 or more; on a failure, the beast could not make the journey and cannot be called by this power for another week.
+
 **Know the Weak Spot:** Whenever inflicting damage on a beast with a [[Weapons|weapon]] or physical attack, roll the damage twice and take the higher score. Optionally, Commit Effort for the scene as an Instant action when an ally within earshot hits a beast; your shouted advice or distracting help allows them to roll damage twice and take the better result as well.
+
 **Mind Call:** Commit Effort for the scene as an On Turn action. For the rest of the scene you forge a telepathic bond with your animal companion. You can give it orders and receive information from the creature, at least insofar as its limited intellect allows.
+
 **Natural Weaponry:** You may have physically grown fangs and claws, or it may be that you just intuitively absorbed effective unarmed fighting techniques from your animal companions. Whemn unarmed, your attacks count as weapons that use either Str or Dex as their modifier, use Punch or Stab as the skill, do 1d8 damage, and have a Shock value of 2/AC 13. These unarmed attacks can harm even creatures immune to non-magical weapons. The damage and Shock of these weapons gains a +1 bonus at level 3, a +2 bonus at level 6, and a +3 bonus at level 9.
+
 **Savage Senses:** Commit Effort for the scene as an On Turn action. For the remainder of the scene you are capable of seeing clearly even in pitch blackness, can scent out trails and belongings as perfectly as a wolf could, and gain a +2 bonus on all Notice skill checks involving sight, sound, or smell.
+
 **Shared Vitality:** The animal companions you bind have hit dice no lower than your level, even if they normally have far fewer. Thus, a 2 hit die beast bound by a 7th level Beastmaster would have 7 hit dice while it remained bound. Its hit bonus can’t be less than half its hit dice, rounded up. A Beastmaster can stabilize a Mortally Wounded companion by Committing Effort for the scene as an Instant action.
+
 **Swift Healing:** Commit Effort for the day as a Main Action to heal 1d6 damage per character level to a wounded companion. This healing can be extended only once per scene or fifteen minutes.
+
 **Tongue of the Beasts:** Commit Effort as an On Turn action. While the Effort remains committed, you can speak with any animal that has fur, feathers, scales, or skin. This art allows them to temporarily speak as if they had human intellect, though their interests, knowledge, and desires do not change.
 ### Arts Progression
 | Level | Arts Gained                |
