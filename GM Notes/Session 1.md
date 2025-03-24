@@ -20,7 +20,8 @@ The [[Sunlancer]] is a divine object that floats above the sea. Every few months
 ### The players can discover meaningful things about the world
 - The Sunlancer actually contains a Celestial named Furls-His-Wings
 - The surrounding area is filled in, intentionally, by earth elementals that commit suicide from the mountains
-- ???
+- There is a Deep State
+- Lots more, if they can just access the mainframe
 ## Player goals
 - Find something useful to bring home
 - Discover something about history
@@ -33,4 +34,4 @@ The [[Sunlancer]] is a divine object that floats above the sea. Every few months
 - Miniature nuclear warhead, can be appended to a missile
 - A flash drive that can induct someone into the Deep State
 ## Challenges
-- It'd be cool if there was a robot enemy at the end that could be interacted with 
+- It'd be cool if there was a robot enemy at the end that could be interacted with
