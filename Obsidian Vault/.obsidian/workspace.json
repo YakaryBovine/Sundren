@@ -13,11 +13,11 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/workspace.json",
+                "file": ".idea/.idea.Sundren.dir/.idea/vcs.xml",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "title": "Diff View (vcs.xml)"
             }
           }
         ]
@@ -170,8 +170,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80c75e904dcb1f4",
+  "active": "57f6fbab63519504",
   "lastOpenFiles": [
+    "GM Notes/Misc ideas.md",
+    "Worldbuilding/Locations/Sunlancer.md",
     "Obsidian Vault/README.md",
     "Obsidian Vault/Worldbuilding/Technology/Colossus.md",
     "Obsidian Vault/Worldbuilding/Technology/Cryogenic Capsule.md",
@@ -206,8 +208,6 @@
     "Obsidian Vault/Worldbuilding/Factions/Solassian Concordat.md",
     "Obsidian Vault/Worldbuilding/Factions/Followers of the Cycle.md",
     "Obsidian Vault/Worldbuilding/Characters/Obzidon.md",
-    "Obsidian Vault/Worldbuilding/Conditions/Spellrot.md",
-    "Obsidian Vault/Worldbuilding/Events/Operation Oblivion.md",
     "Obsidian Vault/Worldbuilding/Technology",
     "Obsidian Vault/Worldbuilding/Metaphysics",
     "Obsidian Vault/Worldbuilding/Magic",
