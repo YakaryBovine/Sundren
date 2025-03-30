@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "9abd6b3b20d5a48f",
+    "type": "split",
+    "children": [
+      {
+        "id": "204c9a159a759e41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57f6fbab63519504",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78537a496ee52677",
+    "type": "split",
+    "children": [
+      {
+        "id": "69d9a7d56fb4ab31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77242d2a6153b421",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1470218bf88e6d11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "916fba8f9dfc7dab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ccc972bf27e186f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "af75dc82fd047a66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6be0cd9758165650",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4614030683f63d0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ea38688029974512",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "806be1348c37cf52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "d80c75e904dcb1f4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d80c75e904dcb1f4",
+  "lastOpenFiles": [
+    "Obsidian Vault/README.md",
+    "Obsidian Vault/Worldbuilding/Technology/Colossus.md",
+    "Obsidian Vault/Worldbuilding/Technology/Cryogenic Capsule.md",
+    "Obsidian Vault/Worldbuilding/Technology/Warforged.md",
+    "Obsidian Vault/Worldbuilding/Technology/Screamer.md",
+    "Obsidian Vault/Worldbuilding/Technology/Host.md",
+    "Obsidian Vault/Worldbuilding/Metaphysics/Primal.md",
+    "Obsidian Vault/Worldbuilding/Metaphysics/Spirit.md",
+    "Obsidian Vault/Worldbuilding/Metaphysics/God.md",
+    "Obsidian Vault/Worldbuilding/Metaphysics/Fey.md",
+    "Obsidian Vault/Worldbuilding/Metaphysics/Fiend.md",
+    "Obsidian Vault/Worldbuilding/Images/Warforged.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Screamer.jpg",
+    "Obsidian Vault/Worldbuilding/Metaphysics/Elemental.md",
+    "Obsidian Vault/Worldbuilding/Metaphysics/Celestial.md",
+    "Obsidian Vault/Worldbuilding/Metaphysics/Eidolon.md",
+    "Obsidian Vault/Worldbuilding/Magic/Magic.md",
+    "Obsidian Vault/Worldbuilding/Magic/Leyline Dust.md",
+    "Obsidian Vault/Worldbuilding/Locations/Sunlancer.md",
+    "Obsidian Vault/Worldbuilding/Locations/Splint.md",
+    "Obsidian Vault/Worldbuilding/Images/Primal.jpg",
+    "Obsidian Vault/Worldbuilding/Locations/Bar'duum.md",
+    "Obsidian Vault/Worldbuilding/Images/Host.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Sunlancer.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Splint.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Spirit.jpg",
+    "Obsidian Vault/Worldbuilding/Images/HalionKal.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Colossus.jpg",
+    "Obsidian Vault/Worldbuilding/Images/FollowerOfTheCycle.jpg",
+    "Obsidian Vault/Worldbuilding/Factions/New Gods.md",
+    "Obsidian Vault/Worldbuilding/Factions/Stålråd.md",
+    "Obsidian Vault/Worldbuilding/Factions/Solassian Concordat.md",
+    "Obsidian Vault/Worldbuilding/Factions/Followers of the Cycle.md",
+    "Obsidian Vault/Worldbuilding/Characters/Obzidon.md",
+    "Obsidian Vault/Worldbuilding/Conditions/Spellrot.md",
+    "Obsidian Vault/Worldbuilding/Events/Operation Oblivion.md",
+    "Obsidian Vault/Worldbuilding/Technology",
+    "Obsidian Vault/Worldbuilding/Metaphysics",
+    "Obsidian Vault/Worldbuilding/Magic",
+    "Obsidian Vault/Worldbuilding/Locations",
+    "Obsidian Vault/Worldbuilding/Images",
+    "Obsidian Vault/Worldbuilding/Factions",
+    "Obsidian Vault/Worldbuilding/Events",
+    "Obsidian Vault/Worldbuilding/Conditions",
+    "Obsidian Vault/Worldbuilding/Characters",
+    "Obsidian Vault/Worldbuilding",
+    "Untitled.canvas"
+  ]
+}

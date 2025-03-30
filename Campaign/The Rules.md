@@ -1,5 +1,0 @@
-I will be using *Worlds Without Number*, which is a d20-based fantasy role-playing game that supports gritty, hard-edged adventure in a sandbox world. All of the relevant rules for it can be found in the Rules section. I recommend starting with [[Character Creation]].
-
-It is imperative that players read and comprehend the rules as written. I'm happy to explain rules as they come up and to help players build their characters, particularly in the first few sessions, but I will not be the only one with a decent comprehension once we really get under way. You can't pursue your party's goals if you don't know how the game works!
-
-If we decide together on an adventure theme that involves controlling territory (i.e. domain play), we will also use the ruleset *An Echo Resounding* for managing this. Keep in mind that if we do this, it will introduce an extra rules-learning burden.

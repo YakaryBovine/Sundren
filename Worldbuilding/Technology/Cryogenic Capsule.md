@@ -1,7 +1,0 @@
-In the early stages of the Great War, inventor [[Halion Kal]] recognized the impending doom that the conflict might represent for the mortal races. As a contingency against total extinction, he devised the Cryogenic Capsule.   
-
-Each Capsule is custom tailored for an individual occupant to accommodate its unique physical anatomy and low-temperature freezing point. Once inside, the internal chamber's temperature is lowered below the level at which enzymatic and chemical processes can function, effectively preserving the occupant's lifespan indefinitely.   
-
-Any given Capsule is assigned a code which designates its unlock conditions, which are selected on request by the occupant. Typically these unlock conditions are based on predictions about what the environment might look like after the effects of the Last War have subsided, though this is primarily the result of guess-work. Other occupants may try to have their Capsules open sooner after the aftermath, out of a desire to help civilization recover. Once the unlock condition has been fulfilled, the Capsule is flooded with nutrients and the occupant rapidly thawed.   
-
-Cryogenic Capsules were extraordinarily expensive during [[The Last War|the Great War]], and only the wealthiest technocrats could afford them. Occasionally, they were offered in exchange for deeds of service. In the later stages of conflict, high-ranking agents and generals were given the opportunity to occupy a Capsule so that the [[Stålråd]] could reclaim the world after its destruction.

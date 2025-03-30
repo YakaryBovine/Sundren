@@ -1,7 +1,0 @@
->"Man, hold up... What do you think lies beyond the Elemental Planes?"
-
-The fabric of the world is with a stabilizing network in the form of a purple-blue crystalline lattice that ran deep underneath the ground in a complex but predictable pattern. This network, known as the [[Leyline]]s, holds the physical structure of the planet together and enforces the notion of probabilistic causality. Wizards have learned to employ the radiant power of the Leylines in the form of [[Magic#Arcane|Arcane magic]]. Few have surpassed the expertise of the [[Solassian Concordat]], the Leyline's de facto caretakers.
-
-When the [[Stålråd]] destroyed the Leyline network in a desperate gambit to cripple the Solassian Concordat, they doomed civilization and temporarily disabled the use of Arcane magic. Following the Last War, knowledge of the Leyline network has been lost, and those that stumble upon it have varying reactions. The settlement of [[Splint]] is established around a Leyline vein, and the result of their exploitation is Leyline Dust - the broken down powdered remnants of a dying, beaten down vein.
-
-Leyline Dust, when inhaled through the nose, restores expended magical energy. It is found only in Splint in any significant quantity and is highly addictive, though it also has the side effect of encouraging deep introspection about the nature of the universe. The consequences of Leyline Dust addiction are potentially deadly, to say nothing of the consequences for the world.

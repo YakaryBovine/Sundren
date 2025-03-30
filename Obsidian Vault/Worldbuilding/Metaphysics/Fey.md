@@ -1,0 +1,7 @@
+When a [[Spirit]]'s first discovery in the [[Material Plane]] is a particular joke, trick, or act of deception, that Spirit becomes entranced with the idea that mortals can say one thing and mean something else entirely without ever directly lying. The Spirit immediately manifests in the Material Plane as a Fey, at which point it starts to ponder both how the trick worked and the meaning of truth itself. Fey typically spend a few days puzzling out the problem, though particularly intricate schemes can take as long as a year.
+
+Once the Fey understands their chosen deception, they immediately grow bored - after all, a joke is only funny the first time it's heard. Thus, Fey are unique among Awakened Spirits in that they do not retain an obsession with the first thing they discover. Instead, they have an insatiable curiosity for all things indirect. They roam the world in search for new tricks to uncover, mortals to deceive, and audiences to entertain. Fey do not tell lies, finding them base and dull.
+
+An individual Fey's behaviour can vary wildly, from seemingly benevolent to apparently malicious - it merely depends on what that Fey would find most amusing at that time. However, sufficiently clever mortals can usually evade a Fey's violence simply by not playing its games. Fey cannot enter a residence without permission, cannot break the explicitly stated terms of a deal, and will never act in ways that they do not find amusing. Thus, the best way to survive a Fey encounter is be as boring as possible.
+
+![[Fey.jpg]]
