@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "1defd320752ee611",
+    "id": "9abd6b3b20d5a48f",
     "type": "split",
     "children": [
       {
-        "id": "c505b55ae82e30df",
+        "id": "e4a574dd4f46513c",
         "type": "tabs",
         "children": [
           {
-            "id": "de57be7f53c367dc",
+            "id": "13b02220397d5ff8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c181080e3f4ac2ab",
+    "id": "78537a496ee52677",
     "type": "split",
     "children": [
       {
-        "id": "7d26f7926cbc98b3",
+        "id": "69d9a7d56fb4ab31",
         "type": "tabs",
         "children": [
           {
-            "id": "bf565384dbd89db1",
+            "id": "77242d2a6153b421",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "d0a9a6b7dd0eb85a",
+            "id": "1470218bf88e6d11",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "a900230a29a73e6b",
+            "id": "916fba8f9dfc7dab",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "2f5933abfd2fbb29",
+    "id": "ccc972bf27e186f7",
     "type": "split",
     "children": [
       {
-        "id": "cb5082456a0ab335",
+        "id": "af75dc82fd047a66",
         "type": "tabs",
         "children": [
           {
-            "id": "b3d6be7f2c5f367b",
+            "id": "6be0cd9758165650",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "5e66c059504e8e53",
+            "id": "4614030683f63d0a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,40 +116,44 @@
             }
           },
           {
-            "id": "4883f1b2b8d16666",
+            "id": "ea38688029974512",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "1e5af185bdede840",
+            "id": "806be1348c37cf52",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
+              "state": {},
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "d80c75e904dcb1f4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 334.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,9 +162,59 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de57be7f53c367dc",
-  "lastOpenFiles": []
+  "active": "d80c75e904dcb1f4",
+  "lastOpenFiles": [
+    "Wonderdraft/Sundered.wonderdraft_map",
+    "Wonderdraft",
+    "Obsidian Vault/Rules/Classes/Arcane Traditions/Elementalist.md",
+    "Obsidian Vault/Rules/Classes/Arcane Traditions/Blood Priest.md",
+    "Obsidian Vault/Rules/Classes/Arcane Traditions/Beastmaster.md",
+    "Obsidian Vault/Rules/Classes/Arcane Traditions/Accursed.md",
+    "Obsidian Vault/Worldbuilding/Metaphysics/God.md",
+    "Obsidian Vault/Worldbuilding/Metaphysics/Spirit.md",
+    "Obsidian Vault/Worldbuilding/Metaphysics/Elemental.md",
+    "Obsidian Vault/Worldbuilding/Metaphysics/Primal.md",
+    "Obsidian Vault/Worldbuilding/Metaphysics/Fiend.md",
+    "Obsidian Vault/Worldbuilding/Metaphysics/Fey.md",
+    "Obsidian Vault/Worldbuilding/Technology/Warforged.md",
+    "Obsidian Vault/Worldbuilding/Metaphysics/Eidolon.md",
+    "Obsidian Vault/Worldbuilding/Metaphysics/Celestial.md",
+    "Obsidian Vault/Worldbuilding/Technology/Cryogenic Capsule.md",
+    "Obsidian Vault/Worldbuilding/Technology/Screamer.md",
+    "Obsidian Vault/Worldbuilding/Technology/Host.md",
+    "Obsidian Vault/Worldbuilding/Events/Operation Oblivion.md",
+    "Obsidian Vault/Worldbuilding/Technology/Colossus.md",
+    "Obsidian Vault/Worldbuilding/Conditions/Spellrot.md",
+    "Obsidian Vault/Worldbuilding/Magic/Leyline Dust.md",
+    "Obsidian Vault/Worldbuilding/Events/Anathema Doctrine.md",
+    "Obsidian Vault/Worldbuilding/Magic/Magic.md",
+    "Obsidian Vault/Worldbuilding/Factions/Followers of the Cycle.md",
+    "Obsidian Vault/Worldbuilding/Factions/Stålråd.md",
+    "Obsidian Vault/Worldbuilding/Factions/Solassian Concordat.md",
+    "Obsidian Vault/Worldbuilding/Images/Sunlancer.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Warforged.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Splint.jpg",
+    "Obsidian Vault/Worldbuilding/Images/HalionKal.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Spirit.jpg",
+    "Obsidian Vault/Worldbuilding/Images/God.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Screamer.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Primal.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Host.jpg",
+    "Obsidian Vault/Worldbuilding/Images/FollowerOfTheCycle.jpg",
+    "Obsidian Vault/Rules/Classes/Arcane Traditions",
+    "Obsidian Vault/Worldbuilding/Metaphysics",
+    "Obsidian Vault/Worldbuilding/Technology",
+    "Obsidian Vault/Worldbuilding/Conditions",
+    "Obsidian Vault/Worldbuilding/Events",
+    "Obsidian Vault/Worldbuilding/Magic",
+    "Obsidian Vault/Worldbuilding/Factions",
+    "Obsidian Vault/Worldbuilding/Locations",
+    "Obsidian Vault/Worldbuilding/Images",
+    "Untitled.canvas"
+  ]
 }

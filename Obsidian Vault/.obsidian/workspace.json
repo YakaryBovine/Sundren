@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "204c9a159a759e41",
+        "id": "09bc6cd9cf89e482",
         "type": "tabs",
         "children": [
           {
-            "id": "57f6fbab63519504",
+            "id": "58c0b4f174c52b80",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".idea/.idea.Sundren.dir/.idea/vcs.xml",
-                "staged": false
+                "file": "Worldbuilding/Locations/Great Desert.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (vcs.xml)"
+              "icon": "lucide-file",
+              "title": "Great Desert"
             }
           }
         ]
@@ -170,10 +171,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57f6fbab63519504",
+  "active": "58c0b4f174c52b80",
   "lastOpenFiles": [
-    "GM Notes/Misc ideas.md",
+    "Worldbuilding/Locations/Bar'duum.md",
+    "Worldbuilding/Locations/Great Desert.md",
+    "Worldbuilding/Locations/Splint.md",
     "Worldbuilding/Locations/Sunlancer.md",
+    "Worldbuilding/Metaphysics/Elemental.md",
+    "Worldbuilding/Factions/Solassian Concordat.md",
+    "Great Desert.md",
+    "2025-03-31.md",
+    "Untitled.canvas",
+    "Worldbuilding/Metaphysics/Celestial.md",
+    "Worldbuilding/Metaphysics/Eidolon.md",
+    "Worldbuilding/Metaphysics/Primal.md",
+    "Worldbuilding/Metaphysics/Fiend.md",
+    "Worldbuilding/Locations/Geography",
+    "GM Notes/Misc ideas.md",
     "Obsidian Vault/README.md",
     "Obsidian Vault/Worldbuilding/Technology/Colossus.md",
     "Obsidian Vault/Worldbuilding/Technology/Cryogenic Capsule.md",
@@ -189,13 +203,7 @@
     "Obsidian Vault/Worldbuilding/Images/Screamer.jpg",
     "Obsidian Vault/Worldbuilding/Metaphysics/Elemental.md",
     "Obsidian Vault/Worldbuilding/Metaphysics/Celestial.md",
-    "Obsidian Vault/Worldbuilding/Metaphysics/Eidolon.md",
-    "Obsidian Vault/Worldbuilding/Magic/Magic.md",
-    "Obsidian Vault/Worldbuilding/Magic/Leyline Dust.md",
-    "Obsidian Vault/Worldbuilding/Locations/Sunlancer.md",
-    "Obsidian Vault/Worldbuilding/Locations/Splint.md",
     "Obsidian Vault/Worldbuilding/Images/Primal.jpg",
-    "Obsidian Vault/Worldbuilding/Locations/Bar'duum.md",
     "Obsidian Vault/Worldbuilding/Images/Host.jpg",
     "Obsidian Vault/Worldbuilding/Images/Sunlancer.jpg",
     "Obsidian Vault/Worldbuilding/Images/Splint.jpg",
@@ -203,11 +211,6 @@
     "Obsidian Vault/Worldbuilding/Images/HalionKal.jpg",
     "Obsidian Vault/Worldbuilding/Images/Colossus.jpg",
     "Obsidian Vault/Worldbuilding/Images/FollowerOfTheCycle.jpg",
-    "Obsidian Vault/Worldbuilding/Factions/New Gods.md",
-    "Obsidian Vault/Worldbuilding/Factions/Stålråd.md",
-    "Obsidian Vault/Worldbuilding/Factions/Solassian Concordat.md",
-    "Obsidian Vault/Worldbuilding/Factions/Followers of the Cycle.md",
-    "Obsidian Vault/Worldbuilding/Characters/Obzidon.md",
     "Obsidian Vault/Worldbuilding/Technology",
     "Obsidian Vault/Worldbuilding/Metaphysics",
     "Obsidian Vault/Worldbuilding/Magic",
@@ -216,8 +219,6 @@
     "Obsidian Vault/Worldbuilding/Factions",
     "Obsidian Vault/Worldbuilding/Events",
     "Obsidian Vault/Worldbuilding/Conditions",
-    "Obsidian Vault/Worldbuilding/Characters",
-    "Obsidian Vault/Worldbuilding",
-    "Untitled.canvas"
+    "Obsidian Vault/Worldbuilding/Characters"
   ]
 }
