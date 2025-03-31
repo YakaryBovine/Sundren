@@ -5,11 +5,11 @@ aliases:
   - Great Desert
 ---
 ## Before the war
-The Great Desert was a vast, arid expanse in the southern reaches of the continent, once ruled by the the [[Solassian Concordat]]. 
+The Great Desert was a vast, arid expanse in the southern reaches of the continent, once ruled by the the [[Urzithan Concordat]]. 
 
 Exposed to relentless hot winds from the south, with no mountains to shield it, the Great Desert was a sweltering, dry region. The land consisted of rolling sand dunes, rocky plateaus, and scattered oases, with only a few hospitable areas where civilization was able to take root.
 
-The immense [[Zulum-Nirah River]] served as the desert’s lifeblood, cutting through the harsh terrain and providing the foundation for agriculture, trade, and settlement. Beyond the river's reach, Solassian engineers and mages devised deep wells, underground cisterns, and intricate irrigation canals to ensure survival. In some regions, the people harvested moisture from the air itself using fog-catching nets, while stepwells and qanats transported water across long distances. 
+The immense [[Zulum-Nirah River]] served as the desert’s lifeblood, cutting through the harsh terrain and providing the foundation for agriculture, trade, and settlement. Beyond the river's reach, Urzithan engineers and mages devised deep wells, underground cisterns, and intricate irrigation canals to ensure survival. In some regions, the people harvested moisture from the air itself using fog-catching nets, while stepwells and qanats transported water across long distances. 
 
 To the north, a mountain range separates the Great Desert from the [[Shattered Expanse]], trapping what little moisture reaches the region and feeding small rivers and seasonal water sources.
 ## After the war
