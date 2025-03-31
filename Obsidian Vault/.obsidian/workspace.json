@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Locations/Great Desert.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Great Desert"
+              "title": "README"
             }
           }
         ]
@@ -171,17 +171,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58c0b4f174c52b80",
+  "active": "77242d2a6153b421",
   "lastOpenFiles": [
-    "Worldbuilding/Locations/Bar'duum.md",
+    "Great Desert.md",
+    "README.md",
+    "2025-03-31.md",
+    "Untitled.canvas",
     "Worldbuilding/Locations/Great Desert.md",
+    "Worldbuilding/Locations/Bar'duum.md",
     "Worldbuilding/Locations/Splint.md",
     "Worldbuilding/Locations/Sunlancer.md",
     "Worldbuilding/Metaphysics/Elemental.md",
     "Worldbuilding/Factions/Solassian Concordat.md",
-    "Great Desert.md",
-    "2025-03-31.md",
-    "Untitled.canvas",
     "Worldbuilding/Metaphysics/Celestial.md",
     "Worldbuilding/Metaphysics/Eidolon.md",
     "Worldbuilding/Metaphysics/Primal.md",
@@ -201,8 +202,6 @@
     "Obsidian Vault/Worldbuilding/Metaphysics/Fiend.md",
     "Obsidian Vault/Worldbuilding/Images/Warforged.jpg",
     "Obsidian Vault/Worldbuilding/Images/Screamer.jpg",
-    "Obsidian Vault/Worldbuilding/Metaphysics/Elemental.md",
-    "Obsidian Vault/Worldbuilding/Metaphysics/Celestial.md",
     "Obsidian Vault/Worldbuilding/Images/Primal.jpg",
     "Obsidian Vault/Worldbuilding/Images/Host.jpg",
     "Obsidian Vault/Worldbuilding/Images/Sunlancer.jpg",
