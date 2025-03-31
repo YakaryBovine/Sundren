@@ -15,4 +15,4 @@ To the north, a mountain range separates the Great Desert from the [[Shattered E
 ## After the war
 The ravages of [[The Last War]] swept across the Great Desert, drying up its aquifers and stemming the flow of the Zulum-Nirah. The once-merely-hot land is now scorching, barely able to sustain even the most basic forms of life and entirely inhospitable to ordinary humans. 
 
-The smaller towns and villages that once dotted the landscape have been buried beneath the sands, as if they never stood. Its major cities lie in ruins, ruled over by [[Fiend]]s, [[Undead]], [[Elemental]]s, immortal mages, and magical automatons left behind by the War.
+The smaller towns and villages that once dotted the landscape have been buried beneath the sands, as if they never stood. Its major cities lie in ruins, ruled over by [[Fiend]]s, [[Liches]], [[Elemental]]s, immortal mages, and magical automatons left behind by the War.

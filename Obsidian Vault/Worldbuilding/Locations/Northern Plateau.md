@@ -1,0 +1,12 @@
+## Before the war
+The Northern Plateau was a vast, elevated landmass in the far northwest, dominated by an unforgiving cold. The high altitude and relentless winds from the northwest made it one of the most inhospitable regions, with tundra, glaciers, and barren rock stretching across its expanse. Sheer cliffs lined much of its coastline, dropping abruptly into the sea, leaving few natural harbors or places for settlement.
+
+At the heart of the plateau lay a massive lake, a rare source of open water in the frozen wilderness. It is fed by glacial runoff and underground springs, its depths remaining unfrozen even in the coldest seasons. For the hardy tribes that dwelled in the region, the lake was the lifeblood of their existence—providing fish, a meeting place, and a refuge from the otherwise relentless conditions. Some believed the lake held ancient secrets, its depths concealing ruins or remnants of those who came before.
+
+Though civilization never flourished there, the plateau had long been home to nomadic tribes, who have adapted to the brutal environment through resilience, resourcefulness, and an intimate knowledge of the land. Some of these people were distant kin to the [[Stålråd]], who were said to have once lived on the Plateau before migrating south into the [[Bongire Taiga]] in search of a more sustainable life.
+## After the war
+Shielded from the [[Shattered Expanse]] from a mountain range and from the most frightful nightmares of the [[the Last War]] by its relative geographical irrelevance, the Northern Plataeu itself was largely unaffected by the conflict.
+
+The same could not be said of its people. Not content to keep their cataclysmic war between themselves, the [[Stålråd]] and the [[Urzithan Concordat|Urzithans]] pulled the Plateau's tribes into their conflict. Those lucky enough to be taken early were merely drafted as soldiers, while those taken later were made into [[Warforged]], mutated into [[Mutant|monsters]], or reanimated as [[Undead|undying warriors]].
+
+In time, the survivors of the war once again settled the Plataeu, forming into familiar tribal civilizations and reigniting the friendships and conflicts of old. The region is now the most populated on the continent, its inhabitants finding the perils of the icy waste easier to manage than what awaits them further south.

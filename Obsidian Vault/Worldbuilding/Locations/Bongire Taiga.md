@@ -1,0 +1,8 @@
+## Before the war
+The Bongire Taiga was a vast, cold, and dense boreal forest that stretches across the southeastern part of the continent. The [[Northern Plateau]] to the northwest trapped cool air and shielded the region from the worst of the extreme northern cold. This temperate chill supported dense forests, winding rivers, and deep fjords. The land was rich in natural resources, with towering trees, abundant wildlife, and fertile valleys - in stark contrast to its harsh winters.
+
+The Taiga was home to the [[Romsdal]], a mountain range containing extraordinary mineral wealth, particularly iron. These mountains were a key source of the resources that sustained the various city-states and villages spread across the Taiga and eventually formed the [[Stålråd]].
+## After the war
+The world-breaking conflict with the [[Urzithan Concordat]] brought the once verdant tundra region of the Bongire near to the brink of wasteland, scorched by interdimensional flames, cracked open by nuclear detonation, and soaked in the blood of [[Fiend|demons]]. 
+
+Though environmentally it fared better than the [[Great Desert]], the Bongire's limited ability to sustain life can provide no refuge to would-be settlers. Its wilderness is home to war-bred mutants, while its cities, once bastions of independence and technology, are now either strongholds ruled by age-mad [[Colossus|Colossi]] or dilapidated ruins concealing tools best left unused.

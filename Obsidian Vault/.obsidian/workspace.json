@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "09bc6cd9cf89e482",
+        "id": "7c6f12851f627258",
         "type": "tabs",
         "children": [
           {
-            "id": "58c0b4f174c52b80",
+            "id": "1b0432785d07a837",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Obsidian Vault/Worldbuilding/Conditions/Spellrot.md",
+                "file": "Obsidian Vault/Worldbuilding/Factions/Urzithan Concordat.md",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (Spellrot)"
+              "title": "Diff View (Urzithan Concordat)"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Urzithan",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,12 +73,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 300
   },
   "right": {
     "id": "ccc972bf27e186f7",
@@ -171,46 +170,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58c0b4f174c52b80",
+  "active": "1b0432785d07a837",
   "lastOpenFiles": [
-    "Worldbuilding/Factions/Urzithan Concordat.md",
-    "Worldbuilding/Factions/New Gods.md",
-    "Worldbuilding/Characters/Halion Kal.md",
-    "Worldbuilding/Locations/Bar'duum.md",
     "Campaign/Backstory and Character.md",
+    "Rules/Classes/Mage.md",
+    "Worldbuilding/Characters/Halion Kal.md",
+    "Worldbuilding/Characters/Obzidon.md",
+    "Worldbuilding/Characters/Vaad.md",
     "Worldbuilding/Events/Anathema Doctrine.md",
+    "Worldbuilding/Events/Operation Oblivion.md",
+    "Worldbuilding/Factions/New Gods.md",
+    "Worldbuilding/Factions/Urzithan Concordat.md",
+    "Worldbuilding/Locations/Bar'duum.md",
     "Worldbuilding/Locations/Great Desert.md",
-    "Worldbuilding/Locations/Splint.md",
     "Worldbuilding/Locations/Sunlancer.md",
     "Worldbuilding/Magic/Leyline Dust.md",
-    "Worldbuilding/Conditions/Spellrot.md",
-    "Worldbuilding/Characters/Vaad.md",
-    "Worldbuilding/Events/Operation Oblivion.md",
-    "README.md",
-    "Worldbuilding/Magic/Magic.md",
-    "Rules/Character/Attributes.md",
-    "Worldbuilding/Factions/Followers of the Cycle.md",
-    "Worldbuilding/Images/Host.jpg",
-    "Worldbuilding/Images/HalionKal.jpg",
-    "Worldbuilding/Images/Fiend.jpg",
-    "Worldbuilding/Images/Fey.jpg",
-    "Worldbuilding/Images/Barduum.jpg",
-    "Worldbuilding/Images/Celestial.jpg",
     "Worldbuilding/Factions/Stålråd.md",
-    "Great Desert.md",
-    "2025-03-31.md",
-    "Untitled.canvas",
-    "Worldbuilding/Metaphysics/Elemental.md",
-    "Worldbuilding/Metaphysics/Celestial.md",
-    "Worldbuilding/Metaphysics/Eidolon.md",
-    "Worldbuilding/Metaphysics/Primal.md",
-    "Worldbuilding/Metaphysics/Fiend.md",
-    "Worldbuilding/Locations/Geography",
+    "Worldbuilding/Locations/Bongire Taiga.md",
+    "Worldbuilding/Locations/Northern Plateau.md",
+    "Worldbuilding/Locations/Splint.md",
     "GM Notes/Misc ideas.md",
+    "Obsidian Vault/README.md",
+    "Obsidian Vault/Worldbuilding/Technology/Colossus.md",
+    "Obsidian Vault/Worldbuilding/Technology/Cryogenic Capsule.md",
+    "Obsidian Vault/Worldbuilding/Technology/Warforged.md",
+    "Obsidian Vault/Worldbuilding/Technology/Screamer.md",
+    "Obsidian Vault/Worldbuilding/Technology/Host.md",
+    "Obsidian Vault/Worldbuilding/Metaphysics/Primal.md",
+    "Obsidian Vault/Worldbuilding/Metaphysics/Spirit.md",
     "Obsidian Vault/Worldbuilding/Images/Warforged.jpg",
     "Obsidian Vault/Worldbuilding/Images/Screamer.jpg",
     "Obsidian Vault/Worldbuilding/Images/Primal.jpg",
     "Obsidian Vault/Worldbuilding/Images/Host.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Sunlancer.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Splint.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Spirit.jpg",
+    "Obsidian Vault/Worldbuilding/Images/HalionKal.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Colossus.jpg",
+    "Obsidian Vault/Worldbuilding/Images/FollowerOfTheCycle.jpg",
     "Obsidian Vault/Worldbuilding/Technology",
     "Obsidian Vault/Worldbuilding/Metaphysics",
     "Obsidian Vault/Worldbuilding/Magic",
@@ -219,6 +216,8 @@
     "Obsidian Vault/Worldbuilding/Factions",
     "Obsidian Vault/Worldbuilding/Events",
     "Obsidian Vault/Worldbuilding/Conditions",
-    "Obsidian Vault/Worldbuilding/Characters"
+    "Obsidian Vault/Worldbuilding/Characters",
+    "Obsidian Vault/Worldbuilding",
+    "Untitled.canvas"
   ]
 }
