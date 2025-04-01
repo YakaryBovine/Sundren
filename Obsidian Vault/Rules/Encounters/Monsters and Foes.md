@@ -25,3 +25,55 @@ The table of example stat lines has several columns, each one listing a particul
 **Save** is the [[Saving Throws|saving throw]] target used by the creature whenever it’s called upon to make a Physical, Mental, Evasion, or Luck saving throw. Unlike PCs, creatures only have a single save target, usually equal to 15 minus half its hit dice, rounded down. Thus, a foe with 3 hit dice usually rolls 14+ to succeed at any saving throw. This score can’t be less than 2+, as a 1 on a saving throw always fails.
 ### Powerful Foes
 These statistics are only a bare framework for most ordinary creatures. An entity of special power, such as a heroic knight or monstrous beast, should likely have at least one special ability related to their skills or nature. Potent enemies without a significant number of special defenses and powerful attack modes can often be chewed down rapidly by a PC party. Granting major enemies multiple actions per round and a good selection of special powers is generally necessary to make them a worthy opponent for a veteran party.
+### Table of normal humans
+
+| Type                     | HD  | AC  | Atk.   | Dmg.  | Shock   | Move | ML  | Inst. | Skill | Save |
+| ------------------------ | --- | --- | ------ | ----- | ------- | ---- | --- | ----- | ----- | ---- |
+| Peaceful Human           | 1   | 10  | +0     | Wpn   | Wpn     | 30'  | 7   | 5     | +1    | 15+  |
+| Thug or Militia          | 1   | 13a | +1     | Wpn   | Wpn     | 30'  | 8   | 4     | +1    | 15+  |
+| Barbarian Fighter        | 1   | 13a | +2     | Wpn+1 | Wpn+1   | 30'  | 8   | 5     | +1    | 15+  |
+| Veteran Soldier          | 1   | 13a | +2     | Wpn+1 | Wpn+1   | 30'  | 8   | 3     | +1    | 15+  |
+| Skilled Veteran          | 2   | 15a | +3     | Wpn+1 | Wpn+1   | 30'  | 9   | 2     | +1    | 14+  |
+| Elites or Special Guards | 3   | 18a | +4     | Wpn+2 | Wpn+2   | 30'  | 10  | 2     | +2    | 14+  |
+| Knight or Minor Hero     | 4   | 18a | +6     | Wpn+2 | Wpn+2   | 30'  | 10  | 1     | +2    | 13+  |
+| Warrior Baron            | 6   | 18a | +8     | Wpn+3 | Wpn+3   | 30'  | 9   | 1     | +2    | 12+  |
+| Barbarian Warlord        | 8   | 16a | +10 x2 | Wpn+4 | Wpn+4/- | 30'  | 10  | 3     | +2    | 11+  |
+| Mighty General           | 8   | 18a | +10    | Wpn+4 | Wpn+4/- | 30'  | 10  | 1     | +3    | 11+  |
+| Major Hero               | 10  | 18a | +12 x2 | Wpn+5 | Wpn+5/- | 30'  | 10  | 2     | +3    | 10+  |
+| Great Warrior King       | 12  | 18a | +14 x2 | Wpn+5 | Wpn+5/- | 30'  | 10  | 1     | +3    | 9+   |
+### Table of spellcasters
+
+| Type               | HD  | AC  | Atk.  | Dmg.   | Shock | Move | ML  | Inst. | Skill | Save  |
+|--------------------|----|----|------|------|-------|------|----|------|------|------|
+| Petty Mage        | 2  | 10  | +1   | Wpn  | Wpn   | 30'  | 8  | 4    | +1   | 14+  |
+| Tribal Shaman     | 4  | 10  | +3   | Wpn+1 | Wpn+1 | 30'  | 9  | 4    | +1   | 13+  |
+| Skilled Sorcerer  | 5  | 10  | +1   | Wpn  | Wpn   | 30'  | 9  | 4    | +2   | 13+  |
+| Master Wizard    | 8  | 13  | +1   | Wpn  | Wpn   | 30'  | 9  | 3    | +2   | 11+  |
+| Famous Arch-Mage | 10 | 13  | +2   | Wpn  | Wpn   | 30'  | 9  | 2    | +3   | 10+  |
+Mages generally have the spellcasting and Arts of an appropriate mage tradition at a level equal to their hit dice and Effort equal to their skill bonus plus two.
+### Table of beasts and predators
+
+| Type                    | HD  | AC  | Atk.  | Dmg. | Shock | Move | ML  | Inst. | Skill | Save |
+| ----------------------- | --- | --- | ----- | ---- | ----- | ---- | --- | ----- | ----- | ---- |
+| Small Pack Predator     | 1   | 12  | +2    | 1d4  | 1/13  | 40'  | 7   | 6     | +1    | 15+  |
+| Large Solitary Predator | 5   | 13  | +6    | 1d8  | 2/13  | 30'  | 8   | 6     | +1    | 13+  |
+| Apex Predator           | 6   | 13  | +6 x2 | 1d8  | 2/13  | 40'  | 8   | 6     | +2    | 12+  |
+| Herd Beast              | 2   | 11  | +2    | 1d4  | None  | 40'  | 7   | 6     | +1    | 14+  |
+| Vicious Large Herbivore | 4   | 13  | +5    | 1d10 | 1/13  | 40'  | 9   | 6     | +1    | 13+  |
+| Elephantine Grazer      | 6   | 13  | +5    | 2d8  | None  | 40'  | 7   | 6     | +1    | 12+  |
+### Table of unnatural entities
+
+| Type                    | HD  | AC  | Atk.   | Dmg.   | Shock | Move | ML  | Inst. | Skill | Save |
+| ----------------------- | --- | --- | ------ | ------ | ----- | ---- | --- | ----- | ----- | ---- |
+| Automaton, Humanlike    | 2   | 13  | +2     | Wpn    | Wpn   | 30'  | 12  | 3     | +1    | 14+  |
+| Automaton, Laborer      | 2   | 15  | +2     | 1d6    | 1/13  | 30'  | 12  | 3     | +1    | 14+  |
+| Automaton, Military     | 4   | 18  | +5     | 1d10+2 | 4/15  | 30'  | 12  | 3     | +1    | 13+  |
+| Automaton, Warbot       | 10  | 20  | +12 x3 | 1d12+5 | 7/-   | 40'  | 12  | 2     | +2    | 10+  |
+| Slime or Ooze           | 6   | 10  | +6 x2  | 1d8    | 1/-   | 20'  | 12  | 5     | +1    | 12+  |
+| Predator, Small Vicious | 1   | 14  | +1     | 1d4    | 1/13  | 30'  | 7   | 5     | +1    | 15+  |
+| Predator, Large Vicious | 6   | 13  | +7 x2  | 2d6    | 2/15  | 40'  | 9   | 5     | +2    | 13+  |
+| Predator, Hulking       | 10  | 15  | +12 x2 | 2d6+3  | 6/15  | 30'  | 10  | 4     | +1    | 10+  |
+| Predator, Hellbeast     | 10  | 18  | +12 x4 | 1d10+5 | 6/-   | 60'  | 11  | 4     | +3    | 10+  |
+| Unnatural Swarm         | 4   | 10  | +6 x3  | 1d6    | 1/-   | 30'  | 10  | 5     | +1    | 13+  |
+| Terrible Warbeast       | 8   | 15  | +10 x2 | 2d6+4  | 7/15  | 40'  | 9   | 4     | +2    | 11+  |
+| Legendary God-Titan     | 20  | 22  | +20 x3 | 2d10+5 | 10/-  | 40'  | 10  | 3     | +3    | 2+   |

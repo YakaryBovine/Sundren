@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7c6f12851f627258",
+        "id": "7bd4bc5da7077144",
         "type": "tabs",
         "children": [
           {
-            "id": "1b0432785d07a837",
+            "id": "980daf74a6411488",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Obsidian Vault/Worldbuilding/Factions/Urzithan Concordat.md",
+                "file": "Obsidian Vault/Rules/Encounters/Monsters and Foes.md",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (Urzithan Concordat)"
+              "title": "Diff View (Monsters and Foes)"
             }
           }
         ]
@@ -170,8 +170,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b0432785d07a837",
+  "active": "980daf74a6411488",
   "lastOpenFiles": [
+    "Rules/Encounters/Instinct Checks.md",
+    "Rules/Encounters/Monsters and Foes.md",
+    "Rules/Encounters/Travel.md",
+    "Rules/Encounters/Wilderness Exploration and Expeditions.md",
+    "Rules/Encounters/Reaction Rolls and Parleying.md",
+    "Rules/Encounters/Morale Checks and Fleeing.md",
+    "Rules/Bestiary/Animals.md",
+    "Rules/Bestiary.md",
+    "Rules/Bestiary",
+    "Rules/Classes/Arcane Traditions/Blood Priest.md",
+    "Rules/Classes/Arcane Traditions/Elementalist.md",
+    "Rules/Classes/Arcane Traditions/Beastmaster.md",
+    "Rules/Classes/Arcane Traditions/Accursed.md",
+    "Rules/Encounters/Falling and Other Hazards.md",
     "Campaign/Backstory and Character.md",
     "Rules/Classes/Mage.md",
     "Worldbuilding/Characters/Halion Kal.md",
@@ -185,19 +199,6 @@
     "Worldbuilding/Locations/Great Desert.md",
     "Worldbuilding/Locations/Sunlancer.md",
     "Worldbuilding/Magic/Leyline Dust.md",
-    "Worldbuilding/Factions/Stålråd.md",
-    "Worldbuilding/Locations/Bongire Taiga.md",
-    "Worldbuilding/Locations/Northern Plateau.md",
-    "Worldbuilding/Locations/Splint.md",
-    "GM Notes/Misc ideas.md",
-    "Obsidian Vault/README.md",
-    "Obsidian Vault/Worldbuilding/Technology/Colossus.md",
-    "Obsidian Vault/Worldbuilding/Technology/Cryogenic Capsule.md",
-    "Obsidian Vault/Worldbuilding/Technology/Warforged.md",
-    "Obsidian Vault/Worldbuilding/Technology/Screamer.md",
-    "Obsidian Vault/Worldbuilding/Technology/Host.md",
-    "Obsidian Vault/Worldbuilding/Metaphysics/Primal.md",
-    "Obsidian Vault/Worldbuilding/Metaphysics/Spirit.md",
     "Obsidian Vault/Worldbuilding/Images/Warforged.jpg",
     "Obsidian Vault/Worldbuilding/Images/Screamer.jpg",
     "Obsidian Vault/Worldbuilding/Images/Primal.jpg",
@@ -217,7 +218,6 @@
     "Obsidian Vault/Worldbuilding/Events",
     "Obsidian Vault/Worldbuilding/Conditions",
     "Obsidian Vault/Worldbuilding/Characters",
-    "Obsidian Vault/Worldbuilding",
     "Untitled.canvas"
   ]
 }
