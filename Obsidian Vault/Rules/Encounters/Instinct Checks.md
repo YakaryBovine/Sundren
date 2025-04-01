@@ -28,3 +28,117 @@ Ordinary intelligent veterans should have an Instinct of 3 or 4. They might get 
 Hardened, battle-tested fighters might have an Instinct of only 1 or 2, being very unlikely to forget themselves in the chaos of battle. 
 
 The coldest, calmest killers would have an Instinct of 1, and may not have to make Instinct checks at all outside of the most disorienting situations. They’ll fight according to the plan and won’t lose track of the battle.
+
+## Example instinctive actions
+The tables here offer some suggestions for different types of actions that different kinds of foes could take. While the actions may be sub-optimal, assume that every creature will carry them out as intelligently as they are able to. A GM should also feel perfectly free to simply decide on a creature’s action, picking whatever course seems most likely for something of its motives and mentality.
+
+### Non-Combatant Humans
+
+| Roll | Action                                            |
+|------|---------------------------------------------------|
+| 1    | Stand immobile in confusion and fear              |
+| 2    | Punch or kick a foe instead of using a weapon     |
+| 3    | Cringe, taking the Total Defense action          |
+| 4    | Panic and make a Morale check                     |
+| 5    | Shout threats or pleas, but don’t attack          |
+| 6    | Reposition to get close to the nearest ally       |
+### Combat-Trained Humans
+
+| Roll | Action                                                       |
+|------|--------------------------------------------------------------|
+| 1    | Freeze in confusion, doing nothing this round                |
+| 2    | Reposition to get a better place to fight from               |
+| 3    | Duck, taking the Total Defense action                       |
+| 4    | Spend a round looking around the battlefield                 |
+| 5    | Blindly attack the nearest enemy                             |
+| 6    | Attack an object, barrier, or downed foe                     |
+### Sorcerers or Other Spellcasters
+
+| Roll | Action                                                       |
+|------|--------------------------------------------------------------|
+| 1    | Freeze a round trying to pick which spell to use             |
+| 2    | Get further away from the nearest enemy                      |
+| 3    | Use magic, but misjudge the aiming somehow                   |
+| 4    | Try to hide behind something or get cover                    |
+| 5    | Attack with punches or physical weapons                      |
+| 6    | Ignore everyone but the nearest threat to them               |
+### Ordinary Predatory Beasts
+
+| Roll | Action                                                       |
+|------|--------------------------------------------------------------|
+| 1    | Snarl and growl, but don’t attack anyone                    |
+| 2    | Pull back and get away from nearby threats                   |
+| 3    | Attack the last enemy to have hurt it                       |
+| 4    | Attack the last enemy it managed to hurt                    |
+| 5    | Take a bite out of a downed enemy                           |
+| 6    | Panic and make a Morale check                                |
+### Viciously Violent Beasts
+
+| Roll | Action                                                       |
+|------|--------------------------------------------------------------|
+| 1    | Roar savagely at the foe, but don’t attack                   |
+| 2    | Attack the last foe it hit in blind fury                    |
+| 3    | Charge the last enemy to get its attention                  |
+| 4    | Gnaw on a downed enemy                                       |
+| 5    | Charge the biggest cluster of targets                        |
+| 6    | Attack the largest enemy on the field                        |
+### Trained Servitor Beasts
+
+| Roll | Action                                                       |
+|------|--------------------------------------------------------------|
+| 1    | Seek its trainer or handler on the field                     |
+| 2    | Repeat the last action it took, sensible or not              |
+| 3    | Attack the enemy closest to its handler                      |
+| 4    | Whine in confusion and disorientation                        |
+| 5    | Perform an inappropriate but trained action                  |
+| 6    | Panic, attacking the nearest friend or foe                   |
+### Automatons
+
+| Roll | Action                                          |
+| ---- | ----------------------------------------------- |
+| 1    | Do its intended purpose, even if inappropriate  |
+| 2    | Spend the round analyzing the situation         |
+| 3    | Repeat the last thing it did with blind intent  |
+| 4    | Attack the last target, even if it’s now downed |
+| 5    | Utter a warning or imperative to the foes       |
+| 6    | Select a new target for some reason             |
+### Insects and Semi-Mindless Beasts
+
+| Roll | Action                                 |
+| ---- | -------------------------------------- |
+| 1    | Move to help an ally encircle a target |
+| 2    | Retreat from a foe for a round         |
+| 3    | Skitter and crawl randomly             |
+| 4    | Chew on the nearest organic substance  |
+| 5    | Charge nearest prey creature           |
+| 6    | Attack the smallest prey there         |
+### Beings of Arrogant Might
+
+| Roll | Action                                                       |
+|------|--------------------------------------------------------------|
+| 1    | Sneer at the pitiful weaklings that oppose it                 |
+| 2    | Boast of its inevitable victory                               |
+| 3    | Gratuitous use of a power in an unhelpful way                 |
+| 4    | Attack the last enemy to offend it somehow                    |
+| 5    | Urge on servitors, or demand surrender                        |
+| 6    | Taunt the foe as it takes a Total Defense                     |
+### Hateful and Sadistic Sentients
+
+| Roll | Action                                                       |
+|------|--------------------------------------------------------------|
+| 1    | Spend a round looking for a good victim                      |
+| 2    | Attack to hurt or humiliate, doing half damage                |
+| 3    | Attack the weakest-looking foe present                       |
+| 4    | Assault the enemy that most offends it                        |
+| 5    | Slaughter a downed foe or tear a corpse                       |
+| 6    | Spend a round making threats and vows                         |
+### Undead Creatures
+
+| Roll | Action                                            |
+| ---- | ------------------------------------------------- |
+| 1    | Moan at the torment of their condition            |
+| 2    | Savagely attack the most vital, lively enemy      |
+| 3    | Blindly assault a downed foe or corpse            |
+| 4    | Seek to terrify a foe rather than directly attack |
+| 5    | Target the foe with the weakest life force        |
+| 6    | Do nothing, instinctively craving an end          |

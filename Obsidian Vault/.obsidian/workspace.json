@@ -13,11 +13,11 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Obsidian Vault/Rules/Encounters/Monsters and Foes.md",
+                "file": "Obsidian Vault/Rules/Encounters/Instinct Checks.md",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (Monsters and Foes)"
+              "title": "Diff View (Instinct Checks)"
             }
           }
         ]
@@ -170,9 +170,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "980daf74a6411488",
+  "active": "d80c75e904dcb1f4",
   "lastOpenFiles": [
     "Rules/Encounters/Instinct Checks.md",
+    "Rules/Encounters/Falling and Other Hazards.md",
     "Rules/Encounters/Monsters and Foes.md",
     "Rules/Encounters/Travel.md",
     "Rules/Encounters/Wilderness Exploration and Expeditions.md",
@@ -185,7 +186,6 @@
     "Rules/Classes/Arcane Traditions/Elementalist.md",
     "Rules/Classes/Arcane Traditions/Beastmaster.md",
     "Rules/Classes/Arcane Traditions/Accursed.md",
-    "Rules/Encounters/Falling and Other Hazards.md",
     "Campaign/Backstory and Character.md",
     "Rules/Classes/Mage.md",
     "Worldbuilding/Characters/Halion Kal.md",
