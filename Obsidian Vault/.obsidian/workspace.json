@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Factions/Urzithan Concordat.md",
+                "file": "Worldbuilding/Locations/Hospice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Urzithan Concordat"
+              "title": "Hospice"
             }
           }
         ]
@@ -183,10 +183,13 @@
   },
   "active": "0f5d29becdd57668",
   "lastOpenFiles": [
-    "Worldbuilding/Factions/Stålråd.md",
-    "Worldbuilding/Factions/Urzithan Concordat.md",
-    "Worldbuilding/Factions/Vurum-Khal.md",
+    "Worldbuilding/Locations/Bongire Taiga.md",
+    "Worldbuilding/Locations/Bar'duum.md",
+    "GM Notes/Session 1.md",
     "Session Notes/Session 1 - Forsyning.md",
+    "Worldbuilding/Factions/Urzithan Concordat.md",
+    "Worldbuilding/Factions/Stålråd.md",
+    "Worldbuilding/Factions/Vurum-Khal.md",
     "Worldbuilding/Factions/New Gods.md",
     "Worldbuilding/Factions/Followers of the Cycle.md",
     "Worldbuilding/Locations/Hospice.md",
@@ -194,12 +197,9 @@
     "Worldbuilding/Locations/Sunlancer.md",
     "Worldbuilding/Locations/Northern Plateau.md",
     "Worldbuilding/Locations/Great Desert.md",
-    "Worldbuilding/Locations/Bongire Taiga.md",
-    "Worldbuilding/Locations/Bar'duum.md",
     "Worldbuilding/Characters/Ashur-Namta.md",
     "Worldbuilding/Characters/Halion Kal.md",
     "Worldbuilding/Characters/Vaad.md",
-    "GM Notes/Session 1.md",
     "Worldbuilding/Technology/Screamer.md",
     "Koom'durg.md",
     "Session Notes/Untitled",
