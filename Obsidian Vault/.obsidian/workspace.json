@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ce4091d83163c7fe",
+        "id": "7ca6199d7b7829bd",
         "type": "tabs",
         "children": [
           {
-            "id": "60413f52c608d8a9",
+            "id": "0f5d29becdd57668",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Worldbuilding/Locations/Sunlancer.md",
-                "staged": false
+                "file": "Worldbuilding/Factions/Urzithan Concordat.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Sunlancer)"
+              "icon": "lucide-file",
+              "title": "Urzithan Concordat"
             }
           }
         ]
@@ -170,42 +181,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80c75e904dcb1f4",
+  "active": "0f5d29becdd57668",
   "lastOpenFiles": [
+    "Worldbuilding/Factions/Stålråd.md",
     "Worldbuilding/Factions/Urzithan Concordat.md",
-    "Worldbuilding/Locations/Sunlancer.md",
+    "Worldbuilding/Factions/Vurum-Khal.md",
     "Session Notes/Session 1 - Forsyning.md",
+    "Worldbuilding/Factions/New Gods.md",
+    "Worldbuilding/Factions/Followers of the Cycle.md",
+    "Worldbuilding/Locations/Hospice.md",
+    "Worldbuilding/Locations/Splint.md",
+    "Worldbuilding/Locations/Sunlancer.md",
+    "Worldbuilding/Locations/Northern Plateau.md",
+    "Worldbuilding/Locations/Great Desert.md",
+    "Worldbuilding/Locations/Bongire Taiga.md",
+    "Worldbuilding/Locations/Bar'duum.md",
+    "Worldbuilding/Characters/Ashur-Namta.md",
+    "Worldbuilding/Characters/Halion Kal.md",
+    "Worldbuilding/Characters/Vaad.md",
     "GM Notes/Session 1.md",
     "Worldbuilding/Technology/Screamer.md",
     "Koom'durg.md",
     "Session Notes/Untitled",
     "Session Notes",
-    "Worldbuilding/Locations/Northern Plateau.md",
-    "Worldbuilding/Locations/Bongire Taiga.md",
-    "Worldbuilding/Factions/New Gods.md",
-    "Worldbuilding/Characters/Halion Kal.md",
-    "Worldbuilding/Locations/Bar'duum.md",
     "Campaign/Backstory and Character.md",
     "Worldbuilding/Events/Anathema Doctrine.md",
-    "Worldbuilding/Locations/Great Desert.md",
-    "Worldbuilding/Locations/Splint.md",
     "Worldbuilding/Magic/Leyline Dust.md",
     "Worldbuilding/Conditions/Spellrot.md",
-    "Worldbuilding/Characters/Vaad.md",
     "Worldbuilding/Events/Operation Oblivion.md",
     "README.md",
     "Worldbuilding/Magic/Magic.md",
-    "Rules/Character/Attributes.md",
-    "Worldbuilding/Factions/Followers of the Cycle.md",
     "Worldbuilding/Images/Host.jpg",
     "Worldbuilding/Images/HalionKal.jpg",
     "Worldbuilding/Images/Fiend.jpg",
     "Worldbuilding/Images/Fey.jpg",
     "Worldbuilding/Images/Barduum.jpg",
     "Worldbuilding/Images/Celestial.jpg",
-    "Worldbuilding/Factions/Stålråd.md",
-    "Great Desert.md",
-    "2025-03-31.md",
     "Untitled.canvas",
     "Worldbuilding/Locations/Geography",
     "Obsidian Vault/Worldbuilding/Images/Warforged.jpg",

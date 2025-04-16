@@ -1,0 +1,9 @@
+The Collectors, as they are called by those who know little of their true nature, are rarely seen outside the settlement of [[Hospice]]. When they do venture out, they are recognizable by their ceremonial bandages, gaunt forms, and unblinking eyes. The Collectors exist somewhere between immortality and decay, flourishing in a world where most others would wither and perish.
+
+They are the Vurum-Khal, an ancient order of Priests devoted to [[Ashur-Namta]], the God of Abundance in the Face of Desolation. Once healers and caretakers in the grand [[House of Life]], they are now vessels of their [[God]]’s sacred principle: life is a gift earned through suffering, and abundance can only be harvested from loss.
+
+Infected by the Disease of Abundance, the Collectors enjoy immortality and unparalleled durability, but at a terrible cost. Their bodies cannot heal naturally, and they slowly lose limbs and senses over the centuries. The bandages that cover their bodies serve as both a protection against the spread of their sacred affliction and a grim reminder of their condition.
+
+The Collectors are valuable traders, paying handsomely for anything that can replace their lost limbs. They seek out healthy flesh, magical artifacts, and cybernetic enhancements, believing that these relics can replace what time has taken from them. A fresh corpse or an advanced prosthetic is worth far more in Hospice than it is in any other settlement in [[The Dredge|the Dredge]].
+
+For those brave enough to enter Hospice, the Collectors offer a rare opportunity for barter—but always at a cost. Trade with them is not as simple as exchanging goods; it is a sacred transaction, a ritual that is binding and often strange. The Collectors are immortal, and they need little from the living—yet they continue to seek, trade, and grow in their own way, always hungry for new parts, new life, and new meaning.

@@ -1,0 +1,7 @@
+Ashur-Namta is the [[Urzithan Concordat|Urzithan]] [[God|deity]] of Flourishing Amidst Grief and Abundance in Desolation. They preside not over lush gardens, but over the cracked soil from which green life dares to sprout. Neither male nor female, they are often invoked by those who toil with nothing, who bleed into parched ground, and who still—somehow—demand plenty.
+
+In the early centuries of Urzithan expansion, Ashur-Namta was a minor deity, called upon mostly in failed harvests and bitter winters. But as the Urzithan people moved deeper into the [[Great Desert]], as water thinned and hope frayed, their cult rose in prominence, answering prayers not for comfort, but for survival.
+
+After [[Project Oblivion]] wiped out most of the world's population, all but a handful of the Gods dwindled into obscurity. Ashur-Namta, however, thrived in the ash, their essence woven into every cracked cistern and salvaged seed. It is said they feed on endurance and invention, and in the scarcity of the wasteland, they are fed daily.
+
+They are worshiped by many desert traders, scavengers, and survivalists, but none more devoutly than the Priests of [[Hospice]], who infect themselves with the Disease of Abundance—a holy affliction that grants eternal durability and loss in equal measure. For these Priests, Ashur-Namta is both savior and sculptor, shaping them through pain into living reliquaries of will.

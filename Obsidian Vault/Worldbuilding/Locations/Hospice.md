@@ -1,0 +1,13 @@
+> The Last Place Many See Whole
+
+Hospice is a rare beacon of stability in the wastes of the [[Shattered Expanse]], rising like a solemn wound from the cracked stone where desert and desolation meet. Built upon the shattered bones of the [[House of Life]], an ancient and once-celebrated temple to [[Ashur-Namta]], it now serves a darker, stranger purpose. While the House of Life was once a place of healing and hope for the city-states of the old world, Hospice is a place of transactions, thresholds, and transformation.
+
+Its new custodians are the [[Vurum-Khal]]—the Flesh-Burdened—immortal Priests infected with the sacred Disease of Abundance, a divine affliction that grants eternal durability and monstrous longevity at the cost of terrible pain, decay, and inability to heal. Swathed in ceremonial bandages to keep their blessing from spreading, the Vurum-Khal do not hunger, do not sleep, and do not rot—but they _do lose_ pieces of themselves, inch by inch, over the long centuries. Their settlement exists to replace what they lose, and to venerate their [[God]] through the art of survival in suffering.
+
+In the age of the [[The Dredge|Dredge]], Hospice is known as a place of unexpected peace. Though feared and reviled in equal measure, the Vurum-Khal enforce a sacred neutrality under the purview of Ashur-Namta, and even warbands and slavers hesitate to shed blood within sight of their withered banners. Here, traders barter limbs like coin, exchanging healthy flesh, cybernetic relics, and magical prosthetics for the Vurum-Khal's generous compensation.
+
+Hospice's name comes not from its comfort, but its service to the dying. The Vurum-Khal will pay handsomely for fresh corpses, particularly those not yet claimed by the decay of the wasteland. The limbs of the recently dead are holy prizes, unspoiled offerings in a world of scarcity, grafted to replace what time has stripped away. Some dying pilgrims come willingly, offering their bodies as tribute in exchange for their families’ futures—or in hopes that a part of them might walk forever in sacred service.
+
+The Vurum-Khal rarely induct outsiders, and only those who show unflinching devotion to Ashur-Namta—those who truly believe that abundance must be earned through suffering, and that the body is a tool to be reshaped, broken, and repurposed. Most die in the attempt. Those who survive are never quite human again.
+
+Hospice is not a kingdom, nor a church. It is a reliquary of survival, where life is harvested, grief is currency, and the line between sanctity and horror has long since dissolved.
