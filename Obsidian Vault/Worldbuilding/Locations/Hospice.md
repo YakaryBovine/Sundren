@@ -23,7 +23,7 @@ Surrounding the Womb is the Fringe, a tent-city grown semi-permanent. Tarp shelt
 Hospice enforces strict rules: no weapons drawn, no theft, and no violence under the God’s eye. Enforcement rarely requires more than a Collector slowly turning their gaze on you.
 ### The Offering Skin
 A vast plaza of smooth, blackened concrete, known as The Offering Skin, lies before the Womb. Traders bring goods here—corpses on litters, mechanical arms sealed in lead boxes, mana-stained artifacts still leaking arc-light—and lay them out for appraisal. The Collectors emerge silently, sometimes alone, sometimes in pairs, moving with slow precision to inspect the offerings. Payment is always exact, always generous, and always final.
-## The Bloomcradle
+### The Bloomcradle
 Nearby is the Bloomcradle, a sacred garden where the Collectors attempt to cultivate rare plant life—mutant herbs, fungi that eat metal, and the legendary Saltflowers, said to bloom only in soil salted by tears.
 ## Atmosphere
 Hospice is reverently quiet. Conversations are held in hushed tones. Even the market seems to pulse more than shout. The air is hot, dry, and smells faintly of medicinal herbs and scorched sand. At night, low chanting can be heard from the Womb, the sound carried on still air like a heartbeat made of stone and memory.
