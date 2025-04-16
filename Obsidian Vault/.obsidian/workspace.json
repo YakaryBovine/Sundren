@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7bd4bc5da7077144",
+        "id": "ce4091d83163c7fe",
         "type": "tabs",
         "children": [
           {
-            "id": "980daf74a6411488",
+            "id": "60413f52c608d8a9",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Rules/Encounters/Instinct Checks.md",
-                "staged": false
+                "file": "Session Notes/Session 1 - Forsyning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Instinct Checks)"
+              "icon": "lucide-file",
+              "title": "Session 1 - Forsyning"
             }
           }
         ]
@@ -77,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 291.5
   },
   "right": {
     "id": "ccc972bf27e186f7",
@@ -170,54 +181,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80c75e904dcb1f4",
+  "active": "60413f52c608d8a9",
   "lastOpenFiles": [
-    "Rules/Encounters/Instinct Checks.md",
-    "Rules/Encounters/Falling and Other Hazards.md",
-    "Rules/Encounters/Monsters and Foes.md",
-    "Rules/Encounters/Travel.md",
-    "Rules/Encounters/Wilderness Exploration and Expeditions.md",
-    "Rules/Encounters/Reaction Rolls and Parleying.md",
-    "Rules/Encounters/Morale Checks and Fleeing.md",
-    "Rules/Bestiary/Animals.md",
-    "Rules/Bestiary.md",
-    "Rules/Bestiary",
-    "Rules/Classes/Arcane Traditions/Blood Priest.md",
-    "Rules/Classes/Arcane Traditions/Elementalist.md",
-    "Rules/Classes/Arcane Traditions/Beastmaster.md",
-    "Rules/Classes/Arcane Traditions/Accursed.md",
-    "Campaign/Backstory and Character.md",
-    "Rules/Classes/Mage.md",
-    "Worldbuilding/Characters/Halion Kal.md",
-    "Worldbuilding/Characters/Obzidon.md",
-    "Worldbuilding/Characters/Vaad.md",
-    "Worldbuilding/Events/Anathema Doctrine.md",
-    "Worldbuilding/Events/Operation Oblivion.md",
-    "Worldbuilding/Factions/New Gods.md",
-    "Worldbuilding/Factions/Urzithan Concordat.md",
-    "Worldbuilding/Locations/Bar'duum.md",
-    "Worldbuilding/Locations/Great Desert.md",
+    "GM Notes/Session 1.md",
+    "Session Notes/Session 1 - Forsyning.md",
+    "Worldbuilding/Technology/Screamer.md",
+    "Koom'durg.md",
     "Worldbuilding/Locations/Sunlancer.md",
+    "Session Notes/Untitled",
+    "Session Notes",
+    "Worldbuilding/Locations/Northern Plateau.md",
+    "Worldbuilding/Locations/Bongire Taiga.md",
+    "Worldbuilding/Factions/Urzithan Concordat.md",
+    "Worldbuilding/Factions/New Gods.md",
+    "Worldbuilding/Characters/Halion Kal.md",
+    "Worldbuilding/Locations/Bar'duum.md",
+    "Campaign/Backstory and Character.md",
+    "Worldbuilding/Events/Anathema Doctrine.md",
+    "Worldbuilding/Locations/Great Desert.md",
+    "Worldbuilding/Locations/Splint.md",
     "Worldbuilding/Magic/Leyline Dust.md",
+    "Worldbuilding/Conditions/Spellrot.md",
+    "Worldbuilding/Characters/Vaad.md",
+    "Worldbuilding/Events/Operation Oblivion.md",
+    "README.md",
+    "Worldbuilding/Magic/Magic.md",
+    "Rules/Character/Attributes.md",
+    "Worldbuilding/Factions/Followers of the Cycle.md",
+    "Worldbuilding/Images/Host.jpg",
+    "Worldbuilding/Images/HalionKal.jpg",
+    "Worldbuilding/Images/Fiend.jpg",
+    "Worldbuilding/Images/Fey.jpg",
+    "Worldbuilding/Images/Barduum.jpg",
+    "Worldbuilding/Images/Celestial.jpg",
+    "Worldbuilding/Factions/Stålråd.md",
+    "Great Desert.md",
+    "2025-03-31.md",
+    "Untitled.canvas",
+    "Worldbuilding/Locations/Geography",
     "Obsidian Vault/Worldbuilding/Images/Warforged.jpg",
     "Obsidian Vault/Worldbuilding/Images/Screamer.jpg",
     "Obsidian Vault/Worldbuilding/Images/Primal.jpg",
     "Obsidian Vault/Worldbuilding/Images/Host.jpg",
-    "Obsidian Vault/Worldbuilding/Images/Sunlancer.jpg",
-    "Obsidian Vault/Worldbuilding/Images/Splint.jpg",
-    "Obsidian Vault/Worldbuilding/Images/Spirit.jpg",
-    "Obsidian Vault/Worldbuilding/Images/HalionKal.jpg",
-    "Obsidian Vault/Worldbuilding/Images/Colossus.jpg",
-    "Obsidian Vault/Worldbuilding/Images/FollowerOfTheCycle.jpg",
     "Obsidian Vault/Worldbuilding/Technology",
     "Obsidian Vault/Worldbuilding/Metaphysics",
     "Obsidian Vault/Worldbuilding/Magic",
     "Obsidian Vault/Worldbuilding/Locations",
     "Obsidian Vault/Worldbuilding/Images",
     "Obsidian Vault/Worldbuilding/Factions",
-    "Obsidian Vault/Worldbuilding/Events",
-    "Obsidian Vault/Worldbuilding/Conditions",
-    "Obsidian Vault/Worldbuilding/Characters",
-    "Untitled.canvas"
+    "Obsidian Vault/Worldbuilding/Events"
   ]
 }
