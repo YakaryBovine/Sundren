@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "951667b19b491261",
+        "id": "79b8b95f4e83fc93",
         "type": "tabs",
         "children": [
           {
-            "id": "91aba8013a8b8b7c",
+            "id": "52fdd1cf31e0ef3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GM Notes/Session 2 - Forsyning & Hospice.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Session 2 - Forsyning & Hospice"
             }
           }
         ]
@@ -167,14 +181,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91aba8013a8b8b7c",
+  "active": "52fdd1cf31e0ef3e",
   "lastOpenFiles": [
+    "Session Notes/Session 1 - Forsyning.md",
+    "Rules/Encounters/Travel.md",
+    "Rules/Encounters/Wilderness Exploration and Expeditions.md",
+    "GM Notes/Session 2 - Forsyning & Hospice.md",
+    "GM Notes/Session 1 - Forsyning.md",
+    "GM Notes/Misc ideas.md",
+    "Rules/Encounters/Monsters and Foes.md",
+    "Worldbuilding/Locations/Bar'duum.md",
     "Worldbuilding/Locations/Hospice.md",
     "Worldbuilding/Locations/Northern Plateau.md",
     "Worldbuilding/Locations/Bongire Taiga.md",
-    "Worldbuilding/Locations/Bar'duum.md",
-    "GM Notes/Session 1.md",
-    "Session Notes/Session 1 - Forsyning.md",
     "Worldbuilding/Factions/Urzithan Concordat.md",
     "Worldbuilding/Factions/Stålråd.md",
     "Worldbuilding/Factions/Vurum-Khal.md",
@@ -192,11 +211,6 @@
     "Session Notes",
     "Campaign/Backstory and Character.md",
     "Worldbuilding/Events/Anathema Doctrine.md",
-    "Worldbuilding/Magic/Leyline Dust.md",
-    "Worldbuilding/Conditions/Spellrot.md",
-    "Worldbuilding/Events/Operation Oblivion.md",
-    "README.md",
-    "Worldbuilding/Magic/Magic.md",
     "Worldbuilding/Images/Host.jpg",
     "Worldbuilding/Images/HalionKal.jpg",
     "Worldbuilding/Images/Fiend.jpg",
