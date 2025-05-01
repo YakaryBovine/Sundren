@@ -27,9 +27,7 @@ The war burned hot and long. And in the end, neither side survived.
 
 The Stålråd collapsed — its command lattice shattered, its reactors went dark, and its cities fell silent. Across the [[Bongire Taiga]], its machine-cities lie broken and lifeless, scavenged by the desperate and feared by the wise.
 ### Legacy
-The [[Stålråd]] was not merely a machine-state. It was a dream: of a world where knowledge set all people free, where no one bowed to gods or kings, and where reason could build something better. In a land shaped by miracles and monsters, the Stålråd stood apart — idealistic, determined, and deeply human.
-
-But dreams can sour.
+The [[Stålråd]] was not merely a machine-state. It was a dream: of a world where knowledge set all people free, where no one bowed to gods or kings, and where reason could build something better. In a land shaped by miracles and monsters, the Stålråd stood apart — fatally idealistic, neurotically determined, but deeply human.
 
 Across the [[Shattered Expanse]] and [[Bongire Taiga]], their [[Warforged|war-machines]] still roam — some following orders no longer relevant, others simply broken in mind and purpose. [[Screamer|Screamers]], cheap warforged infantry with human brains barely shielded from sensation, sprint through the dust in search of anything to distract them from their endless pain. The [[Colossus|Colossi]], towering warforged [[Host|Hosts]] too vast to maintain, chose to bury themselves deep in the earth, whispering down into the bedrock to escape the guilt of their deeds.
 
@@ -40,5 +38,3 @@ Then there are the caches: supply bunkers sealed against time, brimming with arc
 Worse still, the Stålråd’s legacy includes the mutants, ghouls, and engineered hybrids created during the arms race of the Last War—some deliberate, some accidents. Their bloodlines persist in the cracks of the world. There are fabricated plagues, too, that adapt to hosts across generations, and toxins that no longer match the genomes they were made to kill.
 
 Their knowledge survives in fragments, etched into machines that no longer speak their language. And scattered among the ruins are the last of their sleeper cells, encrypted archives, and half-finished gods of steel, waiting in silence.
-
-This is the inheritance of the Stålråd: not a banner, but a warning.
