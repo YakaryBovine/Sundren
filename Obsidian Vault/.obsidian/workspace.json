@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Factions/Stålråd.md",
+                "file": "Worldbuilding/Factions/Vurum-Khal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Stålråd"
+              "title": "Vurum-Khal"
+            }
+          },
+          {
+            "id": "4fafe9b12346e109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worldbuilding/Locations/Hospice.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hospice"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,23 +206,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80c75e904dcb1f4",
+  "active": "4fafe9b12346e109",
   "lastOpenFiles": [
+    "Worldbuilding/Factions/Vurum-Khal.md",
+    "Worldbuilding/Characters/Ashur-Namta.md",
+    "Worldbuilding/Characters/Halion Kal.md",
+    "Worldbuilding/Factions/Stålråd.md",
     "Worldbuilding/Images/Stalrad.jpg",
     "Worldbuilding/Factions/New Gods.md",
-    "Worldbuilding/Factions/Stålråd.md",
     "Worldbuilding/Factions/Followers of the Cycle.md",
     "Worldbuilding/Events/Anathema Doctrine.md",
     "Worldbuilding/Events/Operation Oblivion.md",
-    "Worldbuilding/Factions/Vurum-Khal.md",
     "Worldbuilding/Factions/Urzithan Concordat.md",
     "Worldbuilding/Magic/Magic.md",
     "Worldbuilding/Locations/Northern Plateau.md",
     "Worldbuilding/Locations/Bar'duum.md",
     "Worldbuilding/Locations/Bongire Taiga.md",
     "Worldbuilding/Characters/Obzidon.md",
-    "Worldbuilding/Characters/Halion Kal.md",
-    "Worldbuilding/Characters/Ashur-Namta.md",
     "Worldbuilding/Characters/The Last Legion.md",
     "Worldbuilding/Characters/Vaad.md",
     "GM Notes/Session 2 - Forsyning & Hospice.md",
@@ -222,7 +247,6 @@
     "Obsidian Vault/Worldbuilding/Images/Warforged.jpg",
     "Obsidian Vault/Worldbuilding/Images/Screamer.jpg",
     "Obsidian Vault/Worldbuilding/Images/Primal.jpg",
-    "Obsidian Vault/Worldbuilding/Images/Host.jpg",
     "Obsidian Vault/Worldbuilding/Technology",
     "Obsidian Vault/Worldbuilding/Metaphysics",
     "Obsidian Vault/Worldbuilding/Magic",
