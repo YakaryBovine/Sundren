@@ -11,52 +11,16 @@
             "id": "a86f0c14a77652bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Worldbuilding/Factions/Vurum-Khal.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Obsidian Vault/Worldbuilding/Metaphysics/Spirits/Spirit.md",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "Vurum-Khal"
-            }
-          },
-          {
-            "id": "4fafe9b12346e109",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worldbuilding/Metaphysics/Spirits/Spirit.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Spirit"
+              "icon": "git-pull-request",
+              "title": "Diff View (Spirit)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,13 +170,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4fafe9b12346e109",
+  "active": "a86f0c14a77652bc",
   "lastOpenFiles": [
-    "Worldbuilding/Metaphysics/Spirits/Primal.md",
-    "Worldbuilding/Metaphysics/Spirits/God.md",
+    "Worldbuilding/Metaphysics/Soul.md",
+    "Worldbuilding/Factions/Vurum-Khal.md",
     "Worldbuilding/Metaphysics/Spirits/Fiend.md",
     "Worldbuilding/Metaphysics/Spirits/Fey.md",
     "Worldbuilding/Metaphysics/Spirits/Elemental.md",
+    "Worldbuilding/Metaphysics/Spirit.md",
+    "Worldbuilding/Metaphysics/Spirits/Primal.md",
+    "Worldbuilding/Metaphysics/Spirits/God.md",
     "Worldbuilding/Metaphysics/Spirits/Eidolon.md",
     "Worldbuilding/Metaphysics/Spirits/Celestial.md",
     "Worldbuilding/Magic/Leyline Dust.md",
@@ -225,8 +192,6 @@
     "Worldbuilding/Characters/Obzidon.md",
     "Worldbuilding/Characters/Halion Kal.md",
     "Worldbuilding/Characters/Ashur-Namta.md",
-    "Worldbuilding/Metaphysics/Spirits/Spirit.md",
-    "Worldbuilding/Factions/Vurum-Khal.md",
     "Worldbuilding/Locations/Hospice.md",
     "Worldbuilding/Factions/Stålråd.md",
     "Worldbuilding/Images/Stalrad.jpg",
@@ -235,7 +200,6 @@
     "Worldbuilding/Factions/Urzithan Concordat.md",
     "Worldbuilding/Magic/Magic.md",
     "Worldbuilding/Locations/Northern Plateau.md",
-    "Worldbuilding/Locations/Bar'duum.md",
     "Session Notes/Untitled",
     "Session Notes",
     "Worldbuilding/Images/Host.jpg",
