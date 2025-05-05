@@ -11,13 +11,24 @@
             "id": "a86f0c14a77652bc",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Worldbuilding/Metaphysics/Spirits/Spirit.md",
-                "staged": false
+                "file": "Worldbuilding/Metaphysics/Soul.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Spirit)"
+              "icon": "lucide-file",
+              "title": "Soul"
             }
           }
         ]
@@ -52,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "soul",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,14 +184,15 @@
   },
   "active": "a86f0c14a77652bc",
   "lastOpenFiles": [
+    "Worldbuilding/Metaphysics/Spirits/God.md",
+    "Worldbuilding/Metaphysics/Spirits/Fiend.md",
+    "Worldbuilding/Locations/Bar'duum.md",
     "Worldbuilding/Metaphysics/Soul.md",
     "Worldbuilding/Factions/Vurum-Khal.md",
-    "Worldbuilding/Metaphysics/Spirits/Fiend.md",
     "Worldbuilding/Metaphysics/Spirits/Fey.md",
     "Worldbuilding/Metaphysics/Spirits/Elemental.md",
     "Worldbuilding/Metaphysics/Spirit.md",
     "Worldbuilding/Metaphysics/Spirits/Primal.md",
-    "Worldbuilding/Metaphysics/Spirits/God.md",
     "Worldbuilding/Metaphysics/Spirits/Eidolon.md",
     "Worldbuilding/Metaphysics/Spirits/Celestial.md",
     "Worldbuilding/Magic/Leyline Dust.md",
@@ -199,7 +212,6 @@
     "Worldbuilding/Factions/Followers of the Cycle.md",
     "Worldbuilding/Factions/Urzithan Concordat.md",
     "Worldbuilding/Magic/Magic.md",
-    "Worldbuilding/Locations/Northern Plateau.md",
     "Session Notes/Untitled",
     "Session Notes",
     "Worldbuilding/Images/Host.jpg",
