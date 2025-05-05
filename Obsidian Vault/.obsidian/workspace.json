@@ -35,13 +35,24 @@
             "id": "4fafe9b12346e109",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Worldbuilding/Metaphysics/God.md",
-                "staged": false
+                "file": "Worldbuilding/Metaphysics/Spirits/Spirit.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (God)"
+              "icon": "lucide-file",
+              "title": "Spirit"
             }
           }
         ],
@@ -98,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,6 +208,15 @@
   },
   "active": "4fafe9b12346e109",
   "lastOpenFiles": [
+    "Worldbuilding/Metaphysics/Spirits/Primal.md",
+    "Worldbuilding/Metaphysics/Spirits/God.md",
+    "Worldbuilding/Metaphysics/Spirits/Fiend.md",
+    "Worldbuilding/Metaphysics/Spirits/Fey.md",
+    "Worldbuilding/Metaphysics/Spirits/Elemental.md",
+    "Worldbuilding/Metaphysics/Spirits/Eidolon.md",
+    "Worldbuilding/Metaphysics/Spirits/Celestial.md",
+    "Worldbuilding/Magic/Leyline Dust.md",
+    "Worldbuilding/Metaphysics/Spirits",
     "Worldbuilding/Events/Operation Oblivion.md",
     "Worldbuilding/Conditions/Spellrot.md",
     "Worldbuilding/Events/Anathema Doctrine.md",
@@ -206,14 +225,7 @@
     "Worldbuilding/Characters/Obzidon.md",
     "Worldbuilding/Characters/Halion Kal.md",
     "Worldbuilding/Characters/Ashur-Namta.md",
-    "Worldbuilding/Metaphysics/Primal.md",
-    "Worldbuilding/Metaphysics/Spirit.md",
-    "Worldbuilding/Metaphysics/God.md",
-    "Worldbuilding/Metaphysics/Fiend.md",
-    "Worldbuilding/Metaphysics/Fey.md",
-    "Worldbuilding/Metaphysics/Elemental.md",
-    "Worldbuilding/Metaphysics/Eidolon.md",
-    "Worldbuilding/Metaphysics/Celestial.md",
+    "Worldbuilding/Metaphysics/Spirits/Spirit.md",
     "Worldbuilding/Factions/Vurum-Khal.md",
     "Worldbuilding/Locations/Hospice.md",
     "Worldbuilding/Factions/Stålråd.md",
@@ -224,7 +236,6 @@
     "Worldbuilding/Magic/Magic.md",
     "Worldbuilding/Locations/Northern Plateau.md",
     "Worldbuilding/Locations/Bar'duum.md",
-    "Worldbuilding/Locations/Bongire Taiga.md",
     "Session Notes/Untitled",
     "Session Notes",
     "Worldbuilding/Images/Host.jpg",
@@ -243,7 +254,6 @@
     "Obsidian Vault/Worldbuilding/Magic",
     "Obsidian Vault/Worldbuilding/Locations",
     "Obsidian Vault/Worldbuilding/Images",
-    "Obsidian Vault/Worldbuilding/Factions",
-    "Obsidian Vault/Worldbuilding/Events"
+    "Obsidian Vault/Worldbuilding/Factions"
   ]
 }
