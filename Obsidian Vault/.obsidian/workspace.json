@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 2 - Hospice.md",
+                "file": "Worldbuilding/Factions/Urzithan Concordat.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 2 - Hospice"
+              "title": "Urzithan Concordat"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gond",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,9 +184,12 @@
   },
   "active": "67037891b703d3ea",
   "lastOpenFiles": [
-    "GM Notes/Session 2 - Forsyning & Hospice.md",
-    "Session Notes/Session 2 - Hospice.md",
+    "Worldbuilding/Characters/Halion Kal.md",
+    "Worldbuilding/Characters/Obzidon.md",
+    "Worldbuilding/Characters/Ashur-Namta.md",
     "Session Notes/Session 1 - Forsyning.md",
+    "Session Notes/Session 2 - Hospice.md",
+    "GM Notes/Session 2 - Forsyning & Hospice.md",
     "Worldbuilding/Locations/Hospice.md",
     "Worldbuilding/Locations/Sunlancer.md",
     "Worldbuilding/Technology/Warforged.md",
@@ -207,10 +211,7 @@
     "Worldbuilding/Metaphysics/Elemental.md",
     "Worldbuilding/Metaphysics/Eidolon.md",
     "Worldbuilding/Metaphysics/Celestial.md",
-    "Worldbuilding/Conditions/Spellrot.md",
     "Worldbuilding/Conditions",
-    "Worldbuilding/Factions/Urzithan Concordat.md",
-    "Worldbuilding/Factions/New Gods.md",
     "Worldbuilding/Images/Stalrad.jpg",
     "4lp0fqoc.png",
     "Session Notes",
