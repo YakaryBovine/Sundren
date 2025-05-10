@@ -23,6 +23,10 @@ The party will come into Hospice and get some choice descriptions about where th
 - **Koom’durg’s Request (or Refusal):** A trio of earth elementals seeks the Earth Primal’s corpse to destroy it and claim its mantle, but currently refuse mortal aid due to their perceived weakness.
 - **The Limbless Collector:** A Collector with no remaining limbs offers riches to anyone who will carry them on an adventure—destination unknown, but tied to their past.
 - **The Devil’s Hand:** A Collector desires the severed, intact hand of a powerful Devil believed to be housed in the asteroid-prison Bar’duum, and wants the party to get themselves captured to retrieve it.
-- A recent earthquake uncovered a battlefield which probably has lots of limbs
-- A village is under imminent attack from a horde of 100 Screamers in 24 hours and they desperately need help
-- A scavenger crew thinks they can salvage a Titan's eye from Finality
+- A recent earthquake uncovered a battlefield which probably has lots of limbs. A group of adventurers led by Barnoldus wants to go there to get stuff for the Collectors.
+- A village is under imminent attack from a horde of 100 Screamers in 24 hours and they desperately need help. An exhausted old man, elder of their village, named Grin.
+- A scavenger crew thinks they can salvage a Titan's eye from Finality. They are led by Firetta, a sniper who watches her crew from afar and communicates via walkie-talkie.
+
+Name of the flaming sword
+Sabit
+What was the name of the collector who wanted the devil's hand?

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "25f1936354cb94d8",
+        "id": "7bd4bc5da7077144",
         "type": "tabs",
         "children": [
           {
-            "id": "a86f0c14a77652bc",
+            "id": "ddc6ecbb82b4ce75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Metaphysics/Soul.md",
+                "file": "Worldbuilding/Locations/Hospice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,48 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Soul"
+              "title": "Hospice"
+            }
+          },
+          {
+            "id": "a3ed5bbd9b77393c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worldbuilding/Factions/Vurum-Khal.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vurum-Khal"
+            }
+          },
+          {
+            "id": "976626f888232147",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Obsidian Vault/Worldbuilding/Locations/Hospice.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Hospice)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "soul",
+                "query": "veteran's luck",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,12 +122,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 300
   },
   "right": {
     "id": "ccc972bf27e186f7",
@@ -182,54 +219,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a86f0c14a77652bc",
+  "active": "d80c75e904dcb1f4",
   "lastOpenFiles": [
+    "Worldbuilding/Metaphysics/Spirits/Primal.md",
     "Worldbuilding/Metaphysics/Spirits/God.md",
     "Worldbuilding/Metaphysics/Spirits/Fiend.md",
-    "Worldbuilding/Locations/Bar'duum.md",
-    "Worldbuilding/Metaphysics/Soul.md",
-    "Worldbuilding/Factions/Vurum-Khal.md",
     "Worldbuilding/Metaphysics/Spirits/Fey.md",
     "Worldbuilding/Metaphysics/Spirits/Elemental.md",
-    "Worldbuilding/Metaphysics/Spirit.md",
-    "Worldbuilding/Metaphysics/Spirits/Primal.md",
     "Worldbuilding/Metaphysics/Spirits/Eidolon.md",
     "Worldbuilding/Metaphysics/Spirits/Celestial.md",
-    "Worldbuilding/Magic/Leyline Dust.md",
     "Worldbuilding/Metaphysics/Spirits",
-    "Worldbuilding/Events/Operation Oblivion.md",
-    "Worldbuilding/Conditions/Spellrot.md",
-    "Worldbuilding/Events/Anathema Doctrine.md",
-    "Worldbuilding/Characters/Vaad.md",
-    "Worldbuilding/Characters/The Last Legion.md",
-    "Worldbuilding/Characters/Obzidon.md",
-    "Worldbuilding/Characters/Halion Kal.md",
-    "Worldbuilding/Characters/Ashur-Namta.md",
+    "Worldbuilding/Metaphysics/Soul.md",
+    "GM Notes/Session 2 - Forsyning & Hospice.md",
+    "Worldbuilding/Factions/Vurum-Khal.md",
     "Worldbuilding/Locations/Hospice.md",
     "Worldbuilding/Factions/Stålråd.md",
     "Worldbuilding/Images/Stalrad.jpg",
-    "Worldbuilding/Factions/New Gods.md",
-    "Worldbuilding/Factions/Followers of the Cycle.md",
-    "Worldbuilding/Factions/Urzithan Concordat.md",
-    "Worldbuilding/Magic/Magic.md",
-    "Session Notes/Untitled",
+    "Rules/Combat/Action Types.md",
+    "Rules/Combat/Special Combat Maneuvers.md",
+    "Rules/Equipment/Weapons.md",
+    "Rules/Character/Character Creation.md",
+    "Rules/Combat/Common Combat Actions.md",
+    "Rules/Character/Injury, Healing, and System Strain.md",
+    "GM Notes/Session 1 - Forsyning.md",
+    "Rules/Encounters/Instinct Checks.md",
+    "Rules/Encounters/Monsters and Foes.md",
+    "Worldbuilding/Characters/Ashur-Namta.md",
+    "Session Notes/Session 1 - Forsyning.md",
     "Session Notes",
-    "Worldbuilding/Images/Host.jpg",
-    "Worldbuilding/Images/HalionKal.jpg",
-    "Worldbuilding/Images/Fiend.jpg",
-    "Worldbuilding/Images/Fey.jpg",
-    "Worldbuilding/Images/Barduum.jpg",
-    "Worldbuilding/Images/Celestial.jpg",
-    "Untitled.canvas",
-    "Worldbuilding/Locations/Geography",
+    "GM Notes/Session 1.md",
+    "Rules/Encounters/Falling and Other Hazards.md",
+    "Rules/Encounters/Travel.md",
+    "Rules/Bestiary",
     "Obsidian Vault/Worldbuilding/Images/Warforged.jpg",
     "Obsidian Vault/Worldbuilding/Images/Screamer.jpg",
     "Obsidian Vault/Worldbuilding/Images/Primal.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Host.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Sunlancer.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Splint.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Spirit.jpg",
+    "Obsidian Vault/Worldbuilding/Images/HalionKal.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Colossus.jpg",
     "Obsidian Vault/Worldbuilding/Technology",
     "Obsidian Vault/Worldbuilding/Metaphysics",
     "Obsidian Vault/Worldbuilding/Magic",
     "Obsidian Vault/Worldbuilding/Locations",
     "Obsidian Vault/Worldbuilding/Images",
-    "Obsidian Vault/Worldbuilding/Factions"
+    "Obsidian Vault/Worldbuilding/Factions",
+    "Obsidian Vault/Worldbuilding/Events",
+    "Untitled.canvas"
   ]
 }
