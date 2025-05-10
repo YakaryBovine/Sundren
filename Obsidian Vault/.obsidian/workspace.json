@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7bd4bc5da7077144",
+        "id": "e23c0b1c97e9ce2c",
         "type": "tabs",
         "children": [
           {
-            "id": "ddc6ecbb82b4ce75",
+            "id": "32f384b491a88fd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Locations/Hospice.md",
+                "file": "Session Notes/Session 2 - Hospice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hospice"
+              "title": "Session 2 - Hospice"
             }
           },
           {
-            "id": "a3ed5bbd9b77393c",
+            "id": "67037891b703d3ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Factions/Vurum-Khal.md",
+                "file": "GM Notes/Session 2 - Forsyning & Hospice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,24 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vurum-Khal"
-            }
-          },
-          {
-            "id": "976626f888232147",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Obsidian Vault/Worldbuilding/Locations/Hospice.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (Hospice)"
+              "title": "Session 2 - Forsyning & Hospice"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "veteran's luck",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,37 +205,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80c75e904dcb1f4",
+  "active": "32f384b491a88fd2",
   "lastOpenFiles": [
-    "Worldbuilding/Metaphysics/Spirits/Primal.md",
+    "Session Notes/Session 1 - Forsyning.md",
+    "Session Notes/Session 2 - Hospice.md",
+    "GM Notes/Session 2 - Forsyning & Hospice.md",
+    "Worldbuilding/Locations/Hospice.md",
+    "Worldbuilding/Locations/Sunlancer.md",
+    "Worldbuilding/Technology/Warforged.md",
+    "Worldbuilding/Factions/Stålråd.md",
+    "conflict-files-obsidian-git.md",
     "Worldbuilding/Metaphysics/Spirits/God.md",
+    "Worldbuilding/Metaphysics/Spirits/Primal.md",
     "Worldbuilding/Metaphysics/Spirits/Fiend.md",
-    "Worldbuilding/Metaphysics/Spirits/Fey.md",
     "Worldbuilding/Metaphysics/Spirits/Elemental.md",
+    "Worldbuilding/Metaphysics/Spirits/Fey.md",
     "Worldbuilding/Metaphysics/Spirits/Eidolon.md",
     "Worldbuilding/Metaphysics/Spirits/Celestial.md",
     "Worldbuilding/Metaphysics/Spirits",
     "Worldbuilding/Metaphysics/Soul.md",
-    "GM Notes/Session 2 - Forsyning & Hospice.md",
-    "Worldbuilding/Factions/Vurum-Khal.md",
-    "Worldbuilding/Locations/Hospice.md",
-    "Worldbuilding/Factions/Stålråd.md",
+    "Worldbuilding/Metaphysics/Primal.md",
+    "Worldbuilding/Metaphysics/God.md",
+    "Worldbuilding/Metaphysics/Fiend.md",
+    "Worldbuilding/Metaphysics/Fey.md",
+    "Worldbuilding/Metaphysics/Elemental.md",
+    "Worldbuilding/Metaphysics/Eidolon.md",
+    "Worldbuilding/Metaphysics/Celestial.md",
+    "Worldbuilding/Conditions/Spellrot.md",
+    "Worldbuilding/Conditions",
+    "Worldbuilding/Factions/Urzithan Concordat.md",
+    "Worldbuilding/Factions/New Gods.md",
     "Worldbuilding/Images/Stalrad.jpg",
-    "Rules/Combat/Action Types.md",
-    "Rules/Combat/Special Combat Maneuvers.md",
-    "Rules/Equipment/Weapons.md",
-    "Rules/Character/Character Creation.md",
-    "Rules/Combat/Common Combat Actions.md",
-    "Rules/Character/Injury, Healing, and System Strain.md",
-    "GM Notes/Session 1 - Forsyning.md",
-    "Rules/Encounters/Instinct Checks.md",
-    "Rules/Encounters/Monsters and Foes.md",
-    "Worldbuilding/Characters/Ashur-Namta.md",
-    "Session Notes/Session 1 - Forsyning.md",
+    "4lp0fqoc.png",
     "Session Notes",
-    "GM Notes/Session 1.md",
-    "Rules/Encounters/Falling and Other Hazards.md",
-    "Rules/Encounters/Travel.md",
     "Rules/Bestiary",
     "Obsidian Vault/Worldbuilding/Images/Warforged.jpg",
     "Obsidian Vault/Worldbuilding/Images/Screamer.jpg",
@@ -259,14 +247,12 @@
     "Obsidian Vault/Worldbuilding/Images/Splint.jpg",
     "Obsidian Vault/Worldbuilding/Images/Spirit.jpg",
     "Obsidian Vault/Worldbuilding/Images/HalionKal.jpg",
-    "Obsidian Vault/Worldbuilding/Images/Colossus.jpg",
     "Obsidian Vault/Worldbuilding/Technology",
     "Obsidian Vault/Worldbuilding/Metaphysics",
     "Obsidian Vault/Worldbuilding/Magic",
     "Obsidian Vault/Worldbuilding/Locations",
     "Obsidian Vault/Worldbuilding/Images",
     "Obsidian Vault/Worldbuilding/Factions",
-    "Obsidian Vault/Worldbuilding/Events",
     "Untitled.canvas"
   ]
 }
