@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e23c0b1c97e9ce2c",
+        "id": "a8721e6323ba1dc2",
         "type": "tabs",
         "children": [
           {
-            "id": "67037891b703d3ea",
+            "id": "b4db8dd16a41261a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Factions/Urzithan Concordat.md",
+                "file": "Session Notes/Session 2 - Hospice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Urzithan Concordat"
+              "title": "Session 2 - Hospice"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gond",
+                "query": "soul",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,12 +84,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 291.5
   },
   "right": {
     "id": "ccc972bf27e186f7",
@@ -182,54 +181,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67037891b703d3ea",
+  "active": "b4db8dd16a41261a",
   "lastOpenFiles": [
-    "Worldbuilding/Characters/Halion Kal.md",
-    "Worldbuilding/Characters/Obzidon.md",
-    "Worldbuilding/Characters/Ashur-Namta.md",
     "Session Notes/Session 1 - Forsyning.md",
     "Session Notes/Session 2 - Hospice.md",
-    "GM Notes/Session 2 - Forsyning & Hospice.md",
-    "Worldbuilding/Locations/Hospice.md",
-    "Worldbuilding/Locations/Sunlancer.md",
-    "Worldbuilding/Technology/Warforged.md",
-    "Worldbuilding/Factions/Stålråd.md",
-    "conflict-files-obsidian-git.md",
+    "Worldbuilding/Metaphysics/Soul.md",
     "Worldbuilding/Metaphysics/Spirits/God.md",
-    "Worldbuilding/Metaphysics/Spirits/Primal.md",
     "Worldbuilding/Metaphysics/Spirits/Fiend.md",
-    "Worldbuilding/Metaphysics/Spirits/Elemental.md",
+    "Worldbuilding/Locations/Bar'duum.md",
+    "Worldbuilding/Factions/Vurum-Khal.md",
     "Worldbuilding/Metaphysics/Spirits/Fey.md",
+    "Worldbuilding/Metaphysics/Spirits/Elemental.md",
+    "Worldbuilding/Metaphysics/Spirit.md",
+    "Worldbuilding/Metaphysics/Spirits/Primal.md",
     "Worldbuilding/Metaphysics/Spirits/Eidolon.md",
     "Worldbuilding/Metaphysics/Spirits/Celestial.md",
+    "Worldbuilding/Magic/Leyline Dust.md",
     "Worldbuilding/Metaphysics/Spirits",
-    "Worldbuilding/Metaphysics/Soul.md",
-    "Worldbuilding/Metaphysics/Primal.md",
-    "Worldbuilding/Metaphysics/God.md",
-    "Worldbuilding/Metaphysics/Fiend.md",
-    "Worldbuilding/Metaphysics/Fey.md",
-    "Worldbuilding/Metaphysics/Elemental.md",
-    "Worldbuilding/Metaphysics/Eidolon.md",
-    "Worldbuilding/Metaphysics/Celestial.md",
-    "Worldbuilding/Conditions",
+    "Worldbuilding/Events/Operation Oblivion.md",
+    "Worldbuilding/Conditions/Spellrot.md",
+    "Worldbuilding/Events/Anathema Doctrine.md",
+    "Worldbuilding/Characters/Vaad.md",
+    "Worldbuilding/Characters/The Last Legion.md",
+    "Worldbuilding/Characters/Obzidon.md",
+    "Worldbuilding/Characters/Halion Kal.md",
+    "Worldbuilding/Characters/Ashur-Namta.md",
+    "Worldbuilding/Locations/Hospice.md",
+    "Worldbuilding/Factions/Stålråd.md",
     "Worldbuilding/Images/Stalrad.jpg",
-    "4lp0fqoc.png",
+    "Worldbuilding/Factions/New Gods.md",
+    "Worldbuilding/Factions/Followers of the Cycle.md",
+    "Session Notes/Untitled",
     "Session Notes",
-    "Rules/Bestiary",
+    "Worldbuilding/Images/Host.jpg",
+    "Worldbuilding/Images/HalionKal.jpg",
+    "Worldbuilding/Images/Fiend.jpg",
+    "Worldbuilding/Images/Fey.jpg",
+    "Worldbuilding/Images/Barduum.jpg",
+    "Worldbuilding/Images/Celestial.jpg",
+    "Untitled.canvas",
+    "Worldbuilding/Locations/Geography",
     "Obsidian Vault/Worldbuilding/Images/Warforged.jpg",
     "Obsidian Vault/Worldbuilding/Images/Screamer.jpg",
     "Obsidian Vault/Worldbuilding/Images/Primal.jpg",
-    "Obsidian Vault/Worldbuilding/Images/Host.jpg",
-    "Obsidian Vault/Worldbuilding/Images/Sunlancer.jpg",
-    "Obsidian Vault/Worldbuilding/Images/Splint.jpg",
-    "Obsidian Vault/Worldbuilding/Images/Spirit.jpg",
-    "Obsidian Vault/Worldbuilding/Images/HalionKal.jpg",
     "Obsidian Vault/Worldbuilding/Technology",
     "Obsidian Vault/Worldbuilding/Metaphysics",
     "Obsidian Vault/Worldbuilding/Magic",
     "Obsidian Vault/Worldbuilding/Locations",
     "Obsidian Vault/Worldbuilding/Images",
-    "Obsidian Vault/Worldbuilding/Factions",
-    "Untitled.canvas"
+    "Obsidian Vault/Worldbuilding/Factions"
   ]
 }
