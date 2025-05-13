@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a8721e6323ba1dc2",
+        "id": "7abf213b85de37c9",
         "type": "tabs",
         "children": [
           {
-            "id": "b4db8dd16a41261a",
+            "id": "5cdc86ca9ebde00e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 2 - Hospice.md",
+                "file": "Worldbuilding/Documents/Urzithan-Stålråd Terms of Surrender.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 2 - Hospice"
+              "title": "Urzithan-Stålråd Terms of Surrender"
             }
           }
         ]
@@ -181,10 +181,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4db8dd16a41261a",
+  "active": "5cdc86ca9ebde00e",
   "lastOpenFiles": [
-    "Session Notes/Session 1 - Forsyning.md",
+    "Worldbuilding/Technology/Cryogenic Capsule.md",
+    "Worldbuilding/Technology/Host.md",
+    "Worldbuilding/Technology/Screamer.md",
+    "Worldbuilding/Technology/Warforged.md",
+    "Worldbuilding/Factions/Stålråd.md",
+    "Worldbuilding/Documents/Urzithan-Stålråd Terms of Surrender.md",
     "Session Notes/Session 2 - Hospice.md",
+    "Worldbuilding/Documents",
+    "Session Notes/Session 1 - Forsyning.md",
     "Worldbuilding/Metaphysics/Soul.md",
     "Worldbuilding/Metaphysics/Spirits/God.md",
     "Worldbuilding/Metaphysics/Spirits/Fiend.md",
@@ -204,13 +211,7 @@
     "Worldbuilding/Characters/Vaad.md",
     "Worldbuilding/Characters/The Last Legion.md",
     "Worldbuilding/Characters/Obzidon.md",
-    "Worldbuilding/Characters/Halion Kal.md",
-    "Worldbuilding/Characters/Ashur-Namta.md",
-    "Worldbuilding/Locations/Hospice.md",
-    "Worldbuilding/Factions/Stålråd.md",
     "Worldbuilding/Images/Stalrad.jpg",
-    "Worldbuilding/Factions/New Gods.md",
-    "Worldbuilding/Factions/Followers of the Cycle.md",
     "Session Notes/Untitled",
     "Session Notes",
     "Worldbuilding/Images/Host.jpg",
@@ -228,7 +229,6 @@
     "Obsidian Vault/Worldbuilding/Metaphysics",
     "Obsidian Vault/Worldbuilding/Magic",
     "Obsidian Vault/Worldbuilding/Locations",
-    "Obsidian Vault/Worldbuilding/Images",
-    "Obsidian Vault/Worldbuilding/Factions"
+    "Obsidian Vault/Worldbuilding/Images"
   ]
 }
