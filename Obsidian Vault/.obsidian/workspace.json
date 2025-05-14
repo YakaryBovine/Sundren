@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Factions/Deep State.md",
+                "file": "Worldbuilding/Bestiary/Gallipede.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Deep State"
+              "title": "Gallipede"
             }
           }
         ]
@@ -183,20 +183,23 @@
   },
   "active": "5cdc86ca9ebde00e",
   "lastOpenFiles": [
-    "Worldbuilding/Factions/Followers of the Cycle.md",
     "Worldbuilding/Factions/Deep State.md",
+    "Worldbuilding/Bestiary/Gallipede.md",
+    "Worldbuilding/Bestiary",
+    "Worldbuilding/Documents/Urzithan-Stålråd Terms of Surrender.md",
+    "Worldbuilding/Characters/The Last Legion.md",
+    "Worldbuilding/Characters/Gods/Urhat-Zel.md",
+    "Worldbuilding/Characters/Gods/Ashur-Namta.md",
+    "Worldbuilding/Factions/Followers of the Cycle.md",
     "Worldbuilding/Factions/New Gods.md",
     "Worldbuilding/Factions/Stålråd.md",
     "Worldbuilding/Factions/Urzithan Concordat.md",
     "Worldbuilding/Factions/Vurum-Khal.md",
-    "Worldbuilding/Characters/Gods/Urhat-Zel.md",
-    "Worldbuilding/Characters/Gods/Ashur-Namta.md",
     "Worldbuilding/Characters/Halion Kal.md",
     "Worldbuilding/Characters/Gods",
     "Session Notes/Session 3 - Hospice.md",
     "Session Notes/Session 1 - Forsyning.md",
     "Worldbuilding/Events/Anathema Doctrine.md",
-    "Worldbuilding/Documents/Urzithan-Stålråd Terms of Surrender.md",
     "Worldbuilding/Technology/Cryogenic Capsule.md",
     "Worldbuilding/Technology/Host.md",
     "Worldbuilding/Technology/Screamer.md",
@@ -209,8 +212,6 @@
     "Worldbuilding/Metaphysics/Spirits/Fey.md",
     "Worldbuilding/Metaphysics/Spirits/Elemental.md",
     "Worldbuilding/Metaphysics/Spirit.md",
-    "Worldbuilding/Metaphysics/Spirits/Primal.md",
-    "Worldbuilding/Metaphysics/Spirits/Eidolon.md",
     "Worldbuilding/Metaphysics/Spirits",
     "Worldbuilding/Images/Stalrad.jpg",
     "Session Notes/Untitled",
@@ -228,7 +229,6 @@
     "Obsidian Vault/Worldbuilding/Images/Primal.jpg",
     "Obsidian Vault/Worldbuilding/Technology",
     "Obsidian Vault/Worldbuilding/Metaphysics",
-    "Obsidian Vault/Worldbuilding/Magic",
-    "Obsidian Vault/Worldbuilding/Locations"
+    "Obsidian Vault/Worldbuilding/Magic"
   ]
 }
