@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Characters/Gods/Urhat-Zel.md",
+                "file": "Worldbuilding/Factions/Deep State.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Urhat-Zel"
+              "title": "Deep State"
             }
           }
         ]
@@ -183,8 +183,14 @@
   },
   "active": "5cdc86ca9ebde00e",
   "lastOpenFiles": [
-    "Worldbuilding/Characters/Gods/Ashur-Namta.md",
+    "Worldbuilding/Factions/Followers of the Cycle.md",
+    "Worldbuilding/Factions/Deep State.md",
+    "Worldbuilding/Factions/New Gods.md",
+    "Worldbuilding/Factions/Stålråd.md",
+    "Worldbuilding/Factions/Urzithan Concordat.md",
+    "Worldbuilding/Factions/Vurum-Khal.md",
     "Worldbuilding/Characters/Gods/Urhat-Zel.md",
+    "Worldbuilding/Characters/Gods/Ashur-Namta.md",
     "Worldbuilding/Characters/Halion Kal.md",
     "Worldbuilding/Characters/Gods",
     "Session Notes/Session 3 - Hospice.md",
@@ -195,22 +201,17 @@
     "Worldbuilding/Technology/Host.md",
     "Worldbuilding/Technology/Screamer.md",
     "Worldbuilding/Technology/Warforged.md",
-    "Worldbuilding/Factions/Stålråd.md",
     "Worldbuilding/Documents",
     "Worldbuilding/Metaphysics/Soul.md",
     "Worldbuilding/Metaphysics/Spirits/God.md",
     "Worldbuilding/Metaphysics/Spirits/Fiend.md",
     "Worldbuilding/Locations/Bar'duum.md",
-    "Worldbuilding/Factions/Vurum-Khal.md",
     "Worldbuilding/Metaphysics/Spirits/Fey.md",
     "Worldbuilding/Metaphysics/Spirits/Elemental.md",
     "Worldbuilding/Metaphysics/Spirit.md",
     "Worldbuilding/Metaphysics/Spirits/Primal.md",
     "Worldbuilding/Metaphysics/Spirits/Eidolon.md",
-    "Worldbuilding/Metaphysics/Spirits/Celestial.md",
-    "Worldbuilding/Magic/Leyline Dust.md",
     "Worldbuilding/Metaphysics/Spirits",
-    "Worldbuilding/Events/Operation Oblivion.md",
     "Worldbuilding/Images/Stalrad.jpg",
     "Session Notes/Untitled",
     "Session Notes",
