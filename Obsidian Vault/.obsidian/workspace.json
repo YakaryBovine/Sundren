@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Bestiary/Gallipede.md",
+                "file": "Session Notes/Session 2 - Forsyning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gallipede"
+              "title": "Session 2 - Forsyning"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "soul",
+                "query": "akira",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,8 +184,12 @@
   },
   "active": "5cdc86ca9ebde00e",
   "lastOpenFiles": [
-    "Worldbuilding/Factions/Deep State.md",
+    "Session Notes/Session 3 - Hospice.md",
+    "Session Notes/Session 2 - Forsyning.md",
+    "Session Notes/Session 1 - Forsyning.md",
+    "Untitled.md",
     "Worldbuilding/Bestiary/Gallipede.md",
+    "Worldbuilding/Factions/Deep State.md",
     "Worldbuilding/Bestiary",
     "Worldbuilding/Documents/Urzithan-Stålråd Terms of Surrender.md",
     "Worldbuilding/Characters/The Last Legion.md",
@@ -197,8 +202,6 @@
     "Worldbuilding/Factions/Vurum-Khal.md",
     "Worldbuilding/Characters/Halion Kal.md",
     "Worldbuilding/Characters/Gods",
-    "Session Notes/Session 3 - Hospice.md",
-    "Session Notes/Session 1 - Forsyning.md",
     "Worldbuilding/Events/Anathema Doctrine.md",
     "Worldbuilding/Technology/Cryogenic Capsule.md",
     "Worldbuilding/Technology/Host.md",
@@ -210,8 +213,6 @@
     "Worldbuilding/Metaphysics/Spirits/Fiend.md",
     "Worldbuilding/Locations/Bar'duum.md",
     "Worldbuilding/Metaphysics/Spirits/Fey.md",
-    "Worldbuilding/Metaphysics/Spirits/Elemental.md",
-    "Worldbuilding/Metaphysics/Spirit.md",
     "Worldbuilding/Metaphysics/Spirits",
     "Worldbuilding/Images/Stalrad.jpg",
     "Session Notes/Untitled",
