@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7abf213b85de37c9",
+        "id": "16bf1d496ada5b25",
         "type": "tabs",
         "children": [
           {
-            "id": "5cdc86ca9ebde00e",
+            "id": "eb4dcfdb490c498a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 2 - Forsyning.md",
+                "file": "GM Notes/Session 2 - Forsyning & Hospice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,24 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 2 - Forsyning"
+              "title": "Session 2 - Forsyning & Hospice"
+            }
+          },
+          {
+            "id": "c28cb81537c37c33",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Obsidian Vault/Worldbuilding/Characters/Gods/Khalumet.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Khalumet)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "akira",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +98,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,8 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cdc86ca9ebde00e",
+  "active": "d80c75e904dcb1f4",
   "lastOpenFiles": [
+    "Worldbuilding/Characters/Gods/Khalumet.md",
+    "Worldbuilding/Characters/Gods/Ashur-Namta.md",
+    "Worldbuilding/Characters/Gods/Urhat-Zel.md",
+    "GM Notes/Session 2 - Forsyning & Hospice.md",
+    "GM Notes/Session 4 - Old Man's Village.md",
     "Session Notes/Session 3 - Hospice.md",
     "Session Notes/Session 2 - Forsyning.md",
     "Session Notes/Session 1 - Forsyning.md",
@@ -193,8 +211,6 @@
     "Worldbuilding/Bestiary",
     "Worldbuilding/Documents/Urzithan-Stålråd Terms of Surrender.md",
     "Worldbuilding/Characters/The Last Legion.md",
-    "Worldbuilding/Characters/Gods/Urhat-Zel.md",
-    "Worldbuilding/Characters/Gods/Ashur-Namta.md",
     "Worldbuilding/Factions/Followers of the Cycle.md",
     "Worldbuilding/Factions/New Gods.md",
     "Worldbuilding/Factions/Stålråd.md",
@@ -210,9 +226,6 @@
     "Worldbuilding/Documents",
     "Worldbuilding/Metaphysics/Soul.md",
     "Worldbuilding/Metaphysics/Spirits/God.md",
-    "Worldbuilding/Metaphysics/Spirits/Fiend.md",
-    "Worldbuilding/Locations/Bar'duum.md",
-    "Worldbuilding/Metaphysics/Spirits/Fey.md",
     "Worldbuilding/Metaphysics/Spirits",
     "Worldbuilding/Images/Stalrad.jpg",
     "Session Notes/Untitled",
