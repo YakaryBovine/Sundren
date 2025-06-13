@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "16bf1d496ada5b25",
+        "id": "e23c0b1c97e9ce2c",
         "type": "tabs",
         "children": [
           {
-            "id": "c28cb81537c37c33",
+            "id": "67037891b703d3ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Characters/Gods/Khalumet.md",
+                "file": "Rules/Encounters/Travel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Khalumet"
+              "title": "Travel"
             }
           },
           {
-            "id": "4e0375cbed127e39",
+            "id": "020b3878add8c817",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Locations/Sunlancer.md",
+                "file": "Worldbuilding/Locations/Hospice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sunlancer"
+              "title": "Hospice"
+            }
+          },
+          {
+            "id": "fb21876b401bb553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 4 - Hospice and Travel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 4 - Hospice and Travel"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "torch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 300
   },
   "right": {
     "id": "ccc972bf27e186f7",
@@ -206,54 +230,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e0375cbed127e39",
+  "active": "fb21876b401bb553",
   "lastOpenFiles": [
-    "Worldbuilding/Characters/Gods/Khalumet.md",
-    "Worldbuilding/Locations/Sunlancer.md",
-    "Worldbuilding/Characters/Gods/Urhat-Zel.md",
-    "GM Notes/Session 2 - Forsyning & Hospice.md",
-    "Worldbuilding/Characters/Gods/Ashur-Namta.md",
-    "GM Notes/Session 4 - Old Man's Village.md",
     "Session Notes/Session 3 - Hospice.md",
+    "Session Notes/Session 4 - Hospice and Travel.md",
     "Session Notes/Session 2 - Forsyning.md",
-    "Session Notes/Session 1 - Forsyning.md",
-    "Untitled.md",
-    "Worldbuilding/Bestiary/Gallipede.md",
+    "GM Notes/Session 2 - Forsyning & Hospice.md",
+    "GM Notes/Session 4 - Old Man's Village.md",
     "Worldbuilding/Factions/Deep State.md",
-    "Worldbuilding/Bestiary",
     "Worldbuilding/Documents/Urzithan-Stålråd Terms of Surrender.md",
-    "Worldbuilding/Characters/The Last Legion.md",
-    "Worldbuilding/Factions/Followers of the Cycle.md",
-    "Worldbuilding/Factions/New Gods.md",
-    "Worldbuilding/Factions/Stålråd.md",
-    "Worldbuilding/Factions/Urzithan Concordat.md",
-    "Worldbuilding/Factions/Vurum-Khal.md",
-    "Worldbuilding/Characters/Halion Kal.md",
-    "Worldbuilding/Characters/Gods",
-    "Worldbuilding/Events/Anathema Doctrine.md",
-    "Worldbuilding/Technology/Cryogenic Capsule.md",
-    "Worldbuilding/Technology/Host.md",
-    "Worldbuilding/Technology/Screamer.md",
-    "Worldbuilding/Technology/Warforged.md",
     "Worldbuilding/Documents",
-    "Worldbuilding/Metaphysics/Soul.md",
+    "Worldbuilding/Characters/Gods/Urhat-Zel.md",
+    "Worldbuilding/Characters/Gods/Khalumet.md",
+    "Worldbuilding/Characters/Gods/Ashur-Namta.md",
+    "Worldbuilding/Characters/Gods",
+    "Worldbuilding/Bestiary/Gallipede.md",
+    "Worldbuilding/Bestiary",
+    "Session Notes/Session 2 - Hospice.md",
+    "Worldbuilding/Locations/Hospice.md",
+    "Rules/Equipment/Encumbrance.md",
+    "Rules/Encounters/Dungeon Exploration.md",
+    "Rules/Encounters/Wilderness Exploration and Expeditions.md",
+    "Rules/Encounters/Travel.md",
+    "Rules/Combat/Scenes, Rounds, and Mission Time.md",
+    "GM Notes/Session 1 - Forsyning.md",
+    "GM Notes/Misc ideas.md",
+    "Worldbuilding/Factions/Urzithan Concordat.md",
+    "Worldbuilding/Characters/Halion Kal.md",
+    "Worldbuilding/Characters/Obzidon.md",
+    "Worldbuilding/Characters/Ashur-Namta.md",
+    "Session Notes/Session 1 - Forsyning.md",
+    "Worldbuilding/Locations/Sunlancer.md",
     "Worldbuilding/Metaphysics/Spirits",
+    "Worldbuilding/Conditions",
     "Worldbuilding/Images/Stalrad.jpg",
-    "Session Notes/Untitled",
+    "4lp0fqoc.png",
     "Session Notes",
-    "Worldbuilding/Images/Host.jpg",
-    "Worldbuilding/Images/HalionKal.jpg",
-    "Worldbuilding/Images/Fiend.jpg",
-    "Worldbuilding/Images/Fey.jpg",
-    "Worldbuilding/Images/Barduum.jpg",
-    "Worldbuilding/Images/Celestial.jpg",
-    "Untitled.canvas",
-    "Worldbuilding/Locations/Geography",
+    "Rules/Bestiary",
     "Obsidian Vault/Worldbuilding/Images/Warforged.jpg",
     "Obsidian Vault/Worldbuilding/Images/Screamer.jpg",
     "Obsidian Vault/Worldbuilding/Images/Primal.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Host.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Sunlancer.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Splint.jpg",
+    "Obsidian Vault/Worldbuilding/Images/Spirit.jpg",
+    "Obsidian Vault/Worldbuilding/Images/HalionKal.jpg",
     "Obsidian Vault/Worldbuilding/Technology",
     "Obsidian Vault/Worldbuilding/Metaphysics",
-    "Obsidian Vault/Worldbuilding/Magic"
+    "Obsidian Vault/Worldbuilding/Magic",
+    "Untitled.canvas"
   ]
 }
