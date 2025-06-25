@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Characters/Player Characters/Sarra.md",
+                "file": "Rules/Combat/Attacking.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sarra"
+              "title": "Attacking"
+            }
+          },
+          {
+            "id": "c7489eddb17222f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Combat/Combat Sequence.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Combat Sequence"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "throwing blades",
+                "query": "initiative",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,8 +207,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51549c1eb03984ba",
+  "active": "c7489eddb17222f1",
   "lastOpenFiles": [
+    "Worldbuilding/Metaphysics/Spirits/Celestial.md",
+    "Rules/Equipment/Encumbrance.md",
+    "Rules/Character/Attributes.md",
+    "Worldbuilding/Technology/Host.md",
+    "Rules/Combat/Combat Sequence.md",
+    "Rules/Combat/Attacking.md",
+    "Rules/Classes/Arcane Traditions/Accursed.md",
+    "Worldbuilding/Characters/Player Characters/Sarra.md",
     "Worldbuilding/Locations/Great Desert.md",
     "Worldbuilding/Locations/Bongire Taiga.md",
     "Worldbuilding/Locations/Bar'duum.md",
@@ -191,7 +225,6 @@
     "Worldbuilding/Locations/Sunlancer.md",
     "Worldbuilding/Locations/Zalummat-Nadûrugal.md",
     "Worldbuilding/Locations/Hospice.md",
-    "Worldbuilding/Characters/Player Characters/Sarra.md",
     "Worldbuilding/Images/SarraHuman.png",
     "Worldbuilding/Images/SarraBeast.png",
     "Worldbuilding/Images/Celestial.jpg",
@@ -207,13 +240,6 @@
     "Worldbuilding/Characters/Gods/Khalumet.md",
     "Worldbuilding/Characters/Gods/Urhat-Zel.md",
     "Worldbuilding/Characters/Gods/Ashur-Namta.md",
-    "Session Notes/Session 5 - The Defence.md",
-    "Session Notes/Session 4 - Hospice and Travel.md",
-    "GM Notes/Session 4 - Old Man's Village.md",
-    "GM Notes/Session 5 - The Defense.md",
-    "Worldbuilding/Metaphysics/Spirits/Fey.md",
-    "Worldbuilding/Characters/Obzidon.md",
-    "Worldbuilding/Characters/Halion Kal.md",
     "Worldbuilding/Bestiary",
     "Worldbuilding/Characters/Gods",
     "Worldbuilding/Documents",
