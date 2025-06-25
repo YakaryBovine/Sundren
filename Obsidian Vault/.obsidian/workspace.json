@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "55db60ae1be14c27",
+        "id": "d9e2648b64018073",
         "type": "tabs",
         "children": [
           {
-            "id": "30b64a9e9df718c2",
+            "id": "84873d6a8260ba65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Characters/Gods/Khalumet.md",
+                "file": "Worldbuilding/Characters/Lamensyat.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Khalumet"
+              "title": "Lamensyat"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"dance never end\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,10 +182,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30b64a9e9df718c2",
+  "active": "84873d6a8260ba65",
   "lastOpenFiles": [
-    "Worldbuilding/Characters/Gods/Urhat-Zel.md",
+    "Worldbuilding/Factions/Stålråd.md",
+    "Worldbuilding/Images/Stalrad.jpg",
     "Worldbuilding/Characters/Gods/Khalumet.md",
+    "Worldbuilding/Characters/Gods/Urhat-Zel.md",
     "Worldbuilding/Characters/Gods/Ashur-Namta.md",
     "Worldbuilding/Locations/Hospice.md",
     "Session Notes/Session 5 - The Defence.md",
@@ -208,12 +211,9 @@
     "Worldbuilding/Factions/Deep State.md",
     "Worldbuilding/Bestiary",
     "Worldbuilding/Documents/Urzithan-Stålråd Terms of Surrender.md",
-    "Worldbuilding/Factions/Followers of the Cycle.md",
-    "Worldbuilding/Factions/New Gods.md",
     "Worldbuilding/Characters/Gods",
     "Worldbuilding/Documents",
     "Worldbuilding/Metaphysics/Spirits",
-    "Worldbuilding/Images/Stalrad.jpg",
     "Session Notes/Untitled",
     "Session Notes",
     "Worldbuilding/Images/Host.jpg",
