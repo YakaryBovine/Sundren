@@ -41,37 +41,37 @@ The **unarmed attack** given here is a common punch or kick, unimproved by a Vow
 
 ## Weapon Traits
 
-| Weapon            | Dmg       | Shock   | Attribute      | Range/Feet     | Traits            | Cost      | Enc |
-| ----------------- | --------- | ------- | -------------- | -------------- | ----------------- | --------- | --- |
-| Axe, Hand         | 1d6       | 1/AC 15 | Str/Dex        | 10/30          | T                 | 10 sp     | 1   |
-| Axe, War          | 1d10      | 3/AC 15 | Str-2H         | -              | -                 | 50 sp     | 2   |
-| Blackjack         | 1d4       | None    | Str/Dex-S      | -              | LL                | 1 sp      | 1   |
-| Bow, Large        | 1d8       | None    | Dex            | 100/600        | 2H, R, PM         | 20 sp     | 2   |
-| Bow, Small        | 1d6       | None    | Dex            | 50/300         | 2H, R, PM         | 20 sp     | 1   |
-| Claw Blades       | 1d6       | 2/AC 13 | Str/Dex-S      | -              | -                 | 10 sp     | 1   |
-| Club              | 1d4       | None    | Str/Dex        | 10/30          | T, LL             | -         | 1   |
-| Club, Great       | 1d10      | 2/AC 15 | Str-2H         | -              | -                 | 1 sp      | 2   |
-| Crossbow          | 1d10      | None    | Dex            | 100/300        | 2H, SR, PM        | 10 sp     | 1   |
-| Dagger            | 1d4       | 1/AC 15 | Str/Dex        | 30/60          | S, T, PM          | 3 sp      | 1   |
-| Halberd           | 1d10      | 2/AC 15 | Str-2H         | -              | L                 | 50 sp     | 2   |
-| Hammer, Great     | 1d10      | 2/AC 18 | Str-2H         | -              | -                 | 50 sp     | 2   |
-| Hammer, War       | 1d8       | 1/AC 18 | Str            | -              | -                 | 30 sp     | 1   |
-| Hurlant, Great    | 3d10      | None    | Dex            | 600/2,400      | FX, SS, AP        | 10,000 sp | 15  |
-| Hurlant, Hand     | 1d12      | None    | Dex            | 30/60          | SS, AP            | 1,000 sp  | 1   |
-| Hurlant, Long     | 2d8       | None    | Dex            | 200/600        | 2H, SS, AP, PM    | 4,000 sp  | 2   |
-| Mace              | 1d6       | 1/AC 18 | Str            | -              | LL                | 15 sp     | 1   |
-| Pike              | 1d8       | 1/AC 18 | Str-2H         | -              | L                 | 10 sp     | 2   |
-| Shield Bash, Large| 1d6       | 1/AC 13 | Str            | -              | LL                | -         | -   |
-| Shield Bash, Small| 1d4       | None    | Str/Dex        | -              | LL                | -         | -   |
-| Spear, Heavy      | 1d10      | 2/AC 15 | Str-2H         | -              | -                 | 10 sp     | 2   |
-| Spear, Light      | 1d6       | 2/AC 13 | Str/Dex        | 30/60          | T                 | 5 sp      | 1   |
-| Throwing Blade    | 1d4       | None    | Dex            | 30/60          | S, T, N           | 3 sp      | 1   |
-| Staff             | 1d6       | 1/AC 13 | Str/Dex        | -              | 2H, LL            | 1 sp      | 1   |
-| Stiletto          | 1d4       | 1/AC 18 | Dex-S          | -              | PM                | 10 sp     | 1   |
-| Sword, Great      | 1d12      | 2/AC 15 | Str-2H         | -              | -                 | 250 sp    | 2   |
-| Sword, Long       | 1d8       | 2/AC 13 | Str/Dex        | -              | -                 | 100 sp    | 1   |
-| Sword, Short      | 1d6       | 2/AC 15 | Str/Dex        | -              | -                 | 10 sp     | 1   |
-| Unarmed Attack    | 1d2+Skill | None    | Str/Dex        | -              | LL                | -         | -   |
+| Weapon             | Dmg       | Shock   | Attribute | Range/Feet | Traits         | Cost      | Enc |
+| ------------------ | --------- | ------- | --------- | ---------- | -------------- | --------- | --- |
+| Axe, Hand          | 1d6       | 1/AC 15 | Str/Dex   | 10/30      | T              | 10 sp     | 1   |
+| Axe, War           | 1d10      | 3/AC 15 | Str-2H    | -          | -              | 50 sp     | 2   |
+| Blackjack          | 1d4       | None    | Str/Dex-S | -          | LL             | 1 sp      | 1   |
+| Bow, Large         | 1d8       | None    | Dex       | 100/600    | 2H, R, PM      | 20 sp     | 2   |
+| Bow, Small         | 1d6       | None    | Dex       | 50/300     | 2H, R, PM      | 20 sp     | 1   |
+| Claw Blades        | 1d6       | 2/AC 13 | Str/Dex-S | -          | -              | 10 sp     | 1   |
+| Club               | 1d4       | None    | Str/Dex   | 10/30      | T, LL          | -         | 1   |
+| Club, Great        | 1d10      | 2/AC 15 | Str-2H    | -          | -              | 1 sp      | 2   |
+| Crossbow           | 1d10      | None    | Dex       | 100/300    | 2H, SR, PM     | 10 sp     | 1   |
+| Dagger             | 1d4       | 1/AC 15 | Str/Dex   | 30/60      | S, T, PM       | 3 sp      | 1   |
+| Halberd            | 1d10      | 2/AC 15 | Str-2H    | -          | L              | 50 sp     | 2   |
+| Hammer, Great      | 1d10      | 2/AC 18 | Str-2H    | -          | -              | 50 sp     | 2   |
+| Hammer, War        | 1d8       | 1/AC 18 | Str       | -          | -              | 30 sp     | 1   |
+| Hurlant, Great     | 3d10      | None    | Dex       | 600/2,400  | FX, SS, AP     | 10,000 sp | 15  |
+| Hurlant, Hand      | 1d12      | None    | Dex       | 30/60      | SS, AP         | 1,000 sp  | 1   |
+| Hurlant, Long      | 2d8       | None    | Dex       | 200/600    | 2H, SS, AP, PM | 4,000 sp  | 2   |
+| Mace               | 1d6       | 1/AC 18 | Str       | -          | LL             | 15 sp     | 1   |
+| Pike               | 1d8       | 1/AC 18 | Str-2H    | -          | L              | 10 sp     | 2   |
+| Shield Bash, Large | 1d6       | 1/AC 13 | Str       | -          | LL             | -         | -   |
+| Shield Bash, Small | 1d4       | None    | Str/Dex   | -          | LL             | -         | -   |
+| Spear, Heavy       | 1d10      | 2/AC 15 | Str-2H    | -          | -              | 10 sp     | 2   |
+| Spear, Light       | 1d6       | 2/AC 13 | Str/Dex   | 30/60      | T              | 5 sp      | 1   |
+| Throwing Blade     | 1d4       | None    | Dex       | 30/60      | S, T, N        | 3 sp      | 1   |
+| Staff              | 1d6       | 1/AC 13 | Str/Dex   | -          | 2H, LL         | 1 sp      | 1   |
+| Stiletto           | 1d4       | 1/AC 18 | Dex-S     | -          | PM             | 10 sp     | 1   |
+| Sword, Great       | 1d12      | 2/AC 15 | Str-2H    | -          | -              | 250 sp    | 2   |
+| Sword, Long        | 1d8       | 2/AC 13 | Str/Dex   | -          | -              | 100 sp    | 1   |
+| Sword, Short       | 1d6       | 2/AC 15 | Str/Dex   | -          | -              | 10 sp     | 1   |
+| Unarmed Attack     | 1d2+Skill | None    | Str/Dex   | -          | LL             | -         | -   |
 ### 3.4.3 Weapon Traits
 **2H: Two Handed:** The weapon requires two hands to use in combat. Ranged two-handed weapons cannot be fired effectively while an enemy is within melee range.  
 **AP: Armor Piercing:** This weapon ignores non-magical hides, armor, and shields for purposes of its hit rolls.  

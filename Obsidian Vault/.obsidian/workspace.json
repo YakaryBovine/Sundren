@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d9e2648b64018073",
+        "id": "f63726d851b62c8c",
         "type": "tabs",
         "children": [
           {
-            "id": "84873d6a8260ba65",
+            "id": "51549c1eb03984ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Characters/Lamensyat.md",
+                "file": "Worldbuilding/Characters/Player Characters/Sarra.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lamensyat"
+              "title": "Sarra"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"dance never end\"",
+                "query": "throwing blades",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,35 +181,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84873d6a8260ba65",
+  "active": "51549c1eb03984ba",
   "lastOpenFiles": [
+    "Worldbuilding/Locations/Great Desert.md",
+    "Worldbuilding/Locations/Bongire Taiga.md",
+    "Worldbuilding/Locations/Bar'duum.md",
+    "Worldbuilding/Locations/Northern Plateau.md",
+    "Worldbuilding/Locations/Splint.md",
+    "Worldbuilding/Locations/Sunlancer.md",
+    "Worldbuilding/Locations/Zalummat-Nadûrugal.md",
+    "Worldbuilding/Locations/Hospice.md",
+    "Worldbuilding/Characters/Player Characters/Sarra.md",
+    "Worldbuilding/Images/SarraHuman.png",
+    "Worldbuilding/Images/SarraBeast.png",
+    "Worldbuilding/Images/Celestial.jpg",
+    "README.md",
+    "Ballroom.md",
+    "Worldbuilding/Characters/Player Characters",
+    "Worldbuilding/Characters/Untitled.md",
+    "Rules/Equipment/Weapons.md",
+    "Rules/Combat/Special Combat Maneuvers.md",
+    "Worldbuilding/Characters/Lamensyat.md",
     "Worldbuilding/Factions/Stålråd.md",
     "Worldbuilding/Images/Stalrad.jpg",
     "Worldbuilding/Characters/Gods/Khalumet.md",
     "Worldbuilding/Characters/Gods/Urhat-Zel.md",
     "Worldbuilding/Characters/Gods/Ashur-Namta.md",
-    "Worldbuilding/Locations/Hospice.md",
     "Session Notes/Session 5 - The Defence.md",
     "Session Notes/Session 4 - Hospice and Travel.md",
     "GM Notes/Session 4 - Old Man's Village.md",
     "GM Notes/Session 5 - The Defense.md",
-    "Ballroom.md",
-    "Worldbuilding/Locations/Zalummat-Nadûrugal.md",
     "Worldbuilding/Metaphysics/Spirits/Fey.md",
-    "Worldbuilding/Characters/Lamensyat.md",
     "Worldbuilding/Characters/Obzidon.md",
     "Worldbuilding/Characters/Halion Kal.md",
-    "Worldbuilding/Characters/The Last Legion.md",
-    "Worldbuilding/Locations/Sunlancer.md",
-    "GM Notes/Session 2 - Forsyning & Hospice.md",
-    "Session Notes/Session 3 - Hospice.md",
-    "Session Notes/Session 2 - Forsyning.md",
-    "Session Notes/Session 1 - Forsyning.md",
-    "Untitled.md",
-    "Worldbuilding/Bestiary/Gallipede.md",
-    "Worldbuilding/Factions/Deep State.md",
     "Worldbuilding/Bestiary",
-    "Worldbuilding/Documents/Urzithan-Stålråd Terms of Surrender.md",
     "Worldbuilding/Characters/Gods",
     "Worldbuilding/Documents",
     "Worldbuilding/Metaphysics/Spirits",
@@ -221,14 +225,10 @@
     "Worldbuilding/Images/Fiend.jpg",
     "Worldbuilding/Images/Fey.jpg",
     "Worldbuilding/Images/Barduum.jpg",
-    "Worldbuilding/Images/Celestial.jpg",
     "Untitled.canvas",
     "Worldbuilding/Locations/Geography",
     "Obsidian Vault/Worldbuilding/Images/Warforged.jpg",
-    "Obsidian Vault/Worldbuilding/Images/Screamer.jpg",
-    "Obsidian Vault/Worldbuilding/Images/Primal.jpg",
     "Obsidian Vault/Worldbuilding/Technology",
-    "Obsidian Vault/Worldbuilding/Metaphysics",
-    "Obsidian Vault/Worldbuilding/Magic"
+    "Obsidian Vault/Worldbuilding/Metaphysics"
   ]
 }
