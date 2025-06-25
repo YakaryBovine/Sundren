@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "e326bea7f7d429ae",
+        "id": "55db60ae1be14c27",
         "type": "tabs",
         "children": [
           {
-            "id": "a00cb9ad56a42223",
+            "id": "30b64a9e9df718c2",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Worldbuilding/Characters/Gods/Ashur-Namta.md",
-                "staged": false
+                "file": "Worldbuilding/Characters/Gods/Khalumet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Ashur-Namta)"
+              "icon": "lucide-file",
+              "title": "Khalumet"
             }
           }
         ]
@@ -170,12 +181,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a00cb9ad56a42223",
+  "active": "30b64a9e9df718c2",
   "lastOpenFiles": [
-    "Worldbuilding/Locations/Hospice.md",
-    "Worldbuilding/Characters/Gods/Ashur-Namta.md",
-    "Worldbuilding/Characters/Gods/Khalumet.md",
     "Worldbuilding/Characters/Gods/Urhat-Zel.md",
+    "Worldbuilding/Characters/Gods/Khalumet.md",
+    "Worldbuilding/Characters/Gods/Ashur-Namta.md",
+    "Worldbuilding/Locations/Hospice.md",
     "Session Notes/Session 5 - The Defence.md",
     "Session Notes/Session 4 - Hospice and Travel.md",
     "GM Notes/Session 4 - Old Man's Village.md",
