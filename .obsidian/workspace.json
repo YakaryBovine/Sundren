@@ -11,14 +11,10 @@
             "id": "13b02220397d5ff8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Vault/Worldbuilding/Characters/Gods/Hraudnir.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hraudnir"
+              "title": "New tab"
             }
           }
         ]
@@ -164,8 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13b02220397d5ff8",
+  "active": "806be1348c37cf52",
   "lastOpenFiles": [
+    "Obsidian Vault/Worldbuilding/Characters/Gods/Skofnildr.md",
+    "Obsidian Vault/Worldbuilding/Characters/Gods/Skaf.md",
+    "Obsidian Vault/Worldbuilding/Characters/Gods/Veld.md",
     "Obsidian Vault/Worldbuilding/Characters/Gods/Khalumet.md",
     "Obsidian Vault/Worldbuilding/Characters/Gods/Hraudnir.md",
     "Obsidian Vault/Worldbuilding/Characters/Gods/Ashur-Namta.md",
@@ -191,9 +190,6 @@
     "Obsidian Vault/Worldbuilding/Technology/Screamer.md",
     "Obsidian Vault/Worldbuilding/Technology/Host.md",
     "Obsidian Vault/Worldbuilding/Events/Operation Oblivion.md",
-    "Obsidian Vault/Worldbuilding/Technology/Colossus.md",
-    "Obsidian Vault/Worldbuilding/Conditions/Spellrot.md",
-    "Obsidian Vault/Worldbuilding/Magic/Leyline Dust.md",
     "Obsidian Vault/Worldbuilding/Images/Sunlancer.jpg",
     "Obsidian Vault/Worldbuilding/Images/Warforged.jpg",
     "Obsidian Vault/Worldbuilding/Images/Splint.jpg",

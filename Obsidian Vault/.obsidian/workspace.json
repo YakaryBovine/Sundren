@@ -11,13 +11,24 @@
             "id": "aa1eb03374665e3c",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Worldbuilding/Characters/Gods/Hraudnir.md",
-                "staged": false
+                "file": "Worldbuilding/Characters/Gods/Skofnildr.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Hraudnir)"
+              "icon": "lucide-file",
+              "title": "Skofnildr"
             }
           }
         ]
@@ -170,8 +181,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80c75e904dcb1f4",
+  "active": "aa1eb03374665e3c",
   "lastOpenFiles": [
+    "Worldbuilding/Characters/Gods/Ashur-Namta.md",
+    "Worldbuilding/Characters/Gods/Skofnildr.md",
+    "Worldbuilding/Characters/Gods/Khalumet.md",
+    "Worldbuilding/Characters/Gods/Urhat-Zel.md",
     "Worldbuilding/Factions/Deep State.md",
     "Rules/Equipment/Adventuring Gear.md",
     "Rules/Combat/Combat Sequence.md",
@@ -198,10 +213,6 @@
     "README.md",
     "Ballroom.md",
     "Worldbuilding/Characters/Player Characters",
-    "Worldbuilding/Characters/Untitled.md",
-    "Rules/Equipment/Weapons.md",
-    "Rules/Combat/Special Combat Maneuvers.md",
-    "Worldbuilding/Characters/Lamensyat.md",
     "Worldbuilding/Images/Stalrad.jpg",
     "Worldbuilding/Bestiary",
     "Worldbuilding/Characters/Gods",
