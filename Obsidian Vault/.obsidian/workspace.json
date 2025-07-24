@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c7e1c96e7dbf81b0",
+        "id": "32e6e7f0d70b2bd4",
         "type": "tabs",
         "children": [
           {
-            "id": "aa1eb03374665e3c",
+            "id": "215aa9bdb357c5a6",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Session Notes/Session 7 - Return to Hospice.md",
-                "staged": false
+                "file": "Session Notes/Session 8 - Return to Hospice II.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Session 7 - Return to Hospice)"
+              "icon": "lucide-file",
+              "title": "Session 8 - Return to Hospice II"
             }
           }
         ]
@@ -170,11 +181,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa1eb03374665e3c",
+  "active": "215aa9bdb357c5a6",
   "lastOpenFiles": [
+    "Session Notes/Session 7 - Return to Hospice.md",
+    "Session Notes/Session 8 - Return to Hospice II.md",
     "Worldbuilding/Characters/Gods/Skofnildr.md",
-    "Worldbuilding/Characters/Gods/Ashur-Namta.md",
+    "Session Notes/Session 6 - The Defence II.md",
+    "Session Notes/Session 5 - The Defence.md",
+    "Session Notes/Session 4 - Hospice and Travel.md",
     "Worldbuilding/Characters/Gods/Khalumet.md",
+    "Worldbuilding/Metaphysics/Spirits/Fiend.md",
+    "Worldbuilding/Characters/Gods/Ashur-Namta.md",
     "Worldbuilding/Characters/Gods/Urhat-Zel.md",
     "Worldbuilding/Factions/Deep State.md",
     "Rules/Equipment/Adventuring Gear.md",
@@ -192,15 +209,9 @@
     "Worldbuilding/Characters/Player Characters/Sarra.md",
     "Worldbuilding/Locations/Great Desert.md",
     "Worldbuilding/Locations/Northern Plateau.md",
-    "Worldbuilding/Locations/Splint.md",
-    "Worldbuilding/Locations/Sunlancer.md",
-    "Worldbuilding/Locations/Zalummat-Nadûrugal.md",
-    "Worldbuilding/Locations/Hospice.md",
     "Worldbuilding/Images/SarraHuman.png",
     "Worldbuilding/Images/SarraBeast.png",
     "Worldbuilding/Images/Celestial.jpg",
-    "README.md",
-    "Ballroom.md",
     "Worldbuilding/Characters/Player Characters",
     "Worldbuilding/Images/Stalrad.jpg",
     "Worldbuilding/Bestiary",
