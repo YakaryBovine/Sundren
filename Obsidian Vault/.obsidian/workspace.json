@@ -11,24 +11,13 @@
             "id": "aa1eb03374665e3c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Worldbuilding/Characters/Gods/Skofnildr.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Obsidian Vault/Session Notes/Session 7 - Return to Hospice.md",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "Skofnildr"
+              "icon": "git-pull-request",
+              "title": "Diff View (Session 7 - Return to Hospice)"
             }
           }
         ]
@@ -183,8 +172,8 @@
   },
   "active": "aa1eb03374665e3c",
   "lastOpenFiles": [
-    "Worldbuilding/Characters/Gods/Ashur-Namta.md",
     "Worldbuilding/Characters/Gods/Skofnildr.md",
+    "Worldbuilding/Characters/Gods/Ashur-Namta.md",
     "Worldbuilding/Characters/Gods/Khalumet.md",
     "Worldbuilding/Characters/Gods/Urhat-Zel.md",
     "Worldbuilding/Factions/Deep State.md",

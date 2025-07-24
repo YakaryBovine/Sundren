@@ -1,0 +1,13 @@
+**Events**
+1. The party agrees with [[Barnoldus]] that they will help his party dissect the limbs from their cut of the [[Screamer]]. Barndolus is happy to agree, not realizing that the party is also after the abundance of technological scrap inside the robots.
+2. Gilgamesh travels just outside the city walls with tools from the local blacksmith and tries to work out how to remove Screamer limbs, as well as their internal tech scrap, safely. He ruins a fair number of the robots entirely before figuring out the procedure, but becomes an expert in due time.
+3. Needing much more capacity to carry their newfound limbs, the party purchase two [[Blitot]]s from the town. They distribute their load as much as they can, and gift a large amount of rations, water, and tools to the town to lighten it further, with plans to repurchase it at their destination.
+4. The party makes their farewells from [[Zalummat-Nadûrugal]]. [[Gilgamesh]] tries to suggest that [[Grin]] reconsider the town's dependency on [[Lamensyat]], and offends him immensely in doing so. Their relationship may never recover.
+5. On the road, [[Sabit]] shares with the party some wisdom about Lamensyat, suggesting that the entity is likely a particularly powerful [[Fey]] rather than a true [[God]]. She suggests that if they were to want to kill the Fey, they would need to discover the original lie that birthed them.
+6. [[Akira]] and [[Gilgamesh]] chat with Sabit about her religion, particularly her veneration of [[Ashur-Namta]] and how that connects with the rest of the [[Triumvirate]]. Sabit makes it clear that she thinks the party are all immoral heretics, but doesn't seem to mind as a personal matter.
+7. The party's journey is interrupted by an ash storm coming west from the [[Ashlands]], which gradually heats up to the point of singing their skin. [[Sarra]] transforms into a coyote to scare their Blitots into a river a few minutes away, and the rest of the party follows suit. One of the Blitots faces issues and nearly drowns, but Akira is able to keep it alive through ronin magic.
+8. The rest of the journey proceeds pleasantly and the party arrives at [[Hospice]]. There, [[Gunn]] meets them in their tent and peruses their haul of technological scrap. In exchange for the entire haul, the party receives:
+	1. The equipment and labour needed to refurbish Gilgamesh's power armor.
+	2. The equipment and labour needed to repair Akira's laser rifle.
+	3. Several type A Power Cells.
+	4. The schematics needed to construct a portable Power Armor recharger.
