@@ -3,7 +3,7 @@ The Northern Plateau was a vast, elevated landmass in the far northwest, dominat
 
 At the heart of the plateau lay a massive lake, a rare source of open water in the frozen wilderness. It is fed by glacial runoff and underground springs, its depths remaining unfrozen even in the coldest seasons. For the hardy tribes that dwelled in the region, the lake was the lifeblood of their existence—providing fish, a meeting place, and a refuge from the otherwise relentless conditions. Some believed the lake held ancient secrets, its depths concealing ruins or remnants of those who came before.
 
-Though civilization never flourished there, the plateau had long been home to nomadic tribes, who have adapted to the brutal environment through resilience, resourcefulness, and an intimate knowledge of the land. Some of these people were distant kin to the [[Stålråd]], who were said to have once lived on the Plateau before migrating south into the [[Bongire Taiga]] in search of a more sustainable life.
+Though civilization never flourished there, the plateau had long been home to nomadic tribes, who have adapted to the brutal environment through resilience, resourcefulness, and an intimate knowledge of the land. Some of these people were distant kin to the [[Stålråd]], who were said to have once lived on the Plateau before migrating south into the [[Draumheim]] in search of a more sustainable life.
 ## After the war
 Shielded from the [[Shattered Expanse]] from a mountain range and from the most frightful nightmares of the [[the Last War]] by its relative geographical irrelevance, the Northern Plataeu itself was largely unaffected by the conflict.
 

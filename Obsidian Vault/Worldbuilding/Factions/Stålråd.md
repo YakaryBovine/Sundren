@@ -1,5 +1,5 @@
 ### History
-The ancient city-state of **[[Eberhar]]** was settled by travelers from the [[Northern Plateau]], drawn to the rich veins of iron and copper along the foothills of the [[Romsdal Mountains]]. But Eberhar’s bounty was matched by hardship: the surrounding [[Bongire Taiga]] offered acidic, nutrient-poor podzol soil, and persistent cold that stunted crop growth.
+The ancient city-state of **[[Eberhar]]** was settled by travelers from the [[Northern Plateau]], drawn to the rich veins of iron and copper along the foothills of the [[Romsdal Mountains]]. But Eberhar’s bounty was matched by hardship: the surrounding [[Draumheim]] offered acidic, nutrient-poor podzol soil, and persistent cold that stunted crop growth.
 
 Denied easy agriculture, the city poured its efforts into metallurgy and mechanical innovation. Over time, Eberhar built a production economy of staggering efficiency. Mass-produced tools, modular infrastructure, clever logistics, and determined ingenuity allowed the city to thrive where others would have withered. Its explorers set out across the north, founding new cities in previously uninhabitable lands.
 
@@ -25,11 +25,11 @@ At its height, the war bent reality itself — twisted by impossible machines an
 
 The war burned hot and long. And in the end, neither side survived.
 
-The Stålråd collapsed — its command lattice shattered, its reactors went dark, and its cities fell silent. Across the [[Bongire Taiga]], its machine-cities lie broken and lifeless, scavenged by the desperate and feared by the wise.
+The Stålråd collapsed — its command lattice shattered, its reactors went dark, and its cities fell silent. Across the [[Draumheim]], its machine-cities lie broken and lifeless, scavenged by the desperate and feared by the wise.
 ### Legacy
 The [[Stålråd]] was not merely a machine-state. It was a dream: of a world where knowledge set all people free, where no one bowed to gods or kings, and where reason could build something better. In a land shaped by miracles and monsters, the Stålråd stood apart — fatally idealistic, neurotically determined, but deeply human.
 
-Across the [[Shattered Expanse]] and [[Bongire Taiga]], their [[Warforged|war-machines]] still roam — some following orders no longer relevant, others simply broken in mind and purpose. [[Screamer|Screamers]], cheap warforged infantry with human brains barely shielded from sensation, sprint through the dust in search of anything to distract them from their endless pain. The [[Colossus|Colossi]], towering warforged [[Host|Hosts]] too vast to maintain, chose to bury themselves deep in the earth, whispering down into the bedrock to escape the guilt of their deeds.
+Across the [[Shattered Expanse]] and [[Draumheim]], their [[Warforged|war-machines]] still roam — some following orders no longer relevant, others simply broken in mind and purpose. [[Screamer|Screamers]], cheap warforged infantry with human brains barely shielded from sensation, sprint through the dust in search of anything to distract them from their endless pain. The [[Colossus|Colossi]], towering warforged [[Host|Hosts]] too vast to maintain, chose to bury themselves deep in the earth, whispering down into the bedrock to escape the guilt of their deeds.
 
 Weather engines, untethered from any network, continue to shape microclimates with eerie precision: square miles of snowfall under a summer sun, static-choked thunderstorms that never end, winds that reverse by the hour. [[Cryogenic Capsule]]s still lie buried, their occupants—generals, saboteurs, tacticians—awaiting a war that ended long ago.
 
