@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Worldbuilding/Locations/Draumheim.md",
+                "file": "Obsidian Vault/Worldbuilding/Characters/Gods/Ashur-Namta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Draumheim"
+              "title": "Ashur-Namta"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/Worldbuilding/Locations/Draumheim.md",
+                "file": "Obsidian Vault/Worldbuilding/Characters/Gods/Ashur-Namta.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Draumheim"
+              "title": "Outline of Ashur-Namta"
             }
           }
         ],
@@ -164,8 +164,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77242d2a6153b421",
+  "active": "806be1348c37cf52",
   "lastOpenFiles": [
+    "Obsidian Vault/Worldbuilding/Characters/Stalradic/Obzidon.md",
+    "Obsidian Vault/Worldbuilding/Characters/Stalradic/Halion Kal.md",
+    "Obsidian Vault/Worldbuilding/Characters/Urzithan/Lamensyat.md",
+    "Obsidian Vault/Worldbuilding/Characters/Urzithan/The Last Legion.md",
+    "Obsidian Vault/Worldbuilding/Characters/Gods/Khalumet.md",
+    "Obsidian Vault/Worldbuilding/Characters/Untitled.md",
+    "Obsidian Vault/Worldbuilding/Characters/Urzithan",
+    "Obsidian Vault/Worldbuilding/Characters/Stalradic",
+    "Obsidian Vault/Worldbuilding/Locations/Draumheim.md",
     "Obsidian Vault/Worldbuilding/Characters/Gods/Ashur-Namta.md",
     "Obsidian Vault/Worldbuilding/Characters/Gods/Skofnildr.md",
     "Obsidian Vault/Worldbuilding/Characters/Gods/Urhat-Zel.md",
@@ -173,7 +182,6 @@
     "Obsidian Vault/Worldbuilding/Locations/Splint.md",
     "Obsidian Vault/Worldbuilding/Locations/Hospice.md",
     "Obsidian Vault/Worldbuilding/Locations/Great Desert.md",
-    "Obsidian Vault/Worldbuilding/Locations/Draumheim.md",
     "Obsidian Vault/Worldbuilding/Locations/Bar'duum.md",
     "Obsidian Vault/Worldbuilding/Factions/Vurum-Khal.md",
     "Obsidian Vault/Worldbuilding/Factions/Urzithan Concordat.md",
@@ -186,12 +194,6 @@
     "Obsidian Vault/Session Notes/Session 7 - Return to Hospice.md",
     "Obsidian Vault/Session Notes/Session 8 - Return to Hospice II.md",
     "Obsidian Vault/Session Notes/Session 2 - Forsyning.md",
-    "Obsidian Vault/Worldbuilding/Characters/Halion Kal.md",
-    "Obsidian Vault/Worldbuilding/Characters/Lamensyat.md",
-    "Obsidian Vault/Worldbuilding/Characters/Obzidon.md",
-    "Obsidian Vault/Worldbuilding/Characters/The Last Legion.md",
-    "Obsidian Vault/Worldbuilding/Characters/Untitled.md",
-    "Obsidian Vault/Worldbuilding/Characters/Gods/Khalumet.md",
     "Wonderdraft/Sundered.wonderdraft_map",
     "Wonderdraft",
     "Obsidian Vault/Worldbuilding/Images/Sunlancer.jpg",
@@ -210,8 +212,6 @@
     "Obsidian Vault/Worldbuilding/Conditions",
     "Obsidian Vault/Worldbuilding/Events",
     "Obsidian Vault/Worldbuilding/Magic",
-    "Obsidian Vault/Worldbuilding/Factions",
-    "Obsidian Vault/Worldbuilding/Locations",
     "Untitled.canvas"
   ]
 }

@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "32e6e7f0d70b2bd4",
+        "id": "1567ed90d9b9d1f2",
         "type": "tabs",
         "children": [
           {
-            "id": "215aa9bdb357c5a6",
+            "id": "1b166f47af2e7347",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Worldbuilding/Characters/Gods/Skofnildr.md",
-                "staged": false
+                "file": "GM Notes/Session 9 - The Ghost Train.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Skofnildr)"
+              "icon": "lucide-file",
+              "title": "Session 9 - The Ghost Train"
             }
           }
         ]
@@ -170,12 +181,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "215aa9bdb357c5a6",
+  "active": "1b166f47af2e7347",
   "lastOpenFiles": [
+    "GM Notes/Session 1 - Forsyning.md",
+    "GM Notes/Session 9 - The Ghost Train.md",
+    "GM Notes/Session 5 - The Defense.md",
+    "GM Notes/Session 2 - Forsyning & Hospice.md",
+    "GM Notes/Session 4 - Old Man's Village.md",
+    "GM Notes/Misc ideas.md",
     "Session Notes/Session 8 - Return to Hospice II.md",
+    "Session Notes/Session 7 - Return to Hospice.md",
     "Worldbuilding/Locations/Draumheim.md",
     "Worldbuilding/Locations/Kvernheim.md",
-    "Session Notes/Session 7 - Return to Hospice.md",
     "Worldbuilding/Characters/Gods/Skofnildr.md",
     "Session Notes/Session 6 - The Defence II.md",
     "Session Notes/Session 5 - The Defence.md",
@@ -192,12 +209,6 @@
     "Worldbuilding/Locations/Bongire Taiga.md",
     "Worldbuilding/Technology/Colossus.md",
     "Rules/Combat/Attacking.md",
-    "Worldbuilding/Metaphysics/Spirits/Celestial.md",
-    "Rules/Equipment/Encumbrance.md",
-    "Rules/Character/Attributes.md",
-    "Worldbuilding/Technology/Host.md",
-    "Rules/Classes/Arcane Traditions/Accursed.md",
-    "Worldbuilding/Characters/Player Characters/Sarra.md",
     "Worldbuilding/Images/SarraHuman.png",
     "Worldbuilding/Images/SarraBeast.png",
     "Worldbuilding/Images/Celestial.jpg",
