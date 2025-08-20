@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6f8e74c8764f9358",
+        "id": "50aed39ad8438596",
         "type": "tabs",
         "children": [
           {
-            "id": "e7177f6f24a17297",
+            "id": "dbdb9194a8763bcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,30 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "Session 10 - Draumheim"
-            }
-          },
-          {
-            "id": "b2eb17c8cc4db2e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worldbuilding/Factions/Stålråd.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Stålråd"
             }
           }
         ]
@@ -205,9 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7177f6f24a17297",
+  "active": "dbdb9194a8763bcf",
   "lastOpenFiles": [
     "Worldbuilding/Factions/Stålråd.md",
+    "Gorgoborymos.md",
     "GM Notes/Session 10 - Draumheim.md",
     "Worldbuilding/Factions/Eryndottirs.md",
     "GM Notes/Session 9 - The Ghost Train.md",
@@ -232,7 +209,6 @@
     "GM Notes/Session 1 - Forsyning.md",
     "GM Notes/Session 5 - The Defense.md",
     "GM Notes/Session 2 - Forsyning & Hospice.md",
-    "GM Notes/Session 4 - Old Man's Village.md",
     "Worldbuilding/Images/SarraHuman.png",
     "Worldbuilding/Images/SarraBeast.png",
     "Worldbuilding/Images/Celestial.jpg",
