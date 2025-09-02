@@ -7,9 +7,9 @@ Those aware of the past tend to split the calendar into two time periods; Before
 **6.2 BE:** The Stålråd find and detonate the [[Leyline|Leylines]], ruining [[Magic#Arcane|Arcane magic]].
 **4 BE:** The Urzithans make a deal with [[Gorgoborymos]] to create the [[Bloodwake]], allowing [[Fiend|Devils]] to pour forth and take over [[Eberhar]].
 **3 BE:** The Stålråd unleash the [[Colossus|Titans]], who manage to pull [[Light's Dawn]] from the sky before abandoning their mission at [[Finality]].
-**1.11 BE:** The [[Triumvirate]] give Skofnildr a novel energy device they built themselves. This drives him insane and allows them to join the war in earnest, devastating the Stålråd.
-**1.8 BE:** The Stalrad enact [[Operation Oblivion]], annihilating every other civilization on the planet to deprive the Triumvirate of power.
-**0 AE:** The war ends.
-**0.2 AE:** The Stalrad High Command escape to the moon, ready to awaken when all is clear.
-**0.4 AE:** Urzithan elites escape to the heavens of the Triumvirate through a portal at Exile, a maximum security Urzithan prison, awaiting the day when the Sunlancer breaks them free.
+**0.6 BE:** The [[Triumvirate]] give Skofnildr a novel energy device they built themselves. This drives him insane and allows them to join the war in earnest, devastating the Stålråd.
+**0.4 BE:** The Stalrad enact [[Operation Oblivion]], annihilating every other civilization on the planet to deprive the Triumvirate of power.
+**1 AE:** The war ends.
+**1.2 AE:** The Stalrad High Command escape to the moon, ready to awaken when all is clear.
+**1.4 AE:** Urzithan elites escape to the heavens of the Triumvirate through a portal at Exile, a maximum security Urzithan prison, awaiting the day when the Sunlancer breaks them free.
 **104 AE:** The game begins.
