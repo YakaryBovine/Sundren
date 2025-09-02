@@ -27,9 +27,15 @@ The players will try to access an observatory in the wilderness. This Stalrad ob
 	2. Download the full identity pass of the Chief Medical Officer (Program DC14)
 3. Maintenance bay
 	1. Very greasy floors
+	2. Has a whole pile of basic, random equipment you might want to use
+	3. A hovertrike; a three-wheeled hover bike with repulsorlift pads. Can glide over things. Uses Type B Power Cells for charge.
 4. Dormitory quarters
+	1. Contains some basic logs about the activities here
 5. Water reclamation & life support
+	1. Can be used to repressurize the atmosphere
 6. Security station
+	1. Can be used to override the lockdown with a DC14 program check
+	2. Has a land mine under the chief security officer's desk
 7. Astronomy workshop
 	1. Fully powered
 	2. Power can be diverted away via a terminal
