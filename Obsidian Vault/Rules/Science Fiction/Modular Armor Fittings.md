@@ -7,21 +7,22 @@ In most post-apocalyptic settings, the fittings listed below can only be acquire
 | TL5        | N/A              |
 ## Fitting descriptions
 ### Ablative Meteor Shielding
-Ablative foam and signal mutators are combined with personal-scale grav dampers to allow the user to make stealthy orbital insertions. They can jump from a ship’s airlock or cargo hold to hit within 1d100 meters of a desired target point below. They are invisible to TL3 sensors, and apply a -3 penalty to any TL4 sensor skill checks to notice the insertion. The shielding is then inoperable until the next maintenance.
+Ablative foam and signal mutators are combined with personal-scale grav dampers to allow the user to make stealthy orbital insertions. They can jump from a ship’s airlock or cargo hold to hit within 1d100 meters of a desired target point below. They are invisible to TL3 sensors, and apply a -3 penalty to any TL4 sensor [[Skill Checks|skill checks]] to notice the insertion. The shielding is then inoperable until the next maintenance.
 ### Aquatic Adaptation Suite
 The suit is altered to function in liquid environments, allowing three-dimensional movement at the user’s normal move rate, indefinite breathing time underwater, and immunity to environmental pressure down to roughly 1,000 meters. Integrated optics allow vision out to 90 meters even in the absence of light, and any mounted weapons are modified to function normally underwater.
 ### Assault Charge Servos
-Once per scene, as a Move action, move triple your normal move rating. While using it, you can move past melee-armed enemies freely without needing to make a Fighting Withdrawal.
+Once per scene, as a [[Action Types#Main Actions|Move action]], move triple your normal move rating. While using it, you can move past melee-armed enemies freely without needing to make a [[Common Combat Actions#Make a Fighting Withdrawal - Main Action|Fighting Withdrawal]].
 ### Backseat Driver Mod
 A built-in autonav unit allows the user to nominate a particular location; if the user is rendered unconscious or incapacitated, the suit will automatically use their actions to move back to the location, navigating most physical obstacles with its built-in expert system. Emergency SOS transmissions and location transmissions can be keyed to allies in this instance, and the suit can be redirected toward a nearby ally if they know its user-set command word.  
 The suit can even be triggered to return to a point when it is completely empty, if its user decides to send it back. More than 15 points of damage done to the suit on its way will incapacitate it until the next maintenance cycle.
 ### Black Ofuda
-This jailbreak coprocessor must be permanently integrated with a Tsukumogami Processor in a process that takes one day and a successful Int/Program skill check against difficulty 10. On a failure, both are ruined. On a success, the Tsukumogami Processor can now use its Main Action to fire suit weapons, take a bonus physical action, or cause the suit to move as with a Move Action.  
+This jailbreak coprocessor must be permanently integrated with a Tsukumogami Processor in a process that takes one day and a successful Int/Program [[Skill Checks|skill check]] against difficulty 10. On a failure, both are ruined. On a success, the Tsukumogami Processor can now use its [[Action Types#Main Actions|Move action]] to fire suit weapons, take a bonus physical action, or cause the suit to move as with a Move Action.  
+
 The Tsukumogami Processor’s commands to the suit cannot be overridden by the wearer, however, and VIs jailbroken by this fitting often acquire a very strong-willed personality to go with their new freedom. An “empty” suit piloted only by a VI is treated as having 15 hit points plus any Soak it may have, +6 attack bonus, a save of 14+, and a Move of 10m. If hit points are fully depleted, the suit is inoperable until the next maintenance.
 ### Brainguard Cap
 The suit automatically alerts its wearer when they are targeted by a telepathic effect, though the source is not indicated. Any Mental saves against psychic powers can be rolled twice, and the better one taken. This fitting does not function for a psychic wearer.
 ### Breacher Fist
-As a Main Action, an arm-mounted demo unit allows the wearer to blast a human-sized hole in an adjacent wall up to one meter thick, provided it’s not made of TL4 military fortification material or the like. The fist is too unwieldy to serve as a weapon against mobile targets, but if used against an immobile person, object, or vehicle it does damage as a demo charge.
+As a [[Action Types#Main Actions|Main Action]], an arm-mounted demo unit allows the wearer to blast a human-sized hole in an adjacent wall up to one meter thick, provided it’s not made of TL4 military fortification material or the like. The fist is too unwieldy to serve as a weapon against mobile targets, but if used against an immobile person, object, or vehicle it does damage as a demo charge.
 ### Camo Skin, Advanced
 As Basic Camo Skin, but the chromatic projectors are much more precise and fluid in their cloaking. The +2 bonus applies to any Stealth check at any range.
 ### Camo Skin, Basic
@@ -33,10 +34,10 @@ Advanced comm tech provides the benefits of a basic suite, but increases the ran
 ### Comm Suite, Basic
 A helmet-mounted radio and heads-up display allow for free communication with others within short-range radio distance of 2 kilometers or so. The suit can transmit and receive video data on command.
 ### Deployable Force Shield
-As a Main Action, the user can throw down a translucent force shield within 3 meters. The shield is 3m x 3m in size, must have at least one edge resting on the ground, and counts as hard cover. It has 20 hit points but only heavy weapons can damage it quickly enough to matter in a fight. It lasts for the rest of the scene, until deactivated as an On Turn action, or until the user uses this fitting again.  
+As a [[Action Types#Main Actions|Move action]], the user can throw down a translucent force shield within 3 meters. The shield is 3m x 3m in size, must have at least one edge resting on the ground, and counts as hard cover. It has 20 hit points but only heavy weapons can damage it quickly enough to matter in a fight. It lasts for the rest of the scene, until deactivated as an On Turn action, or until the user uses this fitting again.  
 If the shield is deployed more than once in a scene, roll 1d6 before it’s deployed; on a 5+, the fitting is drained for the rest of the scene and does not trigger.
 ### Drone Mount
-This mount allows a single man-portable drone supplied by the user to be affixed to the suit with ten minutes of work. The suit user can operate the drone out to its usual range, but gains a bonus Main Action each round that can only be used to command the drone. If this fitting is taken more than once, each mount grants its own Main Action bonus for its drone only.
+This mount allows a single man-portable drone supplied by the user to be affixed to the suit with ten minutes of work. The suit user can operate the drone out to its usual range, but gains a bonus [[Action Types#Main Actions|Move action]] each round that can only be used to command the drone. If this fitting is taken more than once, each mount grants its own Main Action bonus for its drone only.
 ### ECM Projector
 When activated as an On Turn action, broad-spectrum electronic countermeasures eliminate any non-allied TL3 or lower radio communication or remote control within a 300 meter radius. The projector can be run for up to 30 minutes before requiring an equal amount of time to recalibrate.
 ### Efficiency Core, Advanced
@@ -54,9 +55,9 @@ As Basic Exoskeletal Boost, but their effective Strength modifier is +3, and all
 ### Exoskeletal Boost, Basic
 While wearing the armor, the user’s effective Strength score is 18 for purposes of Encumbrance or ability modifiers.
 ### Exoskeletal Boost, Pretech
-As Advanced Exoskeletal Boost, but their effective Strength is 22 for Encumbrance purposes and they can lift, bend, or break any unarmored object no larger than a compact car as a Main Action.
+As Advanced Exoskeletal Boost, but their effective Strength is 22 for Encumbrance purposes and they can lift, bend, or break any unarmored object no larger than a compact car as a [[Action Types#Main Actions|Move action]].
 ### Finger of Death
-As a Main Action, the user can target an organic subject within 10 meters with an invisible beam of high-energy radiation. The emitter is subtle, and only someone familiar with this fitting would recognize its use.  
+As a [[Action Types#Main Actions|Move action]], the user can target an organic subject within 10 meters with an invisible beam of high-energy radiation. The emitter is subtle, and only someone familiar with this fitting would recognize its use.  
 If the user hits with the beam, the target will receive a lethal dose of radiation. In the absence of TL4 medical attention or radiation shielding equal to a vacc suit or better, the target will die within 48 hours after exhibiting the signs of radiation poisoning.  
 Each time this fitting is used, roll 1d6; on a 1, the user is exposed as well, despite any anti-rad fittings the suit may have.
 ### Floodlights
