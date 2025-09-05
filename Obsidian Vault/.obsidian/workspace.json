@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8df95d68d70b35e9",
+        "id": "dc1a83be11e30cfa",
         "type": "tabs",
         "children": [
           {
-            "id": "e1b435c7d572c47e",
+            "id": "217bea1a2ccced21",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Obsidian Vault/Rules/Science Fiction/Modular Armor Fittings.md",
+                "file": "Obsidian Vault/.obsidian/workspace.json",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (Modular Armor Fittings)"
+              "title": "Diff View (workspace.json)"
             }
           }
         ]
@@ -171,11 +171,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1b435c7d572c47e",
+  "active": "217bea1a2ccced21",
   "lastOpenFiles": [
     "Rules/Science Fiction/Modular Power Armor.md",
-    "Rules/Science Fiction/Modular Armor Frames.md",
+    "Rules/Core/Character/Skill Checks.md",
     "Rules/Science Fiction/Modular Armor Fittings.md",
+    "Rules/Science Fiction/Modular Armor Frames.md",
     "Rules/Fantasy/Developing New Spells.md",
     "Rules/Core/Other/Major Projects.md",
     "Rules/Core/Other",
@@ -203,7 +204,6 @@
     "Session Notes/Session 3 - Hospice.md",
     "Session Notes/Session 4 - Hospice and Travel.md",
     "Session Notes/Session 5 - The Defence.md",
-    "Session Notes/Session 6 - The Defence II.md",
     "Worldbuilding/Images/SarraHuman.png",
     "Worldbuilding/Images/SarraBeast.png",
     "Worldbuilding/Images/Celestial.jpg",
