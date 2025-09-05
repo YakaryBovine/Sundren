@@ -65,6 +65,86 @@ The suit is equipped with brilliantly bright floodlights that can clearly illumi
 ### Ghost Walker Field
 As an On Turn action, the user becomes invisible and inaudible to unaided senses and typical TL4 sensors. If someone knows their general location, melee attacks can be made against them at -4 to hit, but ranged attacks are futile.  
 The field is fragile and will break if the user runs, attacks, or makes other sharp motions; psychic ability use also disrupts the circuits. The field lasts up to 15 minutes, but requires a 15 minute recharge period after it drops.
+### Gravitic Flight Struts
+Miniaturized grav units allow the user to fly at their normal movement rate. This flight can be used freely for up to fifteen minutes, but it takes fifteen minutes of downtime for the capacitors to recharge after the use ends.
+### Gravitic Fold Flight
+Pretech distortion generators allow the user to fly freely at twice their normal movement rate. This flight may be used indefinitely.
+### Hydraulic Jump Dampers
+The user ignores the first hundred meters of fall damage and always lands on their feet.
+### Identification Lock
+The suit is programmed with a user restriction, making it inoperable to anyone not on its whitelist. Resetting the lock is an Int/Fix or Int/Program skill check against difficulty 12 that takes one day. Unauthorized uninstallation requires an Int/Fix skill check against difficulty 12; failure slags the suit.
+### Integral Ripper Bar
+A chainsaw-like suit attachment allows the user to cut a man-sized hole in any non-metallic, non-fortified barrier as a Main Action. If used as a weapon, it uses Str/Dex as attributes, does 3d6 damage, Shock of 2/18, and a d8/x4 Trauma Rating. As it is unwieldy, however, it applies a -3 penalty to hit.
+### Integrated Ammo Feed
+The suit can be loaded with up to 10 Encumbrance of physical ammunition and will load it into any Readied weapon the user wields as an On Turn action. This fitting can be installed more than once.
+### Jump Jets
+Short-range thrusters allow the user to leap up to 30 meters horizontally or vertically as a Move action. Falls of 30 meters or less are ignored. This fitting cannot be used on two consecutive rounds.
+### Kinetic Rebuke Shielding
+When attacked by someone within 5 meters, a counterburst of high-energy particles strikes them for 3d8 damage before their attack is resolved, with an Evasion save for half. This shielding can trigger only once per round.
+### Linked Targeting System
+A specific weapon mount is associated with this fitting, and can be changed at each maintenance cycle. Whenever the user makes an attack with another weapon, they may also attack with this weapon, targeting the same or a different target. This fitting may be installed more than once, but each one after the first adds a cumulative +1 Mass and Power to the cost.
+### Multispectral Optics
+Full-color vision and a thermal overlay is possible out to normal sight range, regardless of smoke, mist, or darkness.
+### Neural Buffer
+This sophisticated pretech fitting is usable only by psychics. When installed, it grants 2 bonus points of Effort that only recover once per 24 hours, even if a power used would normally return them after a scene or after a durational power is ended.
+### Night Vision Sensors
+Basic monochrome night vision is enabled out to one hundred meters.
+### Onboard Medical Unit
+Up to a dozen doses of pharmaceuticals can be loaded into this unit and administered as an On Turn action by the wearer, either to himself or to an adjacent ally. Only one dose can be applied per round, and the onboard computer has a functional Heal-1 skill if the user’s isn’t higher. The unit counts as a medkit for relevant needs.
+### Pathfinder Bridging System
+A compact extensible bridging unit may be deployed adjacent to the suit as an On Turn action. The unit can extend up to 20 meters and is one meter wide; it can function as a bridge capable of carrying the weight of a dozen modular suits at once or as a ladder. Adhesion pads at either end make it impossible to knock away unless 15 points of damage are done to it, or 30 points to break the bridge itself. The bridge can be reclaimed with five minutes of work. If not recovered, this fitting is unusable until after the next maintenance.
+### Plague Wind Generator
+As a Main Action, the user triggers a cloud of nerve gas in a 5-meter radius around them. All air-breathing subjects within that range take 6d6 damage, with a save for half—this includes the user, if their suit does not have sealed systems. This system can only be triggered once between maintenance cycles.
+### Plating Optimization
+This fitting decreases plating AC by 2 and halves Soak, rounded up, but decreases the Mass and Power requirements of the other fittings on the suit. It has no effect on suits without plating.
+### Plating, Advanced
+Grants the user AC 20, Soak 25, +2 Trauma Target, and immunity to Shock. They cannot be harmed by TL3 or lower weapons. Only one plating fitting can be installed on a suit at once.
+### Plating, Basic
+Grants the user AC 18, Soak 20, +1 Trauma Target, and immunity to Shock. They cannot be harmed by TL3 or lower weapons. Only one plating fitting can be installed on a suit at once.
+### Plating, Improvised
+Grants the user AC 16, Soak 15, and +1 Trauma Target. They cannot be harmed by TL2 or lower weapons. Only one plating fitting can be installed on a suit at once.
+### Plating Pretech
+Grants the user AC 22, Soak 30, +2 Trauma Target, and they can only be Trauma’d by weapons that could inflict Trauma on a vehicle. They are immune to Shock and TL3 or lower weapons. Only one plating fitting can be installed on a suit at once.
+### QECM Projector
+As an ECM Projector fitting, but it has a 500 meter radius and affects TL4 comms and any non-line-of-sight remote control. Nuclear detonations or other dangerous fission reactions fizzle harmlessly within this area.
+### Reactive Antipersonnel Armor
+As a Main Action, trigger surface-mount shrapnel bursters to inflict 3d8 damage on all subjects within 5 meters of you, with an Evasion save for half. Reloading it requires five minutes and a handful of easily-acquired metal scrap.
+### Regenerative Force Field
+The suit projects a skin-tight defensive force shield that keeps out dangerous energies and high-speed physical threats. The suit’s Soak score is increased by 10 points.
+### Ricochet Field
+A limited-range grav redirection field can be triggered as a Main Action, forming a translucent 2x2 meter shield in front of the user that moves with them. Any physical bullets, shrapnel, or other material projectiles aimed at them from the front force a Dex/Shoot skill check at difficulty 9; on a failure, the bullet is deflected; non-directed projectiles such as grenade shrapnel are automatically redirected. Maintaining the field requires a Move action each round, and when dropped, the field cannot be triggered again for a half-hour.
+### Sealed Systems, Advanced
+The user is immune to toxic gases, and the suit shielding nullifies any level of radiation that wouldn’t instantly kill a person. The suit provides oxygen and thermal protection adequate for deep space or underwater operation for as long as the suit’s power lasts.
+### Sealed Systems, Basic
+Dangerous gases and radiation of an intensity less than one save per minute are both filtered by the suit, though it doesn’t provide its own oxygen.
+### Short-Range Warp Capacitor
+As an On Turn action, the user can teleport up to 30 meters to a visible location, along with anything they are carrying. Each time this fitting is used after the first in a scene, roll 1d6; on a 3 or less, it fails and will not function for the rest of the scene.
+### Skysweeper Laser System
+A back-mounted anti-air laser system is programmed to torch incoming hostile objects. Once per round, the laser automatically melts or disables the first grenade, artillery shell, mortar round, or other large ballistic missile that would hit the user or include them in its blast radius. The munition might explode, but it will do so too far away to harm the user. The laser can’t effectively target powered drones or other flying objects that do not obey simple ballistics.
+### Smokethrower
+As an On Turn action, trigger surface-mounted smoke projectors to create a 5-meter-radius cloud around the user. Helmet optics allow clear sight through this specific smoke mix. Shrouded creatures cannot be targeted by ranged attacks and apply a -4 penalty to any melee attacks against them. The cloud persists for 1d6+1 rounds, and can be used only once per scene.
+### Storm Reinforcement
+Multiple ablative units and grav buffers minimize the damage of glancing projectiles. The user can ignore Suppressive Fire, though they can be targeted directly as usual.
+### Stun Skin
+An electrical mesh on the surface of the fitting will shock anyone who grapples or makes an unarmed attack against the user, inflicting 2d6 non-lethal electrical damage after each successful unarmed hit or each round of grappling.
+### Target Lock Processor
+As a Move action, the user can nominate a target within visible range. They gain a +4 bonus to hit that target while the lock is maintained. It can be ended as an On Turn action; only one target can be locked at a time.
+### Thermal Ablative Layer
+Advanced cooling systems cut all incoming fire damage in half before defenses are applied, and negate smoke inhalation dangers or any fire damage source of 10 HP or less. Plasma and laser weapons are not affected by this fitting.
+### Trauma Stabilizer Unit
+Built-in medical systems automatically stabilize the user when they are reduced to zero hit points. This system will not trigger if the downing blow was a Traumatic Hit or some unsurvivable injury.
+### Tsukumogami Processor
+The suit is integrated with a companion virtual intelligence. While not a full-fledged True AI, the VI is by all measures as intelligent and flexible as a normal human being. Most are programmed to be helpful adjuncts to their suit’s user. The processor gets a bonus Main Action every round that can only be used to perform non-physical actions or trigger a suit system. For safety reasons, it cannot operate the suit’s weaponry or compel it to move. It has a +3 skill bonus for any skill checks related to suit operation or military matters.
+### Wallcrawler Anchors
+Micro-scale gravitic manipulators allow the user to climb sheer surfaces and overhangs provided they could bear an unarmored human’s weight. This movement is done at the user’s normal Move rate, but does require at least one hand free.
+### Weapon Mount, Advanced
+As a Basic Weapon Mount, but man-portable heavy weapons may also be integrated, and slugthrowers have four built-in magazines. The integration bonus is +3 to hit rolls and damage.
+### Weapon Mount, Basic
+A single one or two-handed non-heavy melee or ranged weapon can be integrated into or removed from this mount with a day’s work. Once installed, energy weapons have effectively unlimited ammo, and slugthrowers have two built-in magazines. Both of these built-in magazines can be reloaded as a single Main Action by the user. Integrated targeting systems give mounted weapons a +2 to hit and damage rolls, but not Shock. Weapon Mount fittings can be mounted more than once on a suit, Mass and Power permitting.
+### Weapon Mount, Heavy
+A single vehicle-mounted heavy weapon can be mounted on the suit. Energy weapons have effectively unlimited ammo, while slugthrowers or missile launchers have three full magazines built in, which can all be reloaded as a single Main Action. Weapons that normally require a bipod or prepared firing position can be mounted. The weapon must be small enough to plausibly be mounted on a technical or small truck. Integrated firing calculators grant the weapon a +3 bonus to hit.
+### Weasel Probe
+A ferret-sized probe unit is connected to the suit by a fiber-optic control cable. The user can move it at up to 20 meters per round as a Move action, out to a 200-meter maximum range. The probe relays sound and vision to the user, has a built-in voice transmitter for the user’s speech, and has optics that can see in the dark. The unit has a +2 skill bonus for Stealth check purposes and can travel across any surface a ferret could. It has an AC of 15 and 4 hit points; it goes inert if the cable is cut. If destroyed, this fitting is useless until the next maintenance cycle.
 ## Fitting table
 
 | Fitting                      | TL  | Mass | Pwr |
