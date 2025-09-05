@@ -13,11 +13,11 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Obsidian Vault/.obsidian/workspace.json",
+                "file": "Obsidian Vault/Rules/Science Fiction/Modular Armor Frames.md",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "title": "Diff View (Modular Armor Frames)"
             }
           }
         ]
@@ -173,10 +173,10 @@
   },
   "active": "217bea1a2ccced21",
   "lastOpenFiles": [
-    "Rules/Science Fiction/Modular Power Armor.md",
-    "Rules/Core/Character/Skill Checks.md",
-    "Rules/Science Fiction/Modular Armor Fittings.md",
     "Rules/Science Fiction/Modular Armor Frames.md",
+    "Rules/Science Fiction/Modular Power Armor.md",
+    "Rules/Science Fiction/Modular Armor Fittings.md",
+    "Rules/Core/Character/Skill Checks.md",
     "Rules/Fantasy/Developing New Spells.md",
     "Rules/Core/Other/Major Projects.md",
     "Rules/Core/Other",
