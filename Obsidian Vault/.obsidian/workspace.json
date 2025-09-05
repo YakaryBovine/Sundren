@@ -11,10 +11,24 @@
             "id": "f5575967e3f71111",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Science Fiction/Modular Power Armor.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Modular Power Armor"
             }
           }
         ]
@@ -70,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,12 +182,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80c75e904dcb1f4",
+  "active": "f5575967e3f71111",
   "lastOpenFiles": [
-    "The Last War.md",
-    "Rules/Science Fiction/Modular Power Armor.md",
-    "Rules/Science Fiction/Modular Armor Frames.md",
     "Rules/Science Fiction/Modular Armor Fittings.md",
+    "Rules/Science Fiction/Modular Armor Frames.md",
+    "Rules/Science Fiction/Modular Power Armor.md",
+    "Rules/Core/Character/Saving Throws.md",
+    "Rules/Core/Character/Injury, Healing, and System Strain.md",
+    "Rules/Core/Character/Effort.md",
+    "Rules/Core/Character/Attributes.md",
+    "The Last War.md",
     "Rules/Core/Character/Skill Checks.md",
     "Rules/Fantasy/Developing New Spells.md",
     "Rules/Core/Other/Major Projects.md",
@@ -198,10 +215,6 @@
     "Worldbuilding/Meta",
     "Untitled.md",
     "Gorgoborymos.md",
-    "Session Notes/Session 2 - Forsyning.md",
-    "Session Notes/Session 1 - Forsyning.md",
-    "Session Notes/Session 3 - Hospice.md",
-    "Session Notes/Session 4 - Hospice and Travel.md",
     "Worldbuilding/Images/SarraHuman.png",
     "Worldbuilding/Images/SarraBeast.png",
     "Worldbuilding/Images/Celestial.jpg",

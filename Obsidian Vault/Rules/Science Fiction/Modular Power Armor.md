@@ -16,7 +16,7 @@ Almost all armor frames have a Plating [[Modular Armor Fittings|fitting]] instal
 ## Modular armor training
 Operating modular armor is a much more complex process than simply strapping it on. Learning how to handle objects without accidentally crushing them or how to calibrate a suit to a specific user’s physical dimensions takes time and practice. It’s possible that some ex-military PCs may already have this training as part of their background, but others need to spend time with the suit to learn how to use it correctly.
 
-If a student has a trainer familiar with modular armor use, it takes five hours of time in the suit to pick up the necessary basics. Without a trainer, it takes ten hours. This practice time can be expected to eat a lot of Type B power cells if the suit’s not equipped with a good *Efficiency Core* [[Modular Armor Fittings|fitting]].
+If a student has a trainer familiar with modular armor use, it takes five hours of time in the suit to pick up the necessary basics. Without a trainer, it takes ten hours. This practice time can be expected to eat a lot of Type B power cells if the suit’s not equipped with a good [[Modular Armor Fittings#Efficiency Core, Basic|Efficiency Core]] [[Modular Armor Fittings|fitting]].
 
 An untrained user is constantly fighting the suit. Any [[Attacking#Attack Rolls|attack rolls]], [[Saving Throws|saving throws]], or [[Skill Checks|skill checks]] they make are rolled twice, and the worst roll is used.
 ## Wearing and transporting armor
