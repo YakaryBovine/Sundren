@@ -4,7 +4,7 @@ The first usage of modular power armor took place among the corporate states, to
 
 The expense of building these suits militated against over-specialization, and so the designers focused on developing a basic framework that could accept swappable specialized components to handle any mission. While never terribly popular on the frontier worlds, which could seldom muster the technical resources to maintain the suits, numerous core worlds and Old Terra itself were well stocked with these suits.
 
-Amid the chaos of the Scream, most modular armor was destroyed in the fighting or cannibalized to keep other suits running as long as possible. In the centuries since, these suits have become seldom-found treasures for enterprising scavengers or ambitious raider lords. Even those who find an operable suit are hard pressed to keep it running, but for as long as these artifacts keep working their fearsome power is a weapon in their wielder’s hand.
+Amid the chaos of [[The Last War]], most modular armor was destroyed in the fighting or cannibalized to keep other suits running as long as possible. In the centuries since, these suits have become seldom-found treasures for enterprising scavengers or ambitious raider lords. Even those who find an operable suit are hard pressed to keep it running, but for as long as these artifacts keep working their fearsome power is a weapon in their wielder’s hand.
 ## Frames and fittings
 Modular armor is built around a base [[Modular Armor Frames|frame]]. This frame is skeletal in nature, cannot be worn over other armor, and provides no particular benefits to the wearer. Only after specialized modular armor [[Modular Armor Fittings|fittings]] are added to it does it grant any special advantages.
 
