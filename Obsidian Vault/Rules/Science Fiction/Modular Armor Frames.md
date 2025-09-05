@@ -1,4 +1,16 @@
-The frames listed here are some those in use by the [[Stålråd]] during [[The Last War]]. Prototypes and limited-run versions doubtless exist in isolated bunkers and forgotten labs. They can be scavenged from ruins or received as a rich reward from a grateful patron.
+The frames listed here are some those in use by the [[Stålråd]] during [[The Last War]]. Prototypes and limited-run versions doubtless exist in isolated bunkers and forgotten labs. They can be scavenged from ruins or received as a rich reward from a grateful patron. Silver costs are provided as a frame of reference.
+
+| Frame       | Mass | Power | Silver Cost |
+| ----------- | ---- | ----- | ----------- |
+| Scrap Frame | 4    | 4     | 25,000      |
+| Centurion   | 7    | 6     | 100,000     |
+| Red Banner  | 7    | 9     | 200,000     |
+| Culverin    | 8    | 8     | 300,000     |
+| Praetorian  | 9    | 9     | 500,000     |
+| Thunderbolt | 11   | 8     | 1,000,000   |
+| Executor    | 13   | 11    | N/A         |
+| Long Rifle  | 7    | 8     | N/A         |
+| Tarnkappe   | 10   | 10    | N/A         |
 ## Frame models
 Some of the models below have specific fittings integrated into the frame. Such integrated hardware costs no Mass or Power, and cannot be damaged unless the frame itself is destroyed.
 ### Scrap frame
