@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dc1a83be11e30cfa",
+        "id": "dbfac690c3fdff1f",
         "type": "tabs",
         "children": [
           {
-            "id": "217bea1a2ccced21",
+            "id": "cb5c8fcd3636f282",
             "type": "leaf",
             "state": {
               "type": "diff-view",
@@ -171,7 +171,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "217bea1a2ccced21",
+  "active": "d80c75e904dcb1f4",
   "lastOpenFiles": [
     "Rules/Science Fiction/Modular Armor Frames.md",
     "Rules/Science Fiction/Modular Power Armor.md",
