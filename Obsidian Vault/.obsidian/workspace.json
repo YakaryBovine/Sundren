@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Notes/Session 11 - Overcoat.md",
+                "file": "Rules/Core/Other/Major Projects.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 11 - Overcoat"
+              "title": "Major Projects"
             }
           }
         ]
@@ -182,10 +182,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1b435c7d572c47e",
+  "active": "77242d2a6153b421",
   "lastOpenFiles": [
-    "Rules/Equipment/Weapons.md",
+    "Rules/Core/Other",
+    "Rules/Fantasy/Magical Workings.md",
+    "Rules/Core/Other/Major Projects.md",
     "GM Notes/Session 11 - Overcoat.md",
+    "Rules/Fantasy",
+    "Rules/Science Fiction",
+    "Rules/Core",
+    "Rules/Core/Equipment/Weapons.md",
     "Worldbuilding/Events/Operation Oblivion.md",
     "Worldbuilding/Events/Anathema Doctrine.md",
     "Worldbuilding/Meta/Timeline.md",
@@ -208,9 +214,6 @@
     "Session Notes/Session 7 - Return to Hospice.md",
     "Session Notes/Session 8 - Return to Hospice II.md",
     "Worldbuilding/Factions/Stålråd.md",
-    "Worldbuilding/Factions/Eryndottirs.md",
-    "GM Notes/Misc ideas.md",
-    "Worldbuilding/Characters/Stalradic/Haldren Vekk.md",
     "Worldbuilding/Images/SarraHuman.png",
     "Worldbuilding/Images/SarraBeast.png",
     "Worldbuilding/Images/Celestial.jpg",
@@ -221,15 +224,12 @@
     "Worldbuilding/Documents",
     "Worldbuilding/Metaphysics/Spirits",
     "Session Notes/Untitled",
-    "Session Notes",
     "Worldbuilding/Images/Host.jpg",
     "Worldbuilding/Images/HalionKal.jpg",
     "Worldbuilding/Images/Fiend.jpg",
     "Worldbuilding/Images/Fey.jpg",
     "Worldbuilding/Images/Barduum.jpg",
     "Untitled.canvas",
-    "Worldbuilding/Locations/Geography",
-    "Obsidian Vault/Worldbuilding/Images/Warforged.jpg",
-    "Obsidian Vault/Worldbuilding/Technology"
+    "Obsidian Vault/Worldbuilding/Images/Warforged.jpg"
   ]
 }
