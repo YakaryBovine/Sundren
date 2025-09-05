@@ -30,7 +30,7 @@ A user trapped in a depowered suit can blow the emergency releases as a Main Act
 
 A wearer can turn their suit’s power on or off as an [[Action Types#On Turn action|on turn action]]. This is done occasionally when the user is wearing the suit while being transported to an operation zone.
 ## Maintaining modular armor
-Modular armor needs extensive maintenance by a skilled technician to keep it functioning properly. Despite the extremely advanced pre-tech science available to the Mandate, it was thought most prudent to leave these maintenance requirements in place to limit the dangers of a wayward suit being hijacked by rebels or malcontents.
+Modular armor needs extensive maintenance by a skilled technician to keep it functioning properly. Despite the advanced technology available to the [[Stålråd]], it was thought most prudent to leave these maintenance requirements in place to limit the dangers of a wayward suit being hijacked by rebels or malcontents.
 
 A suit needs a half-hour of maintenance after every full power cycle of use. Thus, if a suit with an *Advanced Efficiency Core* can operate for eight hours on a Type B cell, it would need a half-hour of maintenance after eight hours of use.
 

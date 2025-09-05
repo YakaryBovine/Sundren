@@ -11,10 +11,24 @@
             "id": "10c6f6f77645b859",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Science Fiction/Modular Armor Frames.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Modular Armor Frames"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mule",
+                "query": "MAndate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,11 +183,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d80c75e904dcb1f4",
+  "active": "10c6f6f77645b859",
   "lastOpenFiles": [
-    "Rules/Science Fiction/Modular Armor Fittings.md",
-    "Rules/Science Fiction/Modular Armor Frames.md",
     "Rules/Science Fiction/Modular Power Armor.md",
+    "Rules/Science Fiction/Modular Armor Frames.md",
+    "Rules/Science Fiction/Modular Armor Fittings.md",
     "Rules/Core/Character/Skill Checks.md",
     "Rules/Fantasy/Developing New Spells.md",
     "Rules/Core/Other/Major Projects.md",
