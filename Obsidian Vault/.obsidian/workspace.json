@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b51703c98c6d6cbd",
+        "id": "1ced9215a6a5e841",
         "type": "tabs",
         "children": [
           {
-            "id": "f5575967e3f71111",
+            "id": "8236db932726d469",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Obsidian Vault/Rules/Science Fiction/Modular Armor Fittings.md",
+                "file": "Obsidian Vault/GM Notes/Session 13 - The Factory.md",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (Modular Armor Fittings)"
+              "title": "Diff View (Session 13 - The Factory)"
             }
           }
         ]
@@ -171,19 +171,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5575967e3f71111",
+  "active": "8236db932726d469",
   "lastOpenFiles": [
+    "GM Notes/Session 13 - The Factory.md",
+    "GM Notes/Session 11 - Overcoat.md",
+    "Session Notes/Session 8 - Return to Hospice II.md",
+    "Session Notes/Session 6 - The Defence II.md",
+    "Session Notes/Session 7 - Return to Hospice.md",
+    "GM Notes/Session 2 - Forsyning & Hospice.md",
+    "GM Notes/Session 9 - The Ghost Train.md",
+    "GM Notes/Session 10 - Draumheim.md",
+    "GM Notes/Session 5 - The Defense.md",
     "Rules/Science Fiction/Modular Armor Fittings.md",
     "Rules/Science Fiction/Modular Armor Frames.md",
     "Rules/Science Fiction/Modular Power Armor.md",
-    "Session Notes/Session 8 - Return to Hospice II.md",
     "Session Notes/Session 2 - Forsyning.md",
     "Session Notes/Session 1 - Forsyning.md",
     "Session Notes/Session 3 - Hospice.md",
     "Session Notes/Session 4 - Hospice and Travel.md",
     "Session Notes/Session 5 - The Defence.md",
-    "Session Notes/Session 6 - The Defence II.md",
-    "Session Notes/Session 7 - Return to Hospice.md",
     "Rules/Core/Character/Saving Throws.md",
     "Rules/Core/Character/Injury, Healing, and System Strain.md",
     "Rules/Core/Character/Effort.md",
@@ -194,15 +200,9 @@
     "Rules/Core/Other/Major Projects.md",
     "Rules/Core/Other",
     "Rules/Fantasy/Magical Workings.md",
-    "GM Notes/Session 11 - Overcoat.md",
     "Rules/Fantasy",
     "Rules/Science Fiction",
     "Rules/Core",
-    "Rules/Core/Equipment/Weapons.md",
-    "Worldbuilding/Events/Operation Oblivion.md",
-    "Worldbuilding/Events/Anathema Doctrine.md",
-    "Worldbuilding/Meta/Timeline.md",
-    "GM Notes/Session 10 - Draumheim.md",
     "Worldbuilding/Meta",
     "Worldbuilding/Images/SarraHuman.png",
     "Worldbuilding/Images/SarraBeast.png",
