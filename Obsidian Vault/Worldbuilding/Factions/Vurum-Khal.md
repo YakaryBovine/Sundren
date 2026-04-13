@@ -6,4 +6,4 @@ Infected by the Disease of Abundance, the Collectors enjoy immortality and unpar
 
 The Collectors are valuable traders, paying handsomely for anything that can replace their lost limbs. They seek out healthy flesh, magical artifacts, and cybernetic enhancements, believing that these relics can replace what time has taken from them. A fresh corpse or an advanced prosthetic is worth far more in Hospice than it is in any other settlement in [[The Dredge|the Dredge]].
 
-For those brave enough to enter Hospice, the Collectors offer a rare opportunity for barter—but always at a cost. Trade with them is not as simple as exchanging goods; it is a sacred transaction, a ritual that is binding and often strange. The Collectors are immortal, and they need little from the living—yet they continue to seek, trade, and grow in their own way, always hungry for new parts, new life, and new meaning.
+For those brave enough to enter Hospice, the Collectors offer a rare opportunity for barter, but always at a cost. Trade with them is not as simple as exchanging goods; it is a sacred transaction, a ritual that is binding and often strange.

@@ -4,7 +4,7 @@
 
 Urhat-Zel is the Urzithan God of mercy, transformation through suffering, and the renewal of the self through pain or absolution. They are worshiped as the patron of defenders, martyrs, reformers, and those who have fallen from grace but strive to rise again. They walk beside the dying, kneel with the condemned, and linger in prisons and execution grounds, listening for the moment when guilt turns to growth.
 
-While their name is spoken in courts of law and prisons, they are equally revered in battlefields and sickbeds. Their mercy is not comfort—it is challenge. Mercy, to Urhat-Zel, is the offer of a harder road: to become better than what suffering has made you.
+While their name is spoken in courts of law and prisons, they are equally revered in battlefields and sickbeds. Mercy, to Urhat-Zel, is the offer of a harder road: to become better than what suffering has made you.
 ## Appearance and myth
 Urhat-Zel appears in myths as a battered, proto-human figure with countless scars, often weeping openly or bearing the injuries of others. In one of his most sacred tales, he is born from the death of a woman who consumed poison berries, too early in history to have language to call for help. In her pain and silence, Urhat-Zel steps forth, crying, and eases her into death. He is born not of cruelty, but of suffering unanswered.
 
