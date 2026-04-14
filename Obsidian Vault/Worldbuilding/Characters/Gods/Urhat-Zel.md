@@ -1,5 +1,3 @@
-(a.k.a. He Who Rebuilds the Broken)
-
 >A heavy-browed, thick-limbed proto-human stumbles through the forest, clutching helplessly at her chest, trying desperately to pull the pain out. She made the wrong choice, ate the wrong berry, and now she suffers. The berry's toxins run rampant through her nervous system, and soon she is paralyzed. In her mind, her blood is filed with boiling oil and her skin is torn from her flesh. She hopes that a wolf will arrive to tear out her throat. She tries to beg for death, but her species hasn't yet learned the words. It doesn't matter. In that moment, Urhat-Zel is born, stepping forth from unreality to grip the girl's throat. She dies staring into into the eyes of a crying God, and is granted relief. 
 
 Urhat-Zel is the Urzithan God of mercy, transformation through suffering, and the renewal of the self through pain or absolution. He is worshiped as the patron of defenders, martyrs, reformers, and those who have fallen from grace but strive to rise again. He walks beside the dying, kneel with the condemned, and linger in prisons and execution grounds, listening for the moment when guilt turns to growth.
