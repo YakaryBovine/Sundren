@@ -1,0 +1,11 @@
+The gallipede is a massive, multi-legged creature. The [[Stålråd]] engineered the first gallipedes in the early stages of [[The Last War]], when tunnel collapses, magical interference, and hostile weather made mechanical transport systems unreliable. Gallipedes, by contrast, could reproduce naturally, seek out their own food, and keep themselves alive.
+
+Grown in nutrient vats, early gallipedes were made to burrow through ruined terrain, dragging Stålråd supplies through the earth. Their bodies are long and segmented, with dozens of thick legs covered under armored flanks. A solid, shovel-like skull allows them to push through collapsed compacted dirt, and a ridged spine gives them stability when pulling heavy objects over uneven terrain. Gallipedes are blind; they instead have feathery vibration feelers, capable of reading seismic shifts and motion.
+
+Gallipedes are obedient by design. Domesticated specimens imprint on handlers at birth, forming loyalty bonds that persist even through trauma or neglect. They respond only to subtle tactile signals - a communication method that allowed handlers to communicate with them without risk of detection during wartime.
+## Diet
+Their diet is wide-ranging. A gallipede can chew through roots, fungi, carcasses, and even rocks. They can go for weeks without feeding when exertion is minimal, and recover quickly from injury provided they have time to burrow and rest.
+## In [[The Dredge]]
+In the dying days of the Last War, many gallipede broods escaped or were abandoned. Over the last century, they have bred freely in deep cave systems and ruined supply depots. Wild strains have diverged from their original design - some growing far larger, some adopting more independent behaviours. But the core traits remain: endurance, loyalty when trained, and an  eerie silence in motion.
+
+Today, gallipedes are a common sight among long-range caravans and wasteland traders. Strong enough to carry an armored rider and a week’s supplies, careful enough to cross a collapsing bridge, the utility of the gallipede cannot be overstated.

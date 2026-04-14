@@ -1,0 +1,5 @@
+When a [[Spirit]]'s first discovery in the [[Material Plane]] is a particular instance of an elemental force, such as a stream or a volcano, that Spirit becomes deeply attached to that instance and declares it their home. The Spirit will immediately manifest into the Material Plane and take on a physical form that best reflects their elemental discovery. For instance, a Spirit that discovers a volcano will become a Lava Elemental, while a Spirit that discovers a cave will become an Earth Elemental. Once an Elemental manifests, it is rooted in the Material Plane until its physical form is destroyed.   
+
+Each Elemental is fiercely protective of its home, and will stop at nothing to ensure that it is preserved against destruction. For the most part, however, Elementals do not need to act at all. Natural processes tend not to be a threat to be an Elemental's home, so it is only mortals or other Spirits that need to be protected against. There is no hard limit to the number of Elementals that can manifest around a given home, though Spirits will tend to gravitate towards less occupied ones.
+
+![[Elemental.png]]

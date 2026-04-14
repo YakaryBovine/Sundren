@@ -1,0 +1,5 @@
+Ashur-Namta is the [[Urzithan Concordat|Urzithan]] [[God|deity]] of Flourishing Amidst Grief and Abundance in Desolation. They preside over the cracked soil and dry sands from which life sprouts in spite. Usually depicted as feminine, they are invoked by those who toil with in scarcity to achieve greatness.
+
+In the early centuries of Urzithan expansion, Ashur-Namta was a minor deity, called upon mostly in failed harvests and bitter summers. But as the Urzithan people began to flourish in the [[Great Desert]] in defiance of its natural challenges, their cult rose in prominence. When the Concordat itself was formed, Ashur-Namta became part of its official [[Triumvirate]].
+
+During [[The Dredge]], they were worshiped by many desert traders, scavengers, and survivalists, but none more devoutly than the [[Vurum-Khal]] of [[Hospice]], who infect themselves with the Disease of Abundance; a holy affliction that grants eternal durability at great expense.
