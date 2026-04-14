@@ -1,0 +1,9 @@
+Sandbox gameplay is a tabletop gaming niche that not everyone enjoys, but for some, it will be a breath of fresh air. In this sandbox, the players establish a party with a set of shared goals and motivations to be pursued in the Sundered universe.
+
+Then, I'll present you a hex map of the Sundered world.
+
+For the first session, you'll be tackling a premade challenge, just to introduce you to the world and give me the opportunity to drop some information about the world. Then, at the end of every session, you'll be looking at your shared goal, deciding how best to accomplish it, and moving to the relevant location on the hex map to do what you want to do.
+
+For example, if you've chosen to play as a newly established kingdom, your party might hear rumours during the first session that the independent village in the south is being constantly assailed by wolves they can't deal with. So, at the end of that session, you might tell me that next time you want to go to that village to offer your help in exchange for that submission. I'll then consult my notes and prepare a session or two based on your interactions with that village and those wolves. Once you've dealt with the problem and have the village under your thumb, it'll be time to look at your goals again and choose a new course of action.
+
+It's vital that players get a kick out of coming up with plans, executing them, and seeing the fruits of their decision making. The sandbox will not appeal to anyone who needs a strong guiding hand to become invested. By and large, adventures won't come to you, nor will they always be lying around to just be found. Adventures will be the result of you pursuing your chosen goals. Still, the world will be as alive as I can make it, and as you make waves, forces other than you will begin throwing wrenches into your plans.

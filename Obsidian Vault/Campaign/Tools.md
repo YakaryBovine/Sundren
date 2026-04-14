@@ -1,0 +1,1 @@
+We’ll be using [Dicecloud](http://dicecloud.com/)  to manage our characters, so you’ll need to create an account on the website and have a phone, tablet, or laptop to access it while playing. Dicecloud is a tool for managing an automated character sheet, similar to the DnD Beyond app for Dungeons and Dragons.
