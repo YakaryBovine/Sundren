@@ -1,0 +1,18 @@
+**Events**
+1. The party is called to a ritual meeting in [[Hospice#The Offering Skin|the Offering Skin]]. Their group is placed within a circular area alongside Barnoldus' own, together facing three circles each representing a Collector house, in particular those of [[Sabit]], [[Dagon]], and [[Osmir]].
+2. They are expected to engage in ritual trade, and it is assumed that they know the rules. The party makes a fool of themselves but just barely compensate for it with tales of their impressive deeds, and are able to make an acceptable trade. In exchange for their treasure trove of [[Screamer]] limbs, they receive:
+	1. A longsword emblazoned with [[Khalumet]]'s concentric circles.
+	2. A jade skull that, when reanimated, can be used to control mundane items.
+	3. A first-class, unlimited-use ticket to the [[Valdishal Grand Line]].
+	4. 3600 [[Urzithan Concordat|Urzithan]] denomination silver.
+3. After the ceremony, they purchase a number of miscellaneous goods, weapons, and armour, as well as a second [[Gallipede]], [[Ted]], to complement [[Bill]].
+4. The party sets out for the location where they are told the Valdishal Grand Line train will arrive. The location is barren and run down, and the train tracks are barely visible underneath layers of dirt.
+5. Suddenly a train arrives at a screaming pace. Morning gives way to night, the train emits an iron screech moments after it's already stopped, and it upheaves a pile of dirt in its wake. Cyan fog drapes the area around the train.
+6. A four-meter tall, screen-faced [[Skofnildr|conductor]] rustling with metal trinkets in his immense snowy beard emerges from the front carriage and begins clunking towards the other end. The party walk alongside him and offer their unlimited first-class pass. He helps them board the front carriage and places their animals in the center carriage.
+7. [[Gilgamesh]] inadvertently reveals that the party is carrying a nuclear power core. The Conductor asks for it, conceals it within his beard for a moment, then carries it to the rear of the train to deposit it within the highly armored carriage one from the now-rear end.
+8. The party board the first class carriage, which is seated with upper-class [[Stålråd]] passengers chatting away in their own language. The party sit in the only area free for them. [[Lilith]] uses her spectral sight to note the unusually left-shifted life energies of the inhabitants, and observes that their *own* energies are veering towards a similar strangeness.
+9. The conductor delivers his welcome message across the train's vox. He says that the journey will take one hour and that he expects everyone to enjoy the journey, but that he himself will be living a nightmare as always. The train accelerates to an incredible pace.
+10. [[Gilgamesh]] gets up from his seat and investigates five more carriages down the train. He sees that this far down the carriages are no longer first-class. It takes him about one minute to cross a carriage at a leisurely pace, and he observes that there are sixty carriages.
+11. Gilgamesh returns to his party's seating area in first class. Around twelve minutes have elapsed by this point.
+12. The party hear a sudden pop from the back of the train, then feel a surge of force, and finally feel nothing as their bodies, the train, and the entire surrounding landscape is annihilated in nuclear fire.
+13. Then they wake up with a jolt and a painful shock to their psyches. The Conductor repeats his welcome message, and the train accelerates again.
