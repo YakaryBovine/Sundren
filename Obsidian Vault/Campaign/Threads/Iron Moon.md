@@ -1,0 +1,1 @@
+Once awoken from his madness, Skofnildr showed you what lay on the dark side of the moon: the Stålråd high command, still dormant from the Last War.

@@ -1,0 +1,3 @@
+You once mentioned to Sabit the possibility of the Stålråd having their own God, and she alluded to a "fucking weird cult" in the Great Desert that you would be interested in. You took no notice.
+
+Soren Veyndahl, on behalf of the Eryndottirs, sent you to investigate an abandoned Stålråd factory for profane works. Underneath it you found a branch of the Fourth Sect, a cult dedicated to the worship of the unwilling God of Rejecting Divinity for Mundane Trinkets, Skofnildr. There, you found the mechanism by which Skofnildr was defeated by the Triumvirate: the construction and gift of a completely mundane trinket by divine hands, built with assistance by the Stålråd branch of the Fourth Sect.

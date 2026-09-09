@@ -1,0 +1,1 @@
+The hatred the Stålråd and the Solassian Concordat held for each other culminated in a conflict that destroyed the world. You're interested in knowing if there is any way to resolve their fundamental ideological differences, so that those who come after could live in a world with both magic and high technology.

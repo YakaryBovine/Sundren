@@ -1,4 +1,4 @@
-The players will dive deep into [[Skofnildr]]'s beard. They'll start falling to their deaths if they go in without their parachute. Once they land, they'll be in the ring of a massive pit, filled to the brim with technology.
+The players will dive deep into [[Worldbuilding/Characters/Gods/Skofnildr]]'s beard. They'll start falling to their deaths if they go in without their parachute. Once they land, they'll be in the ring of a massive pit, filled to the brim with technology.
 
 In the center is a crater, where the fidget toy they're looking for fell and destroyed the surrounding trinkets. The crater is 4800 kilometres away, so they'll need to use the 200km/h hovertrike to get there. They will face many challenges along the way, none combat related.
 ## 0. Skofnildr's attention

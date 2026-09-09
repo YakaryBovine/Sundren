@@ -1,0 +1,3 @@
+Dagon, a member of the Vurum-Khal primarily interested in trading religious and profane artifacts, has repeatedly asked you to retrieve for him The Devil's Hand, an artifact that would grant him immense power. He believes it resides somewhere in the crashed Urzithan capital of Light's Dawn. In exchange, he would offer you his entire House, representing an immense wealth and his share of control over Hospice.
+
+You have, so far, not taken an interest in fulfilling Dagon's request.

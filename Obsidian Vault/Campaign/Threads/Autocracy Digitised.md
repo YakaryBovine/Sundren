@@ -1,0 +1,5 @@
+Within Forsyning Supply Depot D, you found a pristine metallic disc sleeved in an incredibly durable case.
+
+You had Sabit grant you Gunn's services to find out what the disc was for; he inserted it into an ancient CRT television, and it initiated a series of rapidly flashing images. Gilgamesh stared directly into the television during its presentation, but afterwards could recall little of what he'd seen.
+
+When you gained Soren Veyndahl's trust, he revealed to you the purpose of the disc: to test the viewer's loyalty to Stålråd ideals and, upon detecting perfect loyalty, to induct the viewer as a member of the Deep State - the secret autocrats of the Stålråd with complete legal and digital authority over its members. He also told you that he wants a copy of the disc, and you chose not to tell him you already had one.

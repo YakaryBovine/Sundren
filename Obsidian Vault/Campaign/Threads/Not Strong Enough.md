@@ -1,0 +1,1 @@
+A trio of Earth Elementals known as Koom'durg have met you twice, once in Hospice and once in the Shattered Expanse, and on both occasions told you you were "not strong enough" to assist them in their unspoken quest.

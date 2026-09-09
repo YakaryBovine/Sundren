@@ -1,0 +1,3 @@
+You learned about the Bloodwake, a blood-soaked region of Draumheim swarming with demons and devils. It originates from the Hellmaw and flows all the way to Eberhar. In the north, you were beset by a gang of Draugr, former Stålråd soldiers who signed their souls away to Gorgoborymos, the Archdevil of Fratricide, in exchange for their lives.
+
+In your journey back to the Valdishal Grand Line, you traversed the Bloodwake. You were beset by heinous Devils and horrific Demons, culminating in an encounter with Hroth Vaelor, Lord of Desecrated Thresholds. Sarra gave her life to protect you, and Gilgamesh went his own way to shepherd a community of rescued slaves from the Bloodwake.

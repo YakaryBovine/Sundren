@@ -16,7 +16,7 @@ KNOW YOUR PLACE
 - Fights with allies. Any attempt to damage the allies damages the God instead. When the God is staggered, exposed wiring in his neck is revealed. Attacking the wiring resets the fight. Fixing it is a win
 ## [[Ashur-Namta]] fight
 - The fight takes place on a pillar surrounded by darkness. Abundance fights, and is sometimes inclined to try throw a player off. Getting all players AND Abundance off wins the fight, as Desolation has occurred
-## [[Skofnildr]] fight
+## [[Worldbuilding/Characters/Gods/Skofnildr]] fight
 SKOFNILDR. GOD OF REJECTING DIVINITY FOR PETTY TRINKETS
 - Simply gift him the trinket
 
