@@ -1,0 +1,3 @@
+Before your first delve into Forsyning, you encountered a group of rainbow-robed spellcasters on the opposite side of the Sunlancer-hewn tunnel. They teleported somewhere before you had any chance to engage them.
+
+Sabit told you of a settlement to the northwest of Hospice, named Splint, which is built into a deep chasm. She said the mages of Splint have exposed a crystalline Leyline within the planet, and mine it to produce a snortable powder which grants them incredible arcane powers.
